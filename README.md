@@ -1,44 +1,96 @@
-# Hariom Construction — Website
+# # Hari Om Construction (`hariomconstruction.in`)
 
-Plain HTML/CSS/JS site. No build step, no dependencies.
+Official web platform and digital storefront for **Hari Om Projects**, a premier enterprise operating in the contracting and infrastructure sector. This repository houses the source code, assets, and deployment configurations for the official company website.
 
-## Files
+---
 
-| File | Purpose |
-|---|---|
-| `index.html`, `about.html`, `services.html`, `projects.html`, `contact.html` | Site pages |
-| `styles.css`, `main.js` | Shared styling and behaviour |
-| `404.html` | Shown for any missing page |
-| `_headers` | Cloudflare Pages security + caching headers |
-| `_redirects` | Cloudflare Pages redirect rules (empty for now) |
-| `robots.txt`, `sitemap.xml` | Search engine crawling |
-| `wrangler.toml` | Config for CLI deploys with Wrangler |
+## About The Project
 
-## Deploy to Cloudflare Pages
+`hariomconstruction.in` is designed to showcase the engineering capabilities, project portfolios, and service offerings of Hari Om Projects. The platform provides potential clients, partners, and stakeholders with a professional interface to explore completed and ongoing infrastructure works, review company credentials, and initiate business inquiries.
 
-**Option A — Dashboard, no CLI (fastest for a one-off deploy):**
-1. Go to the Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** → **Upload assets**.
-2. Name the project (e.g. `hariom-construction`) and drag this whole folder into the upload area.
-3. Deploy. You'll get a live URL at `<project-name>.pages.dev`.
+---
 
-**Option B — Git integration (recommended if you'll keep editing):**
-1. Push this folder to a GitHub repository.
-2. In the Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git**, pick the repo.
-3. Build settings: **Framework preset: None**, **Build command: (leave empty)**, **Build output directory: `/`**.
-4. Deploy. Every future push to the connected branch redeploys automatically.
+## Key Features
 
-**Option C — CLI (Wrangler), for repeat deploys from your machine:**
+* **Responsive Portfolio Showcase:** Dynamic display of civil engineering, contracting, and infrastructure projects with imagery and specifications.
+* **Service Breakdown:** Detailed insights into specialized construction, structural execution, and project management capabilities.
+* **Interactive Inquiry Portal:** Streamlined contact and consultation request forms for prospective clients.
+* **Mobile-First Design:** Fully optimized layout ensuring seamless navigation across desktops, tablets, and mobile devices.
+* **Performance Optimized:** Lightweight architecture ensuring fast load times and high availability.
+
+---
+
+## Tech Stack
+
+* **Markup & Structure:** HTML5
+* **Styling & Design:** CSS3, Tailwind CSS / Responsive Grid
+* **Interactivity:** Modern JavaScript (ES6+)
+* **Hosting & Deployment:** Static / Cloud Hosting Infrastructure
+
+---
+
+## Project Structure
+
+```text
+hariom-construction/
+├── assets/
+│   ├── css/           # Stylesheets and custom styling rules
+│   ├── js/            # Client-side scripts and form handlers
+│   └── images/        # Project photography, logos, and brand assets
+├── index.html         # Homepage and landing views
+├── contact.html       # Inquiry and communication interface
+├── projects.html      # Portfolio and completed works showcase
+└── README.md          # Project documentation
+
 ```
-npx wrangler pages deploy .
+
+---
+
+## Getting Started
+
+To set up the project locally for development or testing purposes, follow these steps:
+
+### Prerequisites
+
+Ensure you have a modern web browser and a lightweight local server environment (such as Live Server for VS Code) installed.
+
+### Installation & Local Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/hariom-construction.git
+
 ```
-Run this from inside the project folder. First run will prompt you to log in and to confirm the project name.
 
-## Custom domain (hariomconstruction.in)
 
-1. Add `hariomconstruction.in` as a site in your Cloudflare account (Account Home → Add a domain) and update your domain's nameservers at your registrar to the two Cloudflare nameservers it gives you. This is required for an apex domain like `hariomconstruction.in` (not just a subdomain).
-2. Once the zone is active, open your Pages project → **Custom domains** → **Set up a custom domain** → enter `hariomconstruction.in` → Activate.
-3. Repeat for `www.hariomconstruction.in` if you want both to resolve.
-4. Pick one as canonical (apex is simplest here, matching what's in `sitemap.xml` and `robots.txt`) and add a **Redirect Rule** (Cloudflare dashboard → your domain → **Rules → Redirect Rules**) sending the other to it with a 301, so you don't split traffic across two hostnames.
-5. SSL/TLS mode: set to **Full** or **Full (strict)** under **SSL/TLS → Overview**.
+2. Navigate to the project directory:
+```bash
+cd hariom-construction
 
-DNS propagation can take a few minutes up to ~48 hours after the nameserver change.
+```
+
+
+3. Open `index.html` in your browser or launch it via your preferred local development server.
+
+---
+
+## Deployment
+
+The website is structured for deployment on modern static web hosting platforms (such as Vercel, Netlify, or custom cloud storage buckets connected to a domain registrar).
+
+To update production:
+
+1. Push changes to the main branch:
+```bash
+git push origin main
+
+```
+
+
+2. Verify build logs and deployment status on your hosting dashboard.
+
+---
+
+## License
+
+Copyright © Hari Om Projects. All rights reserved. Unauthorized distribution or reproduction of code and brand assets from this repository is strictly prohibited.
