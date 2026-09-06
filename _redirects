@@ -1,0 +1,7 @@
+# Cloudflare Pages redirects.
+# One rule per line: <source-path> <destination-path> <status-code>
+# Example:
+# /home  /  301
+#
+# Nothing needed yet — add rules here if you rename or remove a page later,
+# so old links don't break.
