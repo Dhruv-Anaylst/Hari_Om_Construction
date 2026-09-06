@@ -93,4 +93,4 @@ git push origin main
 
 ## License
 
-Copyright © Hari Om Projects. All rights reserved. Unauthorized distribution or reproduction of code and brand assets from this repository is strictly prohibited.
+Copyright © Hari Om Constructions. All rights reserved. Unauthorized distribution or reproduction of code and brand assets from this repository is strictly prohibited.
