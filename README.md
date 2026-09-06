@@ -1,4 +1,4 @@
-# # Hari Om Construction (`hariomconstruction.in`)
+# Hari Om Construction (`hariomconstruction.in`)
 
 Official web platform and digital storefront for **Hari Om Projects**, a premier enterprise operating in the contracting and infrastructure sector. This repository houses the source code, assets, and deployment configurations for the official company website.
 
