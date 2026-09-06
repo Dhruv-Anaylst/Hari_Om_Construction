@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
         message
       ].join('\n');
 
-      var mailto = 'mailto:info@hariomconstruction.in'
+      var mailto = 'mailto:work@hariomconstruction.in'
         + '?subject=' + encodeURIComponent('Website enquiry from ' + name)
         + '&body=' + encodeURIComponent(body);
 
