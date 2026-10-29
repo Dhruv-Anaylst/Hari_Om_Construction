@@ -2,9 +2,9 @@
   "use strict";
   var STORAGE_KEY="hariom-office-workspace-v1";
   var view="overview";
-  var labels={overview:"Overview",projects:"Projects",estimates:"Estimates",diary:"Site diary",attendance:"Attendance"};
-  var actionLabels={overview:"＋ New project",projects:"＋ New project",estimates:"＋ New estimate",diary:"＋ New site report",attendance:"＋ Mark attendance"};
-  var quickActions={overview:"add-project",projects:"add-project",estimates:"add-estimates",diary:"add-diary",attendance:"add-attendance"};
+  var labels={overview:"Overview",projects:"Projects",estimates:"Estimates",diary:"Site diary",attendance:"Attendance",pdf:"PDF Studio",portals:"Official portals"};
+  var actionLabels={overview:"＋ New project",projects:"＋ New project",estimates:"＋ New estimate",diary:"＋ New site report",attendance:"＋ Mark attendance",pdf:"",portals:""};
+  var quickActions={overview:"add-project",projects:"add-project",estimates:"add-estimates",diary:"add-diary",attendance:"add-attendance",pdf:"",portals:""};
   var state=loadState();
   var content=document.getElementById("office-content");
   var modalRoot=document.getElementById("modal-root");
@@ -50,8 +50,11 @@
     view=next;
     document.querySelectorAll(".side-link").forEach(function(button){button.classList.toggle("active",button.getAttribute("data-view")===view);});
     document.getElementById("view-label").textContent=labels[view];
-    actionButton.textContent=actionLabels[view];
-    actionButton.setAttribute("data-action",quickActions[view]);
+    actionButton.hidden=!quickActions[view];
+    if(quickActions[view]){
+      actionButton.textContent=actionLabels[view];
+      actionButton.setAttribute("data-action",quickActions[view]);
+    }
     render();
   }
   function heading(kicker,title,subtitle,buttonLabel,buttonAction){
@@ -122,8 +125,41 @@
       "<div class='toolbar'><span class='filter-count'>"+present+" present · "+state.attendance.length+" total records</span><button class='quiet-button' data-action='export-attendance'>↓ Export CSV</button></div>"+
       (rows?"<section class='record-list'><div class='record-head'><span>Person / role</span><span>Project</span><span>Date</span><span>Status</span></div>"+rows+"</section>":"<section class='panel'>"+empty("No attendance recorded","Add a person and attendance status to start today's register.")+"</section>");
   }
+  function renderPdfStudio(){
+    return heading("DOCUMENT TOOLS","PDF Studio","Merge, rotate, extract pages and add a text stamp.","","")+ 
+      "<div class='pdf-privacy-callout'><span>✓</span><p><strong>Your PDFs stay on this device.</strong> Editing runs in your browser; files are not uploaded to Hari Om.</p></div>"+
+      "<section class='pdf-workspace panel'><div class='pdf-workspace-head'><div><h2>Choose your documents</h2><p>Select one PDF to edit, or multiple PDFs to combine in the order selected.</p></div><label class='primary-button pdf-select-button' for='pdf-files'>＋ Select PDF files</label><input class='pdf-file-input' id='pdf-files' type='file' accept='.pdf,application/pdf' multiple></div>"+
+      "<div class='pdf-editor-grid'><div class='pdf-controls'><div class='pdf-selected-files' id='pdf-file-list'><strong>No PDFs selected</strong><small>Choose files to see their names and sizes here.</small></div>"+
+      "<label class='pdf-field'>Text stamp <input id='pdf-stamp-text' type='text' maxlength='80' placeholder='e.g. HARI OM CONSTRUCTION'></label>"+
+      "<label class='pdf-field'>Pages to extract <input id='pdf-page-range' type='text' placeholder='e.g. 1, 3-5'><small>Use page numbers from the first selected PDF.</small></label>"+
+      "<div class='pdf-action-list'><button class='secondary-button' type='button' data-pdf-action='merge'>Merge selected PDFs</button><button class='quiet-button' type='button' data-pdf-action='rotate'>Rotate first PDF 90°</button><button class='quiet-button' type='button' data-pdf-action='stamp'>Add text stamp to first PDF</button><button class='quiet-button' type='button' data-pdf-action='extract'>Extract selected pages</button></div>"+
+      "<div class='pdf-status' id='pdf-status' role='status' aria-live='polite'>Choose a PDF to begin.</div><p class='pdf-limit-note'>Password-protected PDFs may not open. Scanned pages remain images; this tool does not perform OCR.</p></div>"+
+      "<div class='pdf-preview-panel'><div class='panel-head'><h2>Preview</h2><span id='pdf-preview-name'>No file selected</span></div><iframe class='pdf-preview' id='pdf-preview' title='PDF preview' hidden></iframe><div class='pdf-preview-empty' id='pdf-preview-empty'>Choose a PDF to preview it here.</div></div></div></section>"+
+      "<div class='pdf-feature-grid'><article class='summary-card'><div class='summary-top'><span>Combine</span><span class='summary-icon'>＋</span></div><div class='summary-note'>Join selected PDFs into one file.</div></article><article class='summary-card'><div class='summary-top'><span>Rotate</span><span class='summary-icon'>↻</span></div><div class='summary-note'>Turn every page in the first selected PDF.</div></article><article class='summary-card'><div class='summary-top'><span>Extract &amp; stamp</span><span class='summary-icon'>▤</span></div><div class='summary-note'>Keep chosen pages or add a text footer to each page.</div></article></div>";
+  }
+  function renderPortals(){
+    var portals=[
+      ["TAX & INVOICING","GST Portal","GST registration, returns and taxpayer services.","https://www.gst.gov.in/"],
+      ["TAX & INVOICING","e-Way Bill System","Generate and manage goods movement e-way bills.","https://ewaybillgst.gov.in/"],
+      ["TAX & INVOICING","e-Invoice System","GST e-invoice services through the NIC portal.","https://einvoice1.gst.gov.in/"],
+      ["TAX & INVOICING","Income Tax e-Filing","Income tax returns, forms and taxpayer services.","https://www.incometax.gov.in/iec/foportal/"],
+      ["BUSINESS","Ministry of Corporate Affairs","MCA21 company and LLP filings and services.","https://www.mca.gov.in/"],
+      ["PEOPLE & LABOUR","EPFO Employer Portal","Employer sign-in and provident fund services.","https://unifiedportal-emp.epfindia.gov.in/epfo/"],
+      ["PEOPLE & LABOUR","ESIC Services","Employees’ State Insurance employer and employee services.","https://www.esic.gov.in/"],
+      ["PEOPLE & LABOUR","Shram Suvidha","Labour registrations, licensing and returns.","https://registration.shramsuvidha.gov.in/"],
+      ["TENDERS","Government e-Marketplace","GeM buying, selling and public procurement services.","https://gem.gov.in/"],
+      ["TENDERS","Central Public Procurement Portal","Search central government tenders and e-procurement notices.","https://eprocure.gov.in/cppp/"],
+      ["BUSINESS","Udyam Registration","Official MSME registration and enterprise services.","https://udyamregistration.gov.in/"],
+      ["OFFICE APPS","Microsoft 365","Word, Excel, PowerPoint, Outlook and OneDrive on the web.","https://www.microsoft365.com/"]
+    ];
+    var cards=portals.map(function(item){return "<article class='portal-card' data-portal-card><div class='portal-card-top'><span class='portal-category'>"+esc(item[0])+"</span><span class='portal-arrow'>↗</span></div><h2>"+esc(item[1])+"</h2><p>"+esc(item[2])+"</p><a href='"+esc(item[3])+"' target='_blank' rel='noopener noreferrer'>Open official site ↗</a></article>";}).join("");
+    return heading("SOFTWARE DIRECTORY","Official portals & office apps","Quick links for tax, labour, tenders and daily office work.","","")+ 
+      "<div class='portal-security-note'><strong>These are shortcuts, not copies of government services.</strong><span>Sign in and enter OTPs only on the official website shown in the address bar.</span></div>"+
+      "<div class='toolbar portal-toolbar'><span class='filter-count'>"+portals.length+" official links</span><div class='search-box'><input id='portal-search' type='search' placeholder='Search portals or apps'></div></div>"+
+      "<div class='portal-grid'>"+cards+"</div>";
+  }
   function render(){
-    var screens={overview:renderOverview,projects:renderProjects,estimates:renderEstimates,diary:renderDiary,attendance:renderAttendance};
+    var screens={overview:renderOverview,projects:renderProjects,estimates:renderEstimates,diary:renderDiary,attendance:renderAttendance,pdf:renderPdfStudio,portals:renderPortals};
     content.innerHTML=screens[view]();
   }
   function openModal(title,body,wide){
@@ -314,6 +350,10 @@
     if(event.target.id==="project-search"){
       var query=event.target.value.toLowerCase();
       content.querySelectorAll(".project-card").forEach(function(card){card.hidden=!card.textContent.toLowerCase().includes(query);});
+    }
+    if(event.target.id==="portal-search"){
+      var portalQuery=event.target.value.toLowerCase();
+      content.querySelectorAll("[data-portal-card]").forEach(function(card){card.hidden=!card.textContent.toLowerCase().includes(portalQuery);});
     }
   });
   render();
