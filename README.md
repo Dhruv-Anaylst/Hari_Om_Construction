@@ -5,7 +5,7 @@ Public website and office workspace for Hari Om Construction.
 ## Pages
 
 - index.html is the public website for hariomconstruction.in.
-- office/ is the separate office workspace intended for office.hariomconstruction.in.
+- office/ is the separate office workspace intended for tools.hariomconstruction.in. The existing office.hariomconstruction.in hostname is reserved for the Nextcloud tunnel.
 
 ## Office workspace
 
@@ -13,7 +13,7 @@ The portal includes a project register, estimate builder with GST totals and pri
 
 ## Cloudflare Pages
 
-The public site is connected to the Hari_Om_Construction GitHub repository and deploys from main. The office app can use the same repository with office as its Cloudflare Pages root directory. Point office.hariomconstruction.in at that Pages project after it is created.
+The public site is connected to the Hari_Om_Construction GitHub repository and deploys from main. The office app can use the same repository with office as its Cloudflare Pages root directory. Point tools.hariomconstruction.in at that Pages project after it is created.
 
 Open index.html and office/index.html directly for a local preview. No package installation or build command is required.
 
