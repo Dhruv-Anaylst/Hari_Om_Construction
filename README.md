@@ -9,10 +9,11 @@ Public website and office workspace for Hari Om Construction.
 
 ## Office workspace
 
-The portal includes a project register, estimate builder with GST totals and print-to-PDF, site diary, attendance, CSV exports, and JSON backup. It currently saves records in browser local storage. Data is separate on each device; there is no shared database, sign-in, or server backup yet.
+The portal includes a project register, estimate builder with GST totals and print-to-PDF, site diary, attendance, CSV exports, and JSON backup. PDF Studio can merge PDFs, rotate pages, extract page ranges, and add a text stamp in the browser. The Official Portals directory links to government services and Microsoft 365. PDF files are processed on the device; workspace records are saved in browser local storage. Data is separate on each device; there is no shared database, sign-in, or server backup yet.
 
 ## Cloudflare Pages
 
 The public site and the separate `hari-om-office-tools` Pages project are connected to the `Hari_Om_Construction` GitHub repository and deploy from `main`. The office project uses `office` as its root directory and serves at `tools.hariomconstruction.in`. The existing `office.hariomconstruction.in` hostname remains reserved for the Nextcloud tunnel.
 
 Open index.html and office/index.html directly for a local preview. No package installation or build command is required.
+
