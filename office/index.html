@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#102823">
+  <meta name="description" content="Hari Om Construction office workspace for projects, estimates, site reports and attendance.">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Office Workspace | Hari Om Construction</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="office.css">
+</head>
+<body class="office-app">
+  <aside class="sidebar">
+    <a class="office-brand" href="https://hariomconstruction.in">
+      <span class="brand-symbol"><i></i><i></i><i></i></span>
+      <span><strong>HARI OM</strong><small>OFFICE WORKSPACE</small></span>
+    </a>
+    <div class="side-label">WORKSPACE</div>
+    <nav class="side-nav" aria-label="Office workspace">
+      <button class="side-link active" data-view="overview"><span class="side-icon">◫</span>Overview</button>
+      <button class="side-link" data-view="projects"><span class="side-icon">▦</span>Projects</button>
+      <button class="side-link" data-view="estimates"><span class="side-icon">▤</span>Estimates</button>
+      <button class="side-link" data-view="diary"><span class="side-icon">▧</span>Site diary</button>
+      <button class="side-link" data-view="attendance"><span class="side-icon">◉</span>Attendance</button>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="storage-card"><span class="storage-dot"></span><div><strong>Browser workspace</strong><small>Saved on this device</small></div></div>
+      <button class="side-utility" data-action="export-backup"><span>↓</span> Download data backup</button>
+      <a class="back-site" href="https://hariomconstruction.in">← Back to hariomconstruction.in</a>
+    </div>
+  </aside>
+  <main class="office-main">
+    <header class="office-topbar">
+      <div class="breadcrumb"><span>HARI OM</span><i>/</i><strong id="view-label">Overview</strong></div>
+      <div class="topbar-right"><span class="today-label" id="today-label"></span><button class="topbar-action" id="top-action" data-action="add-project">＋ New project</button></div>
+    </header>
+    <section class="office-content" id="office-content" aria-live="polite"></section>
+    <footer class="office-footer"><span>HARI OM CONSTRUCTION</span><span>Office workspace · Data stored in this browser</span></footer>
+  </main>
+  <div id="modal-root"></div>
+  <script src="office.js"></script>
+</body>
+</html>
+
