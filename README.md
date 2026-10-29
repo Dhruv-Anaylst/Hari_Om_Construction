@@ -13,7 +13,6 @@ The portal includes a project register, estimate builder with GST totals and pri
 
 ## Cloudflare Pages
 
-The public site is connected to the Hari_Om_Construction GitHub repository and deploys from main. The office app can use the same repository with office as its Cloudflare Pages root directory. Point tools.hariomconstruction.in at that Pages project after it is created.
+The public site and the separate `hari-om-office-tools` Pages project are connected to the `Hari_Om_Construction` GitHub repository and deploy from `main`. The office project uses `office` as its root directory and serves at `tools.hariomconstruction.in`. The existing `office.hariomconstruction.in` hostname remains reserved for the Nextcloud tunnel.
 
 Open index.html and office/index.html directly for a local preview. No package installation or build command is required.
-
