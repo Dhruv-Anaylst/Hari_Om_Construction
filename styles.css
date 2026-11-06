@@ -272,7 +272,10 @@ body[data-page="contact"] .contact-detail a,body[data-page="contact"] .contact-d
 body[data-page="contact"] .form-grid label{font-size:12px;letter-spacing:.05em}
 body[data-page="contact"] .form-grid input,body[data-page="contact"] .form-grid select,body[data-page="contact"] .form-grid textarea{font-size:16px;padding:13px 0}
 body[data-page="contact"] .form-grid .button{font-size:13px}
+body[data-page="contact"] .enquiry-form label{font-size:12px;letter-spacing:.04em}
+body[data-page="contact"] .enquiry-form input,body[data-page="contact"] .enquiry-form select,body[data-page="contact"] .enquiry-form textarea{font:400 16px var(--sans);padding:13px 0}
 body[data-page="contact"] .form-note,body[data-page="contact"] .notice-box{font-size:13px;line-height:1.75}
+body[data-page="contact"] .site-footer>p{font-size:12px;line-height:1.6}
 body[data-page="contact"] .footer-links a{font-size:12px}
 body[data-page="contact"] .footer-bottom{font-size:11px;letter-spacing:.02em}
 @media(max-width:760px){body[data-page="contact"] .breadcrumb{font-size:11px;margin-bottom:25px}body[data-page="contact"] .inner-hero-copy>p:last-child{font-size:15px}body[data-page="contact"] .contact-detail small{font-size:11px}body[data-page="contact"] .contact-detail a,body[data-page="contact"] .contact-detail p{font-size:16px}body[data-page="contact"] .form-grid label{font-size:12px}body[data-page="contact"] .form-grid input,body[data-page="contact"] .form-grid select,body[data-page="contact"] .form-grid textarea{font-size:16px}body[data-page="contact"] .footer-links a{font-size:11px}}
