@@ -9,11 +9,11 @@ Public website and office workspace for Hari Om Construction.
 - services.html: pipeline, CGD, manpower, O&M and project coordination capabilities
 - projects.html: supported project scopes and delivery flow
 - quality.html: quality, safety and environmental approach
-- gallery.html: original illustrations pending approved site photographs
+- gallery.html: licensed representative pipeline photos; replace with approved Hari Om project photos for a verified project portfolio
 - careers.html: career interest form
 - contact.html: office details and WhatsApp enquiry form
 
-The Hari Om website uses its own copy, illustrations and visual styling. Project records, client names, numerical claims and credentials are not published unless verified by the company.
+The Hari Om website uses its own copy and visual styling. Project records, client names, numerical claims and credentials are not published unless verified by the company. The gallery uses three Pexels photos under the Pexels License, with photographer links shown on the page: Sergei Starostin (two photos) and Asep Fajar Sasmita (one photo).
 
 ## Office workspace
 
@@ -26,4 +26,3 @@ The portal includes a project register, estimate builder with GST totals and pri
 The public site and the separate `hari-om-office-tools` Pages project are connected to the `Hari_Om_Construction` GitHub repository and deploy from `main`. The office project uses `office` as its root directory and serves at `tools.hariomconstruction.in`. The existing `office.hariomconstruction.in` hostname remains reserved for the Nextcloud tunnel.
 
 Open index.html and office/index.html directly for a local preview. No package installation or build command is required.
-
