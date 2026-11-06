@@ -249,3 +249,107 @@ button{cursor:pointer}
 @media(max-width:1100px){.stock-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.ops-summary-grid{grid-template-columns:1fr 1fr}.ops-toolbar-actions{margin-left:0;flex-basis:100%;flex-wrap:wrap}.stock-grid,.calc-grid{grid-template-columns:1fr}.stock-card{padding:15px}.calc-fields.three{grid-template-columns:repeat(3,minmax(0,1fr))}.ops-table th,.ops-table td{padding:9px 10px}}
 
+/* Readable workspace type across records, forms and navigation */
+body.office-app{font-size:15px;line-height:1.55}
+.office-brand strong{font-size:13px}
+.office-brand small,.side-label{font-size:10px}
+.side-link{font-size:13px}
+.storage-card strong{font-size:11px}
+.storage-card small{font-size:10px}
+.side-utility,.back-site{font-size:11px}
+.breadcrumb{font-size:11px}
+.breadcrumb strong{font-size:12px}
+.today-label{font-size:11px}
+.topbar-action,.primary-button,.secondary-button,.quiet-button{font-size:12px}
+.office-footer{font-size:10px;letter-spacing:.04em}
+.page-heading h1{font-size:30px}
+.page-heading p{font-size:13px;line-height:1.6}
+.overline{font-size:10px}
+.summary-top{font-size:10px}
+.summary-note{font-size:11px;line-height:1.5}
+.panel-head h2{font-size:15px}
+.panel-head a,.panel-head button{font-size:11px}
+.project-name{font-size:13px}
+.project-sub,.project-location{font-size:11px}
+.status-pill{font-size:9px}
+.activity-item strong{font-size:12px}
+.activity-item small{font-size:11px}
+.empty-state{font-size:12px}
+.empty-state strong{font-size:14px}
+.search-box input{font-size:12px}
+.data-card h3{font-size:15px}
+.data-card p{font-size:12px;line-height:1.65}
+.card-date{font-size:10px}
+.data-card-meta small{font-size:10px}
+.data-card-meta strong{font-size:12px}
+.card-actions button{font-size:11px}
+.record-head{font-size:9px}
+.record-row{font-size:12px;line-height:1.55}
+.record-row strong{font-size:13px}
+.record-row small{font-size:11px}
+.quote-total small{font-size:10px}
+.notice-strip p{font-size:11px;line-height:1.65}
+.notice-strip .quiet-button{font-size:10px}
+.filter-count{font-size:11px}
+.modal-head h2{font-size:17px}
+.field label{font-size:11px}
+.field input,.field select,.field textarea{font-size:14px}
+.line-items-head{font-size:9px}
+.line-item input{font-size:12px}
+.estimate-live-total{font-size:11px}
+.toast{font-size:12px}
+.pdf-privacy-callout p{font-size:11px;line-height:1.65}
+.pdf-workspace-head h2{font-size:15px}
+.pdf-workspace-head p{font-size:11px;line-height:1.6}
+.pdf-selected-files>strong{font-size:11px}
+.pdf-selected-files>small,.pdf-file-row{font-size:10px}
+.pdf-field{font-size:11px}
+.pdf-field input{font-size:13px}
+.pdf-field small,.pdf-limit-note{font-size:10px;line-height:1.55}
+.pdf-action-list button{font-size:10px}
+.pdf-status{font-size:11px;line-height:1.6}
+.pdf-preview-panel .panel-head h2{font-size:13px}
+.pdf-preview-panel .panel-head span{font-size:10px}
+.pdf-preview-empty{font-size:12px}
+.pdf-feature-grid .summary-note{font-size:10px}
+.portal-security-note strong{font-size:12px}
+.portal-security-note span{font-size:11px;line-height:1.55}
+.portal-category{font-size:9px}
+.portal-card h2{font-size:15px}
+.portal-card p{font-size:12px;line-height:1.65}
+.portal-card a{font-size:11px}
+.ops-table th{font-size:9px}
+.ops-table td{font-size:12px;line-height:1.5}
+.ops-table td strong{font-size:13px}
+.ops-table td small{font-size:10px;line-height:1.5}
+.ops-status,.stock-tag,.stock-low,.stock-ok{font-size:9px}
+.stock-card h3{font-size:15px}
+.stock-card>p{font-size:11px;line-height:1.55}
+.stock-quantity span,.stock-minimum{font-size:11px}
+.calc-notice{font-size:11px;line-height:1.65}
+.calc-card-head>span{font-size:9px}
+.calc-card-head h2{font-size:16px}
+.calc-card-head p{font-size:11px;line-height:1.6}
+.calc-fields label{font-size:11px;line-height:1.4}
+.calc-fields input,.calc-fields select{font-size:13px}
+.calc-result span{font-size:11px}
+.calc-result strong{font-size:14px}
+@media(max-width:700px){
+  .side-link{font-size:12px;padding:10px;gap:7px}
+  .breadcrumb{font-size:10px}
+  .breadcrumb strong{font-size:11px}
+  .topbar-action{font-size:10px}
+  .office-footer{font-size:9px}
+  .page-heading h1{font-size:24px}
+  .page-heading p{font-size:12px}
+  .summary-top{font-size:9px}
+  .summary-note{font-size:10px}
+  .panel-head h2{font-size:14px}
+  .record-head,.record-row{font-size:11px}
+  .field label,.calc-fields label{font-size:11px}
+  .field input,.field select,.field textarea,.calc-fields input,.calc-fields select{font-size:14px}
+  .ops-table{min-width:680px}
+  .ops-table th{font-size:9px}
+  .ops-table td{font-size:12px}
+}
+

@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 8690)
-Total output lines: 363
-
 (function(){
   "use strict";
   var STORAGE_KEY="hariom-office-workspace-v1";
@@ -136,7 +133,61 @@ Total output lines: 363
       "<label class='pdf-field'>Text stamp <input id='pdf-stamp-text' type='text' maxlength='80' placeholder='e.g. HARI OM CONSTRUCTION'></label>"+
       "<label class='pdf-field'>Pages to extract <input id='pdf-page-range' type='text' placeholder='e.g. 1, 3-5'><small>Use page numbers from the first selected PDF.</small></label>"+
       "<div class='pdf-action-list'><button class='secondary-button' type='button' data-pdf-action='merge'>Merge selected PDFs</button><button class='quiet-button' type='button' data-pdf-action='rotate'>Rotate first PDF 90°</button><button class='quiet-button' type='button' data-pdf-action='stamp'>Add text stamp to first PDF</button><button class='quiet-button' type='button' data-pdf-action='extract'>Extract selected pages</button></div>"+
- …1690 tokens truncated…)</span><span></span></div><div id='quote-lines'><div class='line-item'><input name='description' placeholder='Work description' required><input name='quantity' type='number' min='0.01' step='0.01' value='1' aria-label='Quantity' required><input name='rate' type='number' min='0' step='0.01' placeholder='0.00' aria-label='Rate' required><button type='button' class='remove-line' data-action='remove-line' aria-label='Remove line'>×</button></div></div></div>"+
+      "<div class='pdf-status' id='pdf-status' role='status' aria-live='polite'>Choose a PDF to begin.</div><p class='pdf-limit-note'>Password-protected PDFs may not open. Scanned pages remain images; this tool does not perform OCR.</p></div>"+
+      "<div class='pdf-preview-panel'><div class='panel-head'><h2>Preview</h2><span id='pdf-preview-name'>No file selected</span></div><iframe class='pdf-preview' id='pdf-preview' title='PDF preview' hidden></iframe><div class='pdf-preview-empty' id='pdf-preview-empty'>Choose a PDF to preview it here.</div></div></div></section>"+
+      "<div class='pdf-feature-grid'><article class='summary-card'><div class='summary-top'><span>Combine</span><span class='summary-icon'>＋</span></div><div class='summary-note'>Join selected PDFs into one file.</div></article><article class='summary-card'><div class='summary-top'><span>Rotate</span><span class='summary-icon'>↻</span></div><div class='summary-note'>Turn every page in the first selected PDF.</div></article><article class='summary-card'><div class='summary-top'><span>Extract &amp; stamp</span><span class='summary-icon'>▤</span></div><div class='summary-note'>Keep chosen pages or add a text footer to each page.</div></article></div>";
+  }
+  function renderPortals(){
+    var portals=[
+      ["TAX & INVOICING","GST Portal","GST registration, returns and taxpayer services.","https://www.gst.gov.in/"],
+      ["TAX & INVOICING","e-Way Bill System","Generate and manage goods movement e-way bills.","https://ewaybillgst.gov.in/"],
+      ["TAX & INVOICING","e-Invoice System","GST e-invoice services through the NIC portal.","https://einvoice1.gst.gov.in/"],
+      ["TAX & INVOICING","Income Tax e-Filing","Income tax returns, forms and taxpayer services.","https://www.incometax.gov.in/iec/foportal/"],
+      ["BUSINESS","Ministry of Corporate Affairs","MCA21 company and LLP filings and services.","https://www.mca.gov.in/"],
+      ["PEOPLE & LABOUR","EPFO Employer Portal","Employer sign-in and provident fund services.","https://unifiedportal-emp.epfindia.gov.in/epfo/"],
+      ["PEOPLE & LABOUR","ESIC Services","Employees’ State Insurance employer and employee services.","https://www.esic.gov.in/"],
+      ["PEOPLE & LABOUR","Shram Suvidha","Labour registrations, licensing and returns.","https://registration.shramsuvidha.gov.in/"],
+      ["TENDERS","Government e-Marketplace","GeM buying, selling and public procurement services.","https://gem.gov.in/"],
+      ["TENDERS","Central Public Procurement Portal","Search central government tenders and e-procurement notices.","https://eprocure.gov.in/cppp/"],
+      ["BUSINESS","Udyam Registration","Official MSME registration and enterprise services.","https://udyamregistration.gov.in/"],
+      ["OFFICE APPS","Microsoft 365","Word, Excel, PowerPoint, Outlook and OneDrive on the web.","https://www.microsoft365.com/"]
+    ];
+    var cards=portals.map(function(item){return "<article class='portal-card' data-portal-card><div class='portal-card-top'><span class='portal-category'>"+esc(item[0])+"</span><span class='portal-arrow'>↗</span></div><h2>"+esc(item[1])+"</h2><p>"+esc(item[2])+"</p><a href='"+esc(item[3])+"' target='_blank' rel='noopener noreferrer'>Open official site ↗</a></article>";}).join("");
+    return heading("SOFTWARE DIRECTORY","Official portals & office apps","Quick links for tax, labour, tenders and daily office work.","","")+ 
+      "<div class='portal-security-note'><strong>These are shortcuts, not copies of government services.</strong><span>Sign in and enter OTPs only on the official website shown in the address bar.</span></div>"+
+      "<div class='toolbar portal-toolbar'><span class='filter-count'>"+portals.length+" official links</span><div class='search-box'><input id='portal-search' type='search' placeholder='Search portals or apps'></div></div>"+
+      "<div class='portal-grid'>"+cards+"</div>";
+  }
+  function render(){
+    var screens={overview:renderOverview,projects:renderProjects,estimates:renderEstimates,diary:renderDiary,attendance:renderAttendance,pdf:renderPdfStudio,portals:renderPortals};
+    content.innerHTML=screens[view]();
+  }
+  function openModal(title,body,wide){
+    modalRoot.innerHTML="<div class='modal-backdrop' data-action='backdrop-close'><section class='modal"+(wide?" wide":"")+"' role='dialog' aria-modal='true' aria-label='"+esc(title)+"'><header class='modal-head'><h2>"+esc(title)+"</h2><button class='close-button' data-action='close-modal' aria-label='Close'>×</button></header>"+body+"</section></div>";
+    var first=modalRoot.querySelector("input,select,textarea");
+    if(first)first.focus();
+  }
+  function closeModal(){modalRoot.innerHTML="";}
+  function field(label,name,placeholder,type,required,value){
+    return "<div class='field'><label for='field-"+esc(name)+"'>"+esc(label)+"</label><input id='field-"+esc(name)+"' name='"+esc(name)+"' type='"+(type||"text")+"' placeholder='"+esc(placeholder||"")+"'"+(required?" required":"")+(value?" value='"+esc(value)+"'":"")+"></div>";
+  }
+  function projectForm(){
+    var body="<form class='modal-form' data-form='project'><div class='form-grid'>"+
+      field("Project / scope name","name","e.g. City gas network extension","text",true)+
+      field("Client / organisation","client","Client name","text",false)+
+      field("Location","location","City, state","text",false)+
+      "<div class='field'><label for='field-status'>Status</label><select id='field-status' name='status'><option>Planning</option><option selected>Active</option><option>On hold</option><option>Completed</option></select></div>"+
+      field("Project value (₹)","budget","Optional","number",false)+field("Start date","startDate","","date",false)+
+      "</div><div class='form-actions'><button type='button' class='quiet-button' data-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save project</button></div></form>";
+    openModal("Add a project",body,false);
+  }
+  function estimateForm(){
+    var date=localDate();
+    var body="<form class='modal-form' data-form='estimate'><div class='form-grid'>"+
+      field("Client","client","Client / organisation","text",true)+field("Estimate title","title","e.g. Pipeline laying works","text",true)+
+      field("Estimate date","date","","date",true,date)+
+      "<div class='field'><label for='field-gst'>GST rate</label><select id='field-gst' name='gst'><option value='0'>0%</option><option value='5'>5%</option><option value='12'>12%</option><option selected value='18'>18%</option><option value='28'>28%</option></select></div>"+
+      "<div class='field full'><label>Line items</label><div class='line-items'><div class='line-items-head'><span>Description</span><span>Qty</span><span>Rate (₹)</span><span></span></div><div id='quote-lines'><div class='line-item'><input name='description' placeholder='Work description' required><input name='quantity' type='number' min='0.01' step='0.01' value='1' aria-label='Quantity' required><input name='rate' type='number' min='0' step='0.01' placeholder='0.00' aria-label='Rate' required><button type='button' class='remove-line' data-action='remove-line' aria-label='Remove line'>×</button></div></div></div>"+
       "<button type='button' class='quiet-button' style='margin-top:8px' data-action='add-line'>＋ Add line</button><div class='estimate-live-total'><span>Estimate total incl. GST</span><strong id='live-total'>₹0</strong></div></div>"+
       "<div class='field full'><label for='field-notes'>Notes / terms</label><textarea id='field-notes' name='notes' placeholder='Optional payment or scope notes'></textarea></div>"+
       "</div><div class='form-actions'><button type='button' class='quiet-button' data-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save estimate</button></div></form>";
