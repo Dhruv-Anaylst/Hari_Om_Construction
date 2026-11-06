@@ -25,7 +25,8 @@
     footer.innerHTML = '<a class="brand footer-brand" href="index.html" aria-label="Hari Om Construction home">' + mark + '</a>' +
       '<p>Pipeline infrastructure and field teams<br>for the networks that keep India moving.</p>' +
       '<nav class="footer-links" aria-label="Footer navigation"><a href="about.html">Company</a><a href="services.html">Services</a><a href="projects.html">Project scopes</a><a href="quality.html">Quality &amp; safety</a><a href="gallery.html">Gallery</a><a href="careers.html">Careers</a><a href="contact.html">Contact</a><a href="https://tools.hariomconstruction.in">Office tools ↗</a></nav>' +
-      '<div class="footer-bottom"><span>© <span data-current-year></span> Hari Om Construction</span><a href="#top">Back to top ↑</a><span>Delhi · India</span></div>';
+      '<div class="footer-bottom"><span>© <span data-current-year></span> Hari Om Construction</span><a href="#top">Back to top ↑</a><span>Delhi · India</span></div>' +
+      '<div class="footer-credit">Developed &amp; maintained by Hari Om Projects ft. Dhruv Agnihotri</div>';
   }
 
   var menuButton = document.querySelector(".menu-toggle");
