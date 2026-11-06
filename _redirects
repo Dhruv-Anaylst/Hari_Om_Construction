@@ -1,10 +1,8 @@
-# Keep old public URLs working after the one-page redesign.
-/about.html /#story 301
-/about /#story 301
-/services.html /#services 301
-/services /#services 301
-/projects.html /#services 301
-/projects /#services 301
-/contact.html /#contact 301
-/contact /#contact 301
+/about /about.html 301
+/services /services.html 301
+/projects /projects.html 301
+/quality /quality.html 301
+/gallery /gallery.html 301
+/careers /careers.html 301
+/contact /contact.html 301
 
