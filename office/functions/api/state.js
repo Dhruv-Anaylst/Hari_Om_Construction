@@ -1,3 +1,5 @@
+import { isOfficeUser } from "../_shared/access.js";
+
 const ALLOWED_EMAIL = "dhruvagnihotri21@gmail.com";
 const SECTIONS = new Set(["workspace", "operations", "business"]);
 const MAX_PAYLOAD_BYTES = 850000;
@@ -9,12 +11,8 @@ function json(data, status = 200) {
   });
 }
 
-function authorized(request) {
-  return (request.headers.get("Cf-Access-Authenticated-User-Email") || "").toLowerCase() === ALLOWED_EMAIL;
-}
-
 export async function onRequestGet({ request, env }) {
-  if (!authorized(request)) return json({ error: "Sign in with the approved office account." }, 401);
+  if (!await isOfficeUser(request)) return json({ error: "Sign in with the approved office account." }, 401);
   if (!env.DB) return json({ error: "Office database is not connected." }, 503);
   try {
     const result = await env.DB.prepare(
@@ -35,7 +33,7 @@ export async function onRequestGet({ request, env }) {
 }
 
 export async function onRequestPut({ request, env }) {
-  if (!authorized(request)) return json({ error: "Sign in with the approved office account." }, 401);
+  if (!await isOfficeUser(request)) return json({ error: "Sign in with the approved office account." }, 401);
   if (!env.DB) return json({ error: "Office database is not connected." }, 503);
   const length = Number(request.headers.get("Content-Length") || 0);
   if (length > MAX_PAYLOAD_BYTES) return json({ error: "This section is too large to sync." }, 413);

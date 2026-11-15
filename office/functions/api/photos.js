@@ -1,13 +1,11 @@
+import { isOfficeUser } from "../_shared/access.js";
+
 const ALLOWED_EMAIL = "dhruvagnihotri21@gmail.com";
 const MAX_PHOTO_BYTES = 350000;
 const ALLOWED_TYPES = new Set(["image/jpeg", "image/png", "image/webp"]);
 
 function json(data, status = 200) {
   return Response.json(data, { status, headers: { "Cache-Control": "no-store", "X-Content-Type-Options": "nosniff" } });
-}
-
-function authorized(request) {
-  return (request.headers.get("Cf-Access-Authenticated-User-Email") || "").toLowerCase() === ALLOWED_EMAIL;
 }
 
 function toBase64(bytes) {
@@ -19,7 +17,7 @@ function toBase64(bytes) {
 }
 
 export async function onRequestPost({ request, env }) {
-  if (!authorized(request)) return json({ error: "Sign in with the approved office account." }, 401);
+  if (!await isOfficeUser(request)) return json({ error: "Sign in with the approved office account." }, 401);
   if (!env.DB) return json({ error: "Office database is not connected." }, 503);
   try {
     const form = await request.formData();
@@ -41,7 +39,7 @@ export async function onRequestPost({ request, env }) {
 }
 
 export async function onRequestGet({ request, env }) {
-  if (!authorized(request)) return json({ error: "Sign in with the approved office account." }, 401);
+  if (!await isOfficeUser(request)) return json({ error: "Sign in with the approved office account." }, 401);
   if (!env.DB) return json({ error: "Office database is not connected." }, 503);
   const id = new URL(request.url).searchParams.get("id") || "";
   if (!/^[0-9a-f-]{36}$/i.test(id)) return json({ error: "The photo was not found." }, 404);
