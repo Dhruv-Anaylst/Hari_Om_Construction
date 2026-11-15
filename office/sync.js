@@ -1,108 +1,191 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×5N‹Z–‹­¦ëeŠw¬Ô¡™Õ¹Ñ¥½¸€ ¤ì(€€‰ÕÍ”ÍÑÉ¥Ğˆì(€Ù…È5Q}-d€ô€‰¡…É¥½´µ½™™¥”µÍå¹Œµµ•Ñ„µØÄˆì(€Ù…ÈÍ•Ñ¥½¹Ì€ôì(€€€İ½É­ÍÁ…”è€‰¡…É¥½´µ½™™¥”µİ½É­ÍÁ…”µØÄˆ°(€€€½Á•É…Ñ¥½¹Ìè€‰¡…É¥½´µ½™™¥”µ½Á•É…Ñ¥½¹ÌµØÄˆ°(€€€‰ÕÍ¥¹•ÍÌè€‰¡…É¥½´µ½™™¥”µ‰ÕÍ¥¹•ÍÌµØÄˆ(€ôì(€Ù…ÈÙ•ÉÍ¥½¹Ì€ôíôì(€Ù…ÈÁ•¹‘¥¹œ€ôíôì(€Ù…ÈÅÕ•Õ•Ì€ôíôì(€Ù…È½¹±¥¹”€ô€½y¡ÑÑÁÌüè¼¹Ñ•ÍĞ¡±½…Ñ¥½¸¹ÁÉ½Ñ½½°¤ì(€Ù…ÈÍÑ…ÑÕÍ9½‘”€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å% ‰Íå¹ŒµÍÑ…ÑÕÌˆ¤ì((€™Õ¹Ñ¥½¸Í¡½İMÑ…ÑÕÌ¡µ•ÍÍ…”°ÍÑ…Ñ”¤ì(€€€¥˜€ …ÍÑ…ÑÕÍ9½‘”¤É•ÑÕÉ¸ì(€€€ÍÑ…ÑÕÍ9½‘”¹Ñ•áÑ½¹Ñ•¹Ğ€ôµ•ÍÍ…”ì(€€€ÍÑ…ÑÕÍ9½‘”¹±…ÍÍ9…µ”€ô€‰Íå¹ŒµÍÑ…ÑÕÌˆ€¬€¡ÍÑ…Ñ”€ü€ˆÍå¹ŒµÍÑ…ÑÕÌ´ˆ€¬ÍÑ…Ñ”€è€ˆˆ¤ì(€€€ÍÑ…ÑÕÍ9½‘”¹Í•ÑÑÑÉ¥‰ÕÑ” ‰É½±”ˆ°€‰ÍÑ…ÑÕÌˆ¤ì(€ô((€™Õ¹Ñ¥½¸É•…‘)Í½¸¡Ù…±Õ”°™…±±‰…¬¤ì(€€€ÑÉäìÉ•ÑÕÉ¸Ù…±Õ”€ü)M=8¹Á…ÉÍ”¡Ù…±Õ”¤€è™…±±‰…¬ìô…Ñ €¡|¤ìÉ•ÑÕÉ¸™…±±‰…¬ìô(€ô((€™Õ¹Ñ¥½¸É•…‘5•Ñ„ ¤ìÉ•ÑÕÉ¸É•…‘)Í½¸¡±½…±MÑ½É…”¹•Ñ%Ñ•´¡5Q}-d¤°ìÁ•¹‘¥¹œèíôô¤ìô(€™Õ¹Ñ¥½¸İÉ¥Ñ•5•Ñ„¡µ•Ñ„¤ì(€€€ÑÉäì±½…±MÑ½É…”¹Í•Ñ%Ñ•´¡5Q}-d°)M=8¹ÍÑÉ¥¹¥™ä¡µ•Ñ„¤¤ìô…Ñ €¡|¤íô(€ô((€™Õ¹Ñ¥½¸•µ¥Ğ¡¹…µ”°‘•Ñ…¥°¤ì(€€€İ¥¹‘½Ü¹‘¥ÍÁ…Ñ¡Ù•¹Ğ¡¹•ÜÕÍÑ½µÙ•¹Ğ¡¹…µ”°ì‘•Ñ…¥°è‘•Ñ…¥°ô¤¤ì(€ô((€…Íå¹Œ™Õ¹Ñ¥½¸•ÑI•µ½Ñ” ¤ì(€€€Ù…ÈÉ•ÍÁ½¹Í”€ô…İ…¥Ğ™•Ñ  ˆ½…Á¤½ÍÑ…Ñ”ˆ°ìÉ•‘•¹Ñ¥…±Ìè€‰Í…µ”µ½É¥¥¸ˆ°…¡”è€‰¹¼µÍÑ½É”ˆô¤ì(€€€¥˜€¡É•ÍÁ½¹Í”¹É•‘¥É•Ñ•ñğ€½p½‘¸µ¥p½…•ÍÍp½±½¥¸½¤¹Ñ•ÍĞ¡É•ÍÁ½¹Í”¹ÕÉ°¤¤Ñ¡É½Ü¹•ÜÉÉ½È ‰M¥¸µ¥¸¹••‘•ƒ
-Ü½Á•¸Ñ¡”±¥Ù”İ½É­ÍÁ…”…¹Í¥¸¥¸……¥¸ˆ¤ì(€€€¥˜€ …É•ÍÁ½¹Í”¹½¬¤Ñ¡É½Ü¹•ÜÉÉ½È ‰]½É­ÍÁ…”Íå¹Œ¥ÌÕ¹…Ù…¥±…‰±”¸ˆ¤ì(€€€¥˜€ „½…ÁÁ±¥…Ñ¥½¹p½©Í½¸½¤¹Ñ•ÍĞ¡É•ÍÁ½¹Í”¹¡•…‘•ÉÌ¹•Ğ ‰½¹Ñ•¹ĞµQåÁ”ˆ¤ñğ€ˆˆ¤¤Ñ¡É½Ü¹•ÜÉÉ½È ‰M¥¸µ¥¸¹••‘•ƒ
-Ü½Á•¸Ñ¡”±¥Ù”İ½É­ÍÁ…”…¹Í¥¸¥¸……¥¸ˆ¤ì(€€€É•ÑÕÉ¸É•ÍÁ½¹Í”¹©Í½¸ ¤ì(€ô((€…Íå¹Œ™Õ¹Ñ¥½¸Í•¹‘M•Ñ¥½¸¡Í•Ñ¥½¸°­•ä°‘…Ñ„¤ì(€€€Ù…ÈÉ•ÍÁ½¹Í”€ô…İ…¥Ğ™•Ñ  ˆ½…Á¤½ÍÑ…Ñ”ˆ°ì(€€€€€µ•Ñ¡½è€‰AUPˆ°(€€€€€É•‘•¹Ñ¥…±Ìè€‰Í…µ”µ½É¥¥¸ˆ°(€€€€€¡•…‘•ÉÌèì€‰½¹Ñ•¹ĞµQåÁ”ˆè€‰…ÁÁ±¥…Ñ¥½¸½©Í½¸ˆô°(€€€€€‰½‘äè)M=8¹ÍÑÉ¥¹¥™ä¡ìÍ•Ñ¥½¸èÍ•Ñ¥½¸°‘…Ñ„è‘…Ñ„ô¤(€€€ô¤ì(€€€¥˜€¡É•ÍÁ½¹Í”¹É•‘¥É•Ñ•ñğ€½p½‘¸µ¥p½…•ÍÍp½±½¥¸½¤¹Ñ•ÍĞ¡É•ÍÁ½¹Í”¹ÕÉ°¤¤Ñ¡É½Ü¹•ÜÉÉ½È ‰M¥¸µ¥¸¹••‘•ƒ
-Ü½Á•¸Ñ¡”±¥Ù”İ½É­ÍÁ…”…¹Í¥¸¥¸……¥¸ˆ¤ì(€€€¥˜€ …É•ÍÁ½¹Í”¹½¬¤Ñ¡É½Ü¹•ÜÉÉ½È ‰½Õ±¹½ĞÍå¹ŒÑ¡¥ÌÍ•Ñ¥½¸¸ˆ¤ì(€€€¥˜€ „½…ÁÁ±¥…Ñ¥½¹p½©Í½¸½¤¹Ñ•ÍĞ¡É•ÍÁ½¹Í”¹¡•…‘•ÉÌ¹•Ğ ‰½¹Ñ•¹ĞµQåÁ”ˆ¤ñğ€ˆˆ¤¤Ñ¡É½Ü¹•ÜÉÉ½È ‹[h‘éì¶»§q«^vYÛ‹Z[ˆ™YYY0­ÈÜ[ˆH]™HÛÜšÜÜXÙH[™ÚYÛˆ[ˆYØZ[ˆŠNÂˆ˜\ˆØ]™YH]ØZ]™\ÜÛœÙKšœÛÛŠ
-NÂˆ™\œÚ[ÛœÖÜÙXİ[Û—HHØ]™Y™\œÚ[ÛÂˆ˜\ˆY]HH™XYY]J
-NÂˆY]Kœ[™[™ÈHY]Kœ[™[™ÈßNÂˆY]Kœ[™[™ÖÜÙXİ[Û—HH˜[ÙNÂˆÜš]SY]JY]JNÂˆ[™[™ÖÜÙXİ[Û—HH˜[ÙNÂˆÚİÔİ]\ÊÛİY]HŞ[˜ÙY‹›ÚÈŠNÂˆB‚ˆ[˜İ[ÛˆØ]™JÙXİ[Û‹]JHÂˆ˜\ˆÙ^HHÙXİ[ÛœÖÜÙXİ[Û—NÂˆYˆ
-ZÙ^JH™]\›ˆ›ÛZ\ÙKœ™Z™Xİ
-™]È\œ›ÜŠ•[šÛ›İÛˆÛÜšÜÜXÙHÙXİ[Û‹ˆŠJNÂˆHÈØØ[İÜ˜YÙKœÙ]][JÙ^K”ÓÓ‹œİš[™ÚYJ]JJNÈHØ]Ú
-ÊHßBˆYˆ
-[Û›[™JHÂˆÚİÔİ]\Ê“ØØ[™]šY]È0­ÈÜ[ˆH]™HÛÛÈÚ]HÈŞ[˜È‹œ™]šY]ÈŠNÂˆ™]\›ˆ›ÛZ\ÙKœ™\ÛÛ™J
-NÂˆBˆ[™[™ÖÜÙXİ[Û—HHYNÂˆ˜\ˆY]HH™XYY]J
-NÂˆY]Kœ[™[™ÈHY]Kœ[™[™ÈßNÂˆY]Kœ[™[™ÖÜÙXİ[Û—HHYNÂˆÜš]SY]JY]JNÂˆÚİÔİ]\Ê”Ş[˜Ú[™ÈÈ[İ\ˆš]˜]HÛÜšÜÜXÙx )ˆ‹˜\ŞHŠNÂˆ]Y]Y\ÖÜÙXİ[Û—HH
-]Y]Y\ÖÜÙXİ[Û—H›ÛZ\ÙKœ™\ÛÛ™J
-JK˜Ø]Ú
-[˜İ[Ûˆ
+(function () {
+  "use strict";
+  var META_KEY = "hariom-office-sync-meta-v1";
+  var sections = {
+    workspace: "hariom-office-workspace-v1",
+    operations: "hariom-office-operations-v1",
+    business: "hariom-office-business-v1"
+  };
+  var versions = {};
+  var pending = {};
+  var queues = {};
+  var online = /^https?:$/.test(location.protocol);
+  var statusNode = document.getElementById("sync-status");
 
-HßJK[Š[˜İ[Ûˆ
+  function showStatus(message, state) {
+    if (!statusNode) return;
+    statusNode.textContent = message;
+    statusNode.className = "sync-status" + (state ? " sync-status-" + state : "");
+    statusNode.setAttribute("role", "status");
+  }
 
-HÂˆ˜\ˆ]\İH™XYœÛÛŠØØ[İÜ˜YÙK™Ù]][JÙ^JK]JNÂˆ™]\›ˆÙ[™ÙXİ[ÛŠÙXİ[Û‹Ù^K]\İ
-NÂˆJK˜Ø]Ú
-[˜İ[Ûˆ
-\œ›ÜŠHÂˆ˜\ˆ™YYÔÚYÛ’[ˆHÔÚYÛ‹Z[ˆ™YYYÚK\İ
-\œ›Üˆ	‰ˆ\œ›Ü‹›Y\ÜØYÙHˆŠNÂˆÚİÔİ]\Ê™YYÔÚYÛ’[ˆÈ”ÚYÛ‹Z[ˆ™YYY0­ÈÜ[ˆ\È]™HÛÜšÜÜXÙHYØZ[ˆˆˆ“Ù™›[™H0­ÈÚ[™Ù\È\™HØ]™Y\™H[™Ú[™]H‹™YYÔÚYÛ’[ˆÈ˜]]ˆˆ›Ù™›[™HŠNÂˆYˆ
-[™YYÔÚYÛ’[ŠHÚ[™İËœÙ][Y[İ]
-[˜İ[Ûˆ
+  function readJson(value, fallback) {
+    try { return value ? JSON.parse(value) : fallback; } catch (_) { return fallback; }
+  }
 
-HÈ™]TÙXİ[ÛŠÙXİ[ÛŠNÈKL
-NÂˆJNÂˆ™]\›ˆ]Y]Y\ÖÜÙXİ[Û—NÂˆB‚ˆ[˜İ[Ûˆ™]TÙXİ[ÛŠÙXİ[ÛŠHÂˆ˜\ˆÙ^HHÙXİ[ÛœÖÜÙXİ[Û—NÂˆYˆ
-ZÙ^H\[™[™ÖÜÙXİ[Û—JH™]\›Âˆ˜\ˆ]HH™XYœÛÛŠØØ[İÜ˜YÙK™Ù]][JÙ^JK[
-NÂˆYˆ
-]JHØ]™JÙXİ[Û‹]JNÂˆB‚ˆ\Ş[˜È[˜İ[ÛˆY˜]J
-HÂˆYˆ
-[Û›[™JHÂˆÚİÔİ]\Ê“ØØ[™]šY]È0­ÈÜ[ˆH]™HÛÛÈÚ]HÈŞ[˜È‹œ™]šY]ÈŠNÂˆ™]\›ÂˆBˆÚİÔİ]\ÊÛÛ›™Xİ[™ÈÈ[İ\ˆš]˜]HÛÜšÜÜXÙx )ˆ‹˜\ŞHŠNÂˆHÂˆ˜\ˆ™[[İHH]ØZ]Ù]™[[İJ
-NÂˆ˜\ˆY]HH™XYY]J
-NÂˆY]Kœ[™[™ÈHY]Kœ[™[™ÈßNÂˆ›Üˆ
-˜\ˆÙXİ[ÛˆÙˆØš™XİšÙ^\ÊÙXİ[ÛœÊJHÂˆ˜\ˆÙ^HHÙXİ[ÛœÖÜÙXİ[Û—NÂˆ˜\ˆØØ[H™XYœÛÛŠØØ[İÜ˜YÙK™Ù]][JÙ^JK[
-NÂˆ˜\ˆØ]™YH™[[İKœÙXİ[ÛœÈ	‰ˆ™[[İKœÙXİ[ÛœÖÜÙXİ[Û—NÂˆYˆ
-Y]Kœ[™[™ÖÜÙXİ[Û—H	‰ˆØØ[
-HÂˆ[™[™ÖÜÙXİ[Û—HHYNÂˆ]ØZ]Ù[™ÙXİ[ÛŠÙXİ[Û‹Ù^KØØ[
-NÂˆH[ÙHYˆ
-Ø]™Y	‰ˆØ]™Y™]H	‰ˆ\[ÙˆØ]™Y™]HOOH›Øš™XİŠHÂˆ™\œÚ[ÛœÖÜÙXİ[Û—HHØ]™Y™\œÚ[ÛÂˆ[™[™ÖÜÙXİ[Û—HH˜[ÙNÂˆHÈØØ[İÜ˜YÙKœÙ]][JÙ^K”ÓÓ‹œİš[™ÚYJØ]™Y™]JJNÈHØ]Ú
-ÊHßBˆH[ÙHYˆ
-ØØ[
-HÂˆ[™[™ÖÜÙXİ[Û—HHYNÂˆ]ØZ]Ù[™ÙXİ[ÛŠÙXİ[Û‹Ù^KØØ[
-NÂˆH[ÙHÂˆ[™[™ÖÜÙXİ[Û—HH˜[ÙNÂˆBˆBˆÚİÔİ]\ÊÛİY]HŞ[˜ÙY‹›ÚÈŠNÂˆ[Z]
-›Ù™šXÙK\Ş[˜Ë\™XYH‹ßJNÂˆHØ]Ú
-\œ›ÜŠHÂˆ˜\ˆ™YYÔÚYÛ’[ˆHÔÚYÛ‹Z[ˆ™YYYÚK\İ
-\œ›Üˆ	‰ˆ\œ›Ü‹›Y\ÜØYÙHˆŠNÂˆÚİÔİ]\Ê™YYÔÚYÛ’[ˆÈ”ÚYÛ‹Z[ˆ™YYY0­ÈÜ[ˆ\È]™HÛÜšÜÜXÙHYØZ[ˆˆˆ“Ù™›[™H0­ÈÚ[™Ù\È\™HØ]™Y\™H[™Ú[™]H‹™YYÔÚYÛ’[ˆÈ˜]]ˆˆ›Ù™›[™HŠNÂˆ[Z]
-›Ù™šXÙK\Ş[˜Ë\™XYH‹ÈÙ™›[™NˆYHJNÂˆBˆB‚ˆ\Ş[˜È[˜İ[ÛˆÛ
+  function readMeta() { return readJson(localStorage.getItem(META_KEY), { pending: {} }); }
+  function writeMeta(meta) {
+    try { localStorage.setItem(META_KEY, JSON.stringify(meta)); } catch (_) {}
+  }
 
-HÂˆYˆ
-[Û›[™HØİ[Y[šY[ˆØš™Xİ˜[Y\Ê[™[™ÊKœÛÛYJ›ÛÛX[ŠJH™]\›ÂˆHÂˆ˜\ˆ™[[İHH]ØZ]Ù]™[[İJ
-NÂˆ›Üˆ
-˜\ˆÙXİ[ÛˆÙˆØš™XİšÙ^\ÊÙXİ[ÛœÊJHÂˆ˜\ˆØ]™YH™[[İKœÙXİ[ÛœÈ	‰ˆ™[[İKœÙXİ[ÛœÖÜÙXİ[Û—NÂˆYˆ
-\Ø]™Y[X™\ŠØ]™Y™\œÚ[ÛŠHH[X™\Š™\œÚ[ÛœÖÜÙXİ[Û—H
-H[™[™ÖÜÙXİ[Û—JHÛÛ[YNÂˆ™\œÚ[ÛœÖÜÙXİ[Û—HHØ]™Y™\œÚ[ÛÂˆØØ[İÜ˜YÙKœÙ]][JÙXİ[ÛœÖÜÙXİ[Û—K”ÓÓ‹œİš[™ÚYJØ]™Y™]JJNÂˆ[Z]
-›Ù™šXÙK\Ş[˜Ë\ÙXİ[Ûˆ‹ÈÙXİ[ÛˆÙXİ[Û‹]NˆØ]™Y™]HJNÂˆBˆHØ]Ú
-\œ›ÜŠHÂˆ˜\ˆ™YYÔÚYÛ’[ˆHÔÚYÛ‹Z[ˆ™YYYÚK\İ
-\œ›Üˆ	‰ˆ\œ›Ü‹›Y\ÜØYÙHˆŠNÂˆÚİÔİ]\Ê™YYÔÚYÛ’[ˆÈ”ÚYÛ‹Z[ˆ™YYY0­ÈÜ[ˆ\È]™HÛÜšÜÜXÙHYØZ[ˆˆˆ”™XÛÛ›™Xİ[™ÈÈÛİY]x )ˆ‹™YYÔÚYÛ’[ˆÈ˜]]ˆˆ›Ù™›[™HŠNÂˆBˆB‚ˆ\Ş[˜È[˜İ[ÛˆÛÛ\™\ÜÔİÊš[JHÂˆYˆ
-Yš[HK×š[XYÙWÊœYß™ßÙXœ
-IË\İ
-š[K\JJH›İÈ™]È\œ›ÜŠÚÛÜÙHH”QË‘ËÜˆÙX”[XYÙKˆŠNÂˆYˆ
-]Ú[™İË˜Ü™X]R[XYÙPš]X\
-HÂˆYˆ
-š[KœÚ^™HHÍL
-H™]\›ˆš[NÂˆ›İÈ™]È\œ›ÜŠ•\Èœ›İÜÙ\ˆØ[››İ™\Ú^™H\™ÙHİÜËˆÚÛÜÙHHÛX[\ˆš[KˆŠNÂˆBˆ˜\ˆš]X\H]ØZ]Ü™X]R[XYÙPš]X\
-š[JNÂˆ˜\ˆØØ[HHX]›Z[ŠKMÈX]›X^
-š]X\ÚYš]X\šZYÚ
-JNÂˆ˜\ˆØ[˜\ÈHØİ[Y[˜Ü™X]Q[[Y[
-˜Ø[˜\ÈŠNÂˆØ[˜\ËÚYHX]›X^
-KX]œ›İ[™
-š]X\ÚY
-ˆØØ[JJNÂˆØ[˜\ËšZYÚHX]›X^
-KX]œ›İ[™
-š]X\šZYÚ
-ˆØØ[JJNÂˆØ[˜\Ë™Ù]ÛÛ^
-Œ™ŠK™˜]Ò[XYÙJš]X\Ø[˜\ËÚYØ[˜\ËšZYÚ
-NÂˆš]X\˜ÛÜÙJ
-NÂˆ˜\ˆ]X[]HHÍÂˆ˜\ˆ›ØˆH]ØZ]™]È›ÛZ\ÙJ[˜İ[Ûˆ
-™\ÛÛ™JHÈØ[˜\ËĞ›ØŠ™\ÛÛ™Kš[XYÙKİÙXœ‹]X[]JNÈJNÂˆÚ[H
-›Øˆ	‰ˆ›Ø‹œÚ^™HˆÍL	‰ˆ]X[]Hˆ
-HÂˆ]X[]HOHŒNÂˆ›ØˆH]ØZ]™]È›ÛZ\ÙJ[˜İ[Ûˆ
-™\ÛÛ™JHÈØ[˜\ËĞ›ØŠ™\ÛÛ™Kš[XYÙKİÙXœ‹]X[]JNÈJNÂˆBˆYˆ
-X›Øˆ›Ø‹œÚ^™HˆÍL
-H›İÈ™]È\œ›ÜŠ•\ÈİÈ\ÈÛÈ\™ÙHÈİÜ™KˆÚÛÜÙH[›İ\ˆ[XYÙKˆŠNÂˆ™]\›ˆ™]Èš[JØ›Ø—K
-š[K›˜[YHœÚ]K\İÈŠKœ™\XÙJ×–×‹—JÉËˆŠH
-È‹ÙXœ‹È\Nˆš[XYÙKİÙXœˆJNÂˆB‚ˆ\Ş[˜È[˜İ[Ûˆ\ØYİÊš[K™\ÜY
-HÂˆ˜\ˆÛÛ\™\ÜÙYH]ØZ]ÛÛ\™\ÜÔİÊš[JNÂˆ˜\ˆ›Ü›HH™]È›Ü›Q]J
-NÂˆ›Ü›K˜\[™
-œİÈ‹ÛÛ\™\ÜÙY
-NÂˆ›Ü›K˜\[™
-œ™\ÜY‹™\ÜY
-NÂˆ˜\ˆ™\ÜÛœÙHH]ØZ]™]Ú
-‹Ø\KÜİÜÈ‹ÈY]Ùˆ”ÔÕ‹Ü™Y[X[ÎˆœØ[YK[ÜšYÚ[ˆ‹›ÙNˆ›Ü›HJNÂˆ˜\ˆ™\İ[H]ØZ]™\ÜÛœÙKšœÛÛŠ
-NÂˆYˆ
-\™\ÜÛœÙK›ÚÊH›İÈ™]È\œ›ÜŠ™\İ[™\œ›Üˆ”İÈ\ØY˜Z[YˆŠNÂˆ™]\›ˆ™\İ[ÂˆB‚ˆÚ[™İË“Ù™šXÙTŞ[˜ÈHÂˆ™XYNˆY˜]J
-KˆØ]™NˆØ]™Kˆ\ØYİÎˆ\ØYİËˆİÕ\›ˆ[˜İ[Ûˆ
-Y
-HÈ™]\›ˆ‹Ø\KÜİÜÏÚYHˆ
-È[˜ÛÙUT’PÛÛ\Û™[
-Y
-NÈKˆÙ]İ]\Îˆ[˜İ[Ûˆ
+  function emit(name, detail) {
+    window.dispatchEvent(new CustomEvent(name, { detail: detail }));
+  }
 
-HÈ™]\›ˆÈ™\œÚ[ÛœÎˆ™\œÚ[ÛœË[™[™Îˆ[™[™ÈNÈBˆNÂˆYˆ
-Û›[™JHÚ[™İËœÙ][\˜[
-ÛŒ
-NÂŸJJ
-NÂ
+  async function getRemote() {
+    var response = await fetch("/api/state", { credentials: "same-origin", cache: "no-store" });
+    if (response.redirected || /\/cdn-cgi\/access\/login/i.test(response.url)) throw new Error("Sign-in needed Â· open the live workspace and sign in again");
+    if (!response.ok) throw new Error("Workspace sync is unavailable.");
+    if (!/application\/json/i.test(response.headers.get("Content-Type") || "")) throw new Error("Sign-in needed Â· open the live workspace and sign in again");
+    return response.json();
+  }
+
+  async function sendSection(section, key, data) {
+    var response = await fetch("/api/state", {
+      method: "PUT",
+      credentials: "same-origin",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ section: section, data: data })
+    });
+    if (response.redirected || /\/cdn-cgi\/access\/login/i.test(response.url)) throw new Error("Sign-in needed Â· open the live workspace and sign in again");
+    if (!response.ok) throw new Error("Could not sync this section.");
+    if (!/application\/json/i.test(response.headers.get("Content-Type") || "")) throw new Error("Sign-in needed Â· open the live workspace and sign in again");
+    var saved = await response.json();
+    versions[section] = saved.version;
+    var meta = readMeta();
+    meta.pending = meta.pending || {};
+    meta.pending[section] = false;
+    writeMeta(meta);
+    pending[section] = false;
+    showStatus("Cloud data synced", "ok");
+  }
+
+  function save(section, data) {
+    var key = sections[section];
+    if (!key) return Promise.reject(new Error("Unknown workspace section."));
+    try { localStorage.setItem(key, JSON.stringify(data)); } catch (_) {}
+    if (!online) {
+      showStatus("Local preview Â· open the live tools site to sync", "preview");
+      return Promise.resolve();
+    }
+    pending[section] = true;
+    var meta = readMeta();
+    meta.pending = meta.pending || {};
+    meta.pending[section] = true;
+    writeMeta(meta);
+    showStatus("Syncing to your private workspaceâ€¦", "busy");
+    queues[section] = (queues[section] || Promise.resolve()).catch(function () {}).then(function () {
+      var latest = readJson(localStorage.getItem(key), data);
+      return sendSection(section, key, latest);
+    }).catch(function (error) {
+      var needsSignIn = /Sign-in needed/i.test(error && error.message || "");
+      showStatus(needsSignIn ? "Sign-in needed Â· open this live workspace again" : "Offline Â· changes are saved here and will retry", needsSignIn ? "auth" : "offline");
+      if (!needsSignIn) window.setTimeout(function () { retrySection(section); }, 5000);
+    });
+    return queues[section];
+  }
+
+  function retrySection(section) {
+    var key = sections[section];
+    if (!key || !pending[section]) return;
+    var data = readJson(localStorage.getItem(key), null);
+    if (data) save(section, data);
+  }
+
+  async function hydrate() {
+    if (!online) {
+      showStatus("Local preview Â· open the live tools site to sync", "preview");
+      return;
+    }
+    showStatus("Connecting to your private workspaceâ€¦", "busy");
+    try {
+      var remote = await getRemote();
+      var meta = readMeta();
+      meta.pending = meta.pending || {};
+      for (var section of Object.keys(sections)) {
+        var key = sections[section];
+        var local = readJson(localStorage.getItem(key), null);
+        var saved = remote.sections && remote.sections[section];
+        if (meta.pending[section] && local) {
+          pending[section] = true;
+          await sendSection(section, key, local);
+        } else if (saved && saved.data && typeof saved.data === "object") {
+          versions[section] = saved.version;
+          pending[section] = false;
+          try { localStorage.setItem(key, JSON.stringify(saved.data)); } catch (_) {}
+        } else if (local) {
+          pending[section] = true;
+          await sendSection(section, key, local);
+        } else {
+          pending[section] = false;
+        }
+      }
+      showStatus("Cloud data synced", "ok");
+      emit("office-sync-ready", {});
+    } catch (error) {
+      var needsSignIn = /Sign-in needed/i.test(error && error.message || "");
+      showStatus(needsSignIn ? "Sign-in needed Â· open this live workspace again" : "Offline Â· changes are saved here and will retry", needsSignIn ? "auth" : "offline");
+      emit("office-sync-ready", { offline: true });
+    }
+  }
+
+  async function poll() {
+    if (!online || document.hidden || Object.values(pending).some(Boolean)) return;
+    try {
+      var remote = await getRemote();
+      for (var section of Object.keys(sections)) {
+        var saved = remote.sections && remote.sections[section];
+        if (!saved || Number(saved.version) <= Number(versions[section] || 0) || pending[section]) continue;
+        versions[section] = saved.version;
+        localStorage.setItem(sections[section], JSON.stringify(saved.data));
+        emit("office-sync-section", { section: section, data: saved.data });
+      }
+    } catch (error) {
+      var needsSignIn = /Sign-in needed/i.test(error && error.message || "");
+      showStatus(needsSignIn ? "Sign-in needed Â· open this live workspace again" : "Reconnecting to cloud dataâ€¦", needsSignIn ? "auth" : "offline");
+    }
+  }
+
+  async function compressPhoto(file) {
+    if (!file || !/^image\/(jpeg|png|webp)$/.test(file.type)) throw new Error("Choose a JPEG, PNG, or WebP image.");
+    if (!window.createImageBitmap) {
+      if (file.size <= 350000) return file;
+      throw new Error("This browser cannot resize large photos. Choose a smaller file.");
+    }
+    var bitmap = await createImageBitmap(file);
+    var scale = Math.min(1, 1440 / Math.max(bitmap.width, bitmap.height));
+    var canvas = document.createElement("canvas");
+    canvas.width = Math.max(1, Math.round(bitmap.width * scale));
+    canvas.height = Math.max(1, Math.round(bitmap.height * scale));
+    canvas.getContext("2d").drawImage(bitmap, 0, 0, canvas.width, canvas.height);
+    bitmap.close();
+    var quality = 0.76;
+    var blob = await new Promise(function (resolve) { canvas.toBlob(resolve, "image/webp", quality); });
+    while (blob && blob.size > 350000 && quality > 0.4) {
+      quality -= 0.1;
+      blob = await new Promise(function (resolve) { canvas.toBlob(resolve, "image/webp", quality); });
+    }
+    if (!blob || blob.size > 350000) throw new Error("This photo is too large to store. Choose another image.");
+    return new File([blob], (file.name || "site-photo").replace(/\.[^.]+$/, "") + ".webp", { type: "image/webp" });
+  }
+
+  async function uploadPhoto(file, reportId) {
+    var compressed = await compressPhoto(file);
+    var form = new FormData();
+    form.append("photo", compressed);
+    form.append("reportId", reportId);
+    var response = await fetch("/api/photos", { method: "POST", credentials: "same-origin", body: form });
+    var result = await response.json();
+    if (!response.ok) throw new Error(result.error || "Photo upload failed.");
+    return result;
+  }
+
+  window.OfficeSync = {
+    ready: hydrate(),
+    save: save,
+    uploadPhoto: uploadPhoto,
+    photoUrl: function (id) { return "/api/photos?id=" + encodeURIComponent(id); },
+    getStatus: function () { return { versions: versions, pending: pending }; }
+  };
+  if (online) window.setInterval(poll, 20000);
+})();
