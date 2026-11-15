@@ -1,131 +1,323 @@
-Warning: truncated output (original token count: 9230)
-Total output lines: 246
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×5N‹Z–‹­¦ëeŠw¬Ô¡™Õ¹Ñ¥½¸€ ¤ì(€€‰ÕÍ”ÍÑÉ¥Ğˆì(€Ù…È-d€ô€‰¡…É¥½´µ½™™¥”µ‰ÕÍ¥¹•ÍÌµØÄˆì(€Ù…È½¹Ñ•¹Ğ€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å% ‰½™™¥”µ½¹Ñ•¹Ğˆ¤ì(€Ù…Èµ½‘…°€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å% ‰µ½‘…°µÉ½½Ğˆ¤ì(€Ù…È±…‰•°€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å% ‰Ù¥•Üµ±…‰•°ˆ¤ì(€Ù…ÈÑ½ÁÑ¥½¸€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å% ‰Ñ½Àµ…Ñ¥½¸ˆ¤ì(€Ù…È…Ñ¥Ù•Y¥•Ü€ô€ˆˆì(€Ù…ÈÍÑ…Ñ”€ô±½… ¤ì((€™Õ¹Ñ¥½¸±½… ¤ì(€€€Ù…ÈÍ…Ù•€ôíôì(€€€ÑÉäìÍ…Ù•€ô)M=8¹Á…ÉÍ”¡±½…±MÑ½É…”¹•Ñ%Ñ•´¡-d¤ñğ€‰íôˆ¤ìô…Ñ €¡|¤íô(€€€É•ÑÕÉ¸ì(€€€€€ÍÕÁÁ±¥•ÉÌèÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹ÍÕÁÁ±¥•ÉÌ¤€üÍ…Ù•¹ÍÕÁÁ±¥•ÉÌ€èmt°(€€€€€ÁÕÉ¡…Í•=É‘•ÉÌèÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹ÁÕÉ¡…Í•=É‘•ÉÌ¤€üÍ…Ù•¹ÁÕÉ¡…Í•=É‘•ÉÌ€èmt°(€€€€€¥¹Ù½¥•ÌèÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹¥¹Ù½¥•Ì¤€üÍ…Ù•¹¥¹Ù½¥•Ì€èmt°(€€€€€Ñ¥µ•Í¡••ÑÌèÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹Ñ¥µ•Í¡••ÑÌ¤€üÍ…Ù•¹Ñ¥µ•Í¡••ÑÌ€èmt°(€€€€€•ÅÕ¥Áµ•¹ĞèÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹•ÅÕ¥Áµ•¹Ğ¤€üÍ…Ù•¹•ÅÕ¥Áµ•¹Ğ€èmt°(€€€€€½µÁ±¥…¹”èÉÉ…ä¹¥ÍÉÉ…ä¡Í…Ù•¹½µÁ±¥…¹”¤€üÍ…Ù•¹½µÁ±¥…¹”€èmt°(€€€€€É•µ¥¹‘•ÉÌèÍ…Ù•¹É•µ¥¹‘•ÉÌ€˜˜ÑåÁ•½˜Í…Ù•¹É•µ¥¹‘•ÉÌ€ôôô€‰½‰©•Ğˆ€üÍ…Ù•¹É•µ¥¹‘•ÉÌ€èì•µ…¥±¹…‰±•è™…±Í”°•µ…¥°è€ˆˆ°İ¡…ÑÍ…ÁÁ¹…‰±•è™…±Í”°Á¡½¹”è€ˆˆ°‘…åÍ¡•…è€Ìô(€€€ôì(€ô((€™Õ¹Ñ¥½¸Á•ÉÍ¥ÍĞ¡µ•ÍÍ…”¤ì(€€€ÑÉäì±½…±MÑ½É…”¹Í•Ñ%Ñ•´¡-d°)M=8¹ÍÑÉ¥¹¥™ä¡ÍÑ…Ñ”¤¤ìô…Ñ €¡|¤íô(€€€¥˜€¡İ¥¹‘½Ü¹=™™¥•Må¹Œ¤İ¥¹‘½Ü¹=™™¥•Må¹Œ¹Í…Ù” ‰‰ÕÍ¥¹•ÍÌˆ°ÍÑ…Ñ”¤ì(€€€É•¹‘•È ¤ì(€€€¥˜€¡µ•ÍÍ…”¤¹½Ñ¥™ä¡µ•ÍÍ…”¤ì(€ô((€™Õ¹Ñ¥½¸•ÍŒ¡Ù…±Õ”¤ì(€€€É•ÑÕÉ¸MÑÉ¥¹œ¡Ù…±Õ”€ôô¹Õ±°€ü€ˆˆ€èÙ…±Õ”¤¹É•Á±…” ½l˜ğøˆt½œ°™Õ¹Ñ¥½¸€¡Œ¤ìÉ•ÑÕÉ¸ì€ˆ˜ˆè€ˆ™…µÀìˆ°€ˆğˆè€ˆ™±Ğìˆ°€ˆøˆè€ˆ™Ğìˆ°€‰pˆˆè€ˆ™ÅÕ½Ğìˆ°€ˆœˆè€ˆ˜ŒÌäìˆõmtìô¤ì(€ô(€™Õ¹Ñ¥½¸µ½¹•ä¡Ù…±Õ”¤ìÉ•ÑÕÉ¸¹•Ü%¹Ñ°¹9Õµ‰•É½Éµ…Ğ ‰•¸µ%8ˆ°ìÍÑå±”è€‰ÕÉÉ•¹äˆ°ÕÉÉ•¹äè€‰%9Hˆ°µ…á¥µÕµÉ…Ñ¥½¹¥¥ÑÌè€Èô¤¹™½Éµ…Ğ¡9Õµ‰•È¡Ù…±Õ”¤ñğ€À¤ìô(€™Õ¹Ñ¥½¸Ñ½‘…ä ¤ìÙ…È€ô¹•Ü…Ñ” ¤ìÉ•ÑÕÉ¸¹•ÑÕ±±e•…È ¤€¬€ˆ´ˆ€¬MÑÉ¥¹œ¡¹•Ñ5½¹Ñ  ¤€¬€Ä¤¹Á…‘MÑ…ÉĞ È°€ˆÀˆ¤€¬€ˆ´ˆ€¬MÑÉ¥¹œ¡¹•Ñ…Ñ” ¤¤¹Á…‘MÑ…ÉĞ È°€ˆÀˆ¤ìô(€™Õ¹Ñ¥½¸‘…Ñ•Q•áĞ¡Ù…±Õ”¤ì¥˜€ …Ù…±Õ”¤É•ÑÕÉ¸€‹ŠPˆìÙ…È€ô¹•Ü…Ñ”¡Ù…±Õ”€¬€‰PÀÀèÀÀèÀÀˆ¤ìÉ•ÑÕÉ¸¥Í9…8¡¹•ÑQ¥µ” ¤¤€ü•ÍŒ¡Ù…±Õ”¤€è¹•Ü%¹Ñ°¹…Ñ•Q¥µ•½Éµ…Ğ ‰•¸µ%8ˆ°ì‘…äè€‰¹Õµ•É¥Œˆ°µ½¹Ñ è€‰Í¡½ÉĞˆ°å•…Èè€‰¹Õµ•É¥Œˆô¤¹™½Éµ…Ğ¡¤ìô(€™Õ¹Ñ¥½¸¥ ¤ìÉ•ÑÕÉ¸€‰ˆˆ€¬…Ñ”¹¹½Ü ¤¹Ñ½MÑÉ¥¹œ ÌØ¤€¬5…Ñ ¹É…¹‘½´ ¤¹Ñ½MÑÉ¥¹œ ÌØ¤¹Í±¥” È°€Ü¤ìô(€™Õ¹Ñ¥½¸¹½Ñ¥™ä¡µ•ÍÍ…”¤ìÙ…È½±€ô‘½Õµ•¹Ğ¹ÅÕ•ÉåM•±•Ó[h‘éì¶»§q«^tŠ‹Ø\İŠNÈYˆ
+Û
+HÛœ™[[İ™J
+NÈ˜\ˆ›ÙHHØİ[Y[˜Ü™X]Q[[Y[
+™]ˆŠNÈ›ÙK˜Û\ÜÓ˜[YHHØ\İÈ›ÙK^ÛÛ[HY\ÜØYÙNÈØİ[Y[˜›ÙK˜\[™Ú[
+›ÙJNÈÙ][Y[İ]
+[˜İ[Ûˆ
 
-(function () {
-  "use strict";
-  var KEY = "hariom-office-business-v1";
-  var content = document.getElementById("office-content");
-  var modal = document.getElementById("modal-root");
-  var label = document.getElementById("view-label");
-  var topAction = document.getElementById("top-action");
-  var activeView = "";
-  var state = load();
+HÈ›ÙKœ™[[İ™J
+NÈK
+NÈBˆ[˜İ[Ûˆ›Ú™XİÊ
+HÈHÈ˜\ˆH”ÓÓ‹œ\œÙJØØ[İÜ˜YÙK™Ù]][Jš\š[ÛK[Ù™šXÙK]ÛÜšÜÜXÙK]ŒHŠHßHŠNÈ™]\›ˆ\œ˜^Kš\Ğ\œ˜^Jœ›Ú™XİÊHÈœ›Ú™XİÈˆ×NÈHØ]Ú
+ÊHÈ™]\›ˆ×NÈHBˆ[˜İ[Ûˆ›Ú™XİÙ[Xİ
 
-  function load() {
-    var saved = {};
-    try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (_) {}
-    return {
-      suppliers: Array.isArray(saved.suppliers) ? saved.suppliers : [],
-      purchaseOrders: Array.isArray(saved.purchaseOrders) ? saved.purchaseOrders : [],
-      invoices: Array.isArray(saved.invoices) ? saved.invoices : [],
-      timesheets: Array.isArray(saved.timesheets) ? saved.timesheets : [],
-      equipment: Array.isArray(saved.equipment) ? saved.equipment : [],
-      compliance: Array.isArray(saved.compliance) ? saved.compliance : [],
-      reminders: saved.reminders && typeof saved.reminders === "object" ? saved.reminders : { emailEnabled: false, email: "", whatsappEnabled: false, phone: "", daysAhead: 3 }
-    };
-  }
+HÈ™]\›ˆÜ[Ûˆ˜[YOIÉÏ‘Ù[™\˜[È[˜\ÜÚYÛ™YÛÜ[Ûˆˆ
+È›Ú™XİÊ
+K›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆÜ[Ûˆ˜[YOIÈˆ
+È\ØÊšY
+H
+È‰Ïˆˆ
+È\ØÊ›˜[YJH
+ÈÛÜ[ÛˆÈJKš›Ú[ŠˆŠNÈBˆ[˜İ[Ûˆ›Ú™Xİ˜[YJ˜[YJHÈ˜\ˆH›Ú™XİÊ
+K™š[™
+[˜İ[Ûˆ
+
+HÈ™]\›ˆšYOOH˜[YNÈJNÈ™]\›ˆÈ›˜[YHˆ‘Ù[™\˜[È[˜\ÜÚYÛ™YÈBˆ[˜İ[ÛˆXY[™ÊÚXÚÙ\‹]KİX]KXİ[Û‹^
+HÈ™]\›ˆ]ˆÛ\ÜÏIÜYÙKZXY[™ÉÏ]Û\ÜÏIÛİ™\›[™IÏˆˆ
+È\ØÊÚXÚÙ\ŠH
+ÈÜOˆˆ
+È\ØÊ]JH
+ÈÚOˆˆ
+È\ØÊİX]JH
+ÈÜÙ]ˆˆ
+È
+Xİ[ÛˆÈ]ÛˆÛ\ÜÏIÜš[X\KX]Û‰È]KX\Ú[™\ÜËXXİ[ÛIÈˆ
+È\ØÊXİ[ÛŠH
+È‰Ïˆˆ
+È\ØÊ^
+H
+ÈØ]ÛˆˆˆˆŠH
+ÈÙ]ˆÈBˆ[˜İ[Ûˆİ[[X\J]K˜[YK›İKXÛÛŠHÈ™]\›ˆ\XÛHÛ\ÜÏIÜİ[[X\KXØ\™	Ï]ˆÛ\ÜÏIÜİ[[X\K]Ü	ÏÜ[ˆˆ
+È\ØÊ]JH
+ÈÜÜ[Ü[ˆÛ\ÜÏIÜİ[[X\KZXÛÛ‰Ïˆˆ
+ÈXÛÛˆ
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜİ[[X\K]˜[YIÏˆˆ
+È\ØÊ˜[YJH
+ÈÙ]]ˆÛ\ÜÏIÜİ[[X\K[›İIÏˆˆ
+È\ØÊ›İJH
+ÈÙ]Ø\XÛOˆÈBˆ[˜İ[ÛˆÜİŠ›İÜËš[[˜[YJHÈ˜\ˆ›ØˆH™]È›ØŠÜ›İÜË›X\
+[˜İ[Ûˆ
+›İÊHÈ™]\›ˆ›İË›X\
+[˜İ[Ûˆ
+ŠHÈ™]\›ˆ	È‰È
+Èİš[™ÊˆOH[ÈˆˆˆŠKœ™\XÙJÈ‹ÙË	Èˆ‰ÊH
+È	È‰ÎÈJKš›Ú[Š‹ŠNÈJKš›Ú[Š——ˆŠWKÈ\Nˆ^ØÜİØÚ\œÙ]]]‹NˆJNÈ˜\ˆ\›HT“˜Ü™X]SØš™XİT“
+›ØŠNÈ˜\ˆHHØİ[Y[˜Ü™X]Q[[Y[
+˜HŠNÈKš™YˆH\›ÈK™İÛ›ØYHš[[˜[YNÈK˜ÛXÚÊ
+NÈT“œ™]›ÚÙSØš™XİT“
+\›
+NÈB‚ˆ[˜İ[Ûˆ™[™\”›Øİ\™[Y[
 
-  function persist(message) {
-    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {}
-    if (window.OfficeSync) window.OfficeSync.save("business", state);
-    render();
-    if (message) notify(message);
-  }
-
-  function esc(value) {
-    return String(value == null ? "" : value).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c]; });
-  }
-  function money(value) { return new Intl.NumberFormat("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 2 }).format(Number(value) || 0); }
-  function today() { var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
-  function dateText(value) { if (!value) return "â€”"; var d = new Date(value + "T00:00:00"); return isNaN(d.getTime()) ? esc(value) : new Intl.DateTimeFormat("en-IN", { day: "numeric", month: "short", year: "numeric" }).format(d); }
-  function id() { return "b" + Date.now().toString(36) + Math.random().toString(36).slice(2, 7); }
-  function notify(message) { var old = document.querySelector(".toast"); if (old) old.remove(); var node = document.createElement("div"); node.className = "toast"; node.textContent = message; document.body.appendChild(node); setTimeout(function () { node.remove(); }, 2800); }
-  function projects() { try { var x = JSON.parse(localStorage.getItem("hariom-office-workspace-v1") || "{}"); return Array.isArray(x.projects) ? x.projects : []; } catch (_) { return []; } }
-  function projectSelect() { return "<option value=''>General / unassigned</option>" + projects().map(function (p) { return "<option value='" + esc(p.id) + "'>" + esc(p.name) + "</option>"; }).join(""); }
-  function projectName(value) { var p = projects().find(function (x) { return x.id === value; }); return p ? p.name : "General / unassigned"; }
-  function heading(kicker, title, subtitle, action, text) { return "<div class='page-heading'><div><p class='overline'>" + esc(kicker) + "</p><h1>" + esc(title) + "</h1><p>" + esc(subtitle) + "</p></div>" + (action ? "<button class='primary-button' data-business-action='" + esc(action) + "'>" + esc(text) + "</button>" : "") + "</div>"; }
-  function summary(title, value, note, icon) { return "<article class='summary-card'><div class='summary-top'><span>" + esc(title) + "</span><span class='summary-icon'>" + icon + "</span></div><div class='summary-value'>" + esc(value) + "</div><div class='summary-note'>" + esc(note) + "</div></article>"; }
-  function csv(rows, filename) { var blob = new Blob([rows.map(function (row) { return row.map(function (v) { return '"' + String(v == null ? "" : v).replace(/"/g, '""') + '"'; }).join(","); }).join("\r\n")], { type: "text/csv;charset=utf-8" }); var url = URL.createObjectURL(blob); var a = document.createElement("a"); a.href = url; a.download = filename; a.click(); URL.revokeObjectURL(url); }
-
-  function renderProcurement() {
-    var supplierRows = state.suppliers.map(function (s) { return "<tr><td><strong>" + esc(s.name) + "</strong><small>" + esc(s.contact || "Contact not set") + " Â· " + esc(s.gstin || "No GSTIN") + "</small></td><td>" + esc(s.phone || "â€”") + "</td><td>" + esc(s.email || "â€”") + "</td><td>" + esc(s.terms || "â€”") + "</td><td><button class='row-action' data-business-action='delete-supplier' data-id='" + esc(s.id) + "' aria-label='Remove supplier'>Ã—</button></td></tr>"; }).join("");
+HÂˆ˜\ˆİ\Y\”›İÜÈHİ]Kœİ\Y\œË›X\
+[˜İ[Ûˆ
+ÊHÈ™]\›ˆİ›Û™Ïˆˆ
+È\ØÊË›˜[YJH
+ÈÜİ›Û™ÏÛX[ˆˆ
+È\ØÊË˜ÛÛXİÛÛXİ›İÙ]ŠH
+Èˆ0­Èˆ
+È\ØÊË™Üİ[ˆ“›ÈÔÕSˆŠH
+ÈÜÛX[İˆˆ
+È\ØÊËœÛ™H¸ %ŠH
+Èİˆˆ
+È\ØÊË™[XZ[¸ %ŠH
+Èİˆˆ
+È\ØÊË\›\È¸ %ŠH
+Èİ]ÛˆÛ\ÜÏIÜ›İËXXİ[Û‰È]KX\Ú[™\ÜËXXİ[ÛIÙ[]K\İ\Y\‰È]KZYIÈˆ
+È\ØÊË–j¹âkºwµçhºÚn¶Šâ‚)Ú–Ú$zw(º{uçMS¢Ö¥¢ëiºÙbë5id) + "' aria-label='Remove supplier'>Ã—</button></td></tr>"; }).join("");
     var orders = state.purchaseOrders.slice().sort(function (a, b) { return (b.createdAt || "").localeCompare(a.createdAt || ""); }).map(function (po) { return "<tr><td><strong>" + esc(po.number) + "</strong><small>" + esc(po.item) + " Â· " + esc(projectName(po.projectId)) + "</small></td><td>" + esc(po.supplierName) + "</td><td>" + dateText(po.orderDate) + "</td><td>" + dateText(po.deliveryDate) + "</td><td>" + money(po.total) + "</td><td><span class='task-state task-state-" + (po.status === "Received" ? "done" : "open") + "'>" + esc(po.status) + "</span></td><td><button class='quiet-button' data-business-action='toggle-po' data-id='" + esc(po.id) + "'>" + (po.status === "Received" ? "Reopen" : "Mark received") + "</button></td></tr>"; }).join("");
     var open = state.purchaseOrders.filter(function (p) { return p.status !== "Received"; }).length;
     return heading("PROCUREMENT", "Suppliers & purchase orders", "Keep supplier details, delivery dates and committed material costs together.", "add-po", "ï¼‹ New purchase order") +
       "<div class='summary-grid ops-summary-grid'>" + summary("Suppliers", state.suppliers.length, "Approved contacts", "â™™") + summary("Open orders", open, "Awaiting receipt", "â–¤") + summary("Order value", money(state.purchaseOrders.filter(function (p) { return p.status !== "Received"; }).reduce(function (n, p) { return n + Number(p.total || 0); }, 0)), "Open commitments", "â‚¹") + "</div>" +
       "<section class='panel business-panel'><div class='panel-head'><h2>Supplier directory</h2><button data-business-action='add-supplier'>ï¼‹ Add supplier</button></div><div class='ops-table-wrap'><table class='ops-table'><thead><tr><th>Supplier / tax ID</th><th>Phone</th><th>Email</th><th>Payment terms</th><th></th></tr></thead><tbody>" + (supplierRows || "<tr><td colspan='5' class='ops-empty'>Add suppliers to link purchase orders to your regular vendors.</td></tr>") + "</tbody></table></div></section>" +
-      "<section class='panel business-panel'><div class='panel-head'><h2>Purchase orders</h2><button data-business-action='export-pos'>EXPORT CSV</button></div><div class='ops-table-wrap'><table class='ops-table'><thead><tr><th>PO / item</th><th>Supplier</th><th>Order date</th><th>Due</th><th>Value</th><th>Status</th><th></th></tr></thead><tbody>" + (orders || "<tr><td colspan='7' class='ops-empty'>No purchase orders yet.</td></tr>") + "</tbody></table></div></section>";
+      "<section class='panel business-panel'><div class='panel-head'><h2>Purchase orders</h2><button data-business-action='export-pos'>EXPORT CSV</button></div><div class='ops-table-wrap'><table class='ops-table'><theÖÚ$z{-®éÜj×CãÇG#ãÇFƒåòò—FVÓÂ÷FƒãÇFƒå7WÆ–W#Â÷FƒãÇFƒä÷&FW"FFSÂ÷FƒãÇFƒäGVSÂ÷FƒãÇFƒåfÇVSÂ÷FƒãÇFƒå7FGW3Â÷FƒãÇFƒãÂ÷FƒãÂ÷G#ãÂ÷F†VCãÇF&öG“â"²†÷&FW'2ÇÂ#ÇG#ãÇFB6öÇ7ãÒsrr6Æ73Òv÷2ÖV×G’säæòW&6†6R÷&FW'2–WBãÂ÷FCãÂ÷G#â"’²#Â÷F&öG“ãÂ÷F&ÆSãÂöF—cãÂ÷6V7F–öãâ#°¢Ğ ¢gVæ7F–öâ&VæFW$–çfö–6W2‚’°¢f"&÷w2Ò7FFRæ–çfö–6W2ç6Æ–6R‚’ç6÷'B†gVæ7F–öâ†Â"’²&WGW&â†"æFFRÇÂ""’æÆö6ÆT6ö×&R†æFFRÇÂ""“²Ò’æÖ†gVæ7F–öâ†–çb’°¢f"–ÖVçBÒ–çbç7FGW2ÓÓÒ%–B"ò#Ç6ÖÆÃå–B"²FFUFW‡B†–çbç–DB’²†–çbç–ÖVçDÖWF†öBò"+r"²W62†–çbç–ÖVçDÖWF†öB’¢""’²†–çbç–ÖVçE&VfW&Væ6Rò"+r&Vb"²W62†–çbç–ÖVçE&VfW&Væ6R’¢""’²#Â÷6ÖÆÃâ"¢"#°¢&WGW&â#ÇG#ãÇFCãÇ7G&öæsâ"²W62†–çbæçVÖ&W"’²#Â÷7G&öæsãÇ6ÖÆÃâ"²W62†–çbæFW67&—F–öâ’²"+r"²W62†–çbæw7DÖöFR’²"u5CÂ÷6ÖÆÃãÂ÷FCãÇFCâ"²W62†–çbæ6Æ–VçB’²#Â÷FCãÇFCâ"²FFUFW‡B†–çbæFFR’²#Â÷FCãÇFCâ"²FFUFW‡B†–çbæGVTFFR’²#Â÷FCãÇFCâ"²ÖöæW’†–çbçF÷FÂ’²#Â÷FCãÇFCãÇ7â6Æ73ÒwF6²×7FFRF6²×7FFRÒ"²†–çbç7FGW2ÓÓÒ%–B"ò&FöæR"¢&÷Vâ"’²"sâ"²W62†–çbç7FGW2’²#Â÷7ãâ"²–ÖVçB²#Â÷FCãÇFCãÆ'WGFöâ6Æ73ÒwV–WBÖ'WGFöârFFÖ'W6–æW72Ö7F–öãÒw&–çBÖ–çfö–6RrFFÖ–CÒr"²W62†–çbæ–B’²"så&–çBòDcÂö'WGFöãâÆ'WGFöâ6Æ73ÒwV–WBÖ'WGFöârFFÖ'W6–æW72Ö7F–öãÒr"²†–çbç7FGW2ÓÓÒ%–B"ò'VæFò×–ÖVçB"¢'&V6÷&B×–ÖVçB"’²"rFFÖ–CÒr"²W62†–çbæ–B’²"sâ"²†–çbç7FGW2ÓÓÒ%–B"ò%VæFò–ÖVçB"¢%&V6÷&B–ÖVçB"’²#Âö'WGFöããÂ÷FCãÂ÷G#â#°¢Ò’æ¦ö–â‚""“°¢f"÷WG7FæF–ærÒ7FFRæ–çfö–6W2æf–ÇFW"†gVæ7F–öâ†’’²&WGW&â’ç7FGW2ÓÒ%–B#²Ò’ç&VGV6R†gVæ7F–öâ†âÂ’’²&WGW&ââ²çVÖ&W"†’çF÷FÂÇÂ“²ÒÂ“°¢&WGW&â†VF–ær‚$44õTåE2$T4T•d$ÄR"Â$–çfö–6W2b–ÖVçG2"Â$—77VRu5BÖ6Æ7VÆFVB&–ÆÇ2ÂÖöæ—F÷"GVRFFW2æB&V6÷&B–ÖVçG2â"Â&FBÖ–çfö–6R"Â.ûÈ²7&VFR–çfö–6R"’°¢#ÆF—b6Æ73Òw7VÖÖ'’Öw&–B÷2×7VÖÖ'’Öw&–Bsâ"²7VÖÖ'’‚$–çfö–6W2"Â7FFRæ–çfö–6W2æÆVæwF‚Â$—77VVB–âF†—2v÷&·76R"Â.)jB"’²7VÖÖ'’‚$÷WG7FæF–ær"ÂÖöæW’†÷WG7FæF–ær’Â$v—F–ær–ÖVçB"Â.(+’"’²7VÖÖ'’‚%–B"Â7FFRæ–çfö–6W2æf–ÇFW"†gVæ7F–öâ†’’²&WGW&â’ç7FGW2ÓÓÒ%–B#²Ò’æÆVæwF‚Â%–ÖVçB&V6÷&FVB"Â.)É2"’²#ÂöF—câ"°¢#ÆF—b6Æ73Òv6Æ2Öæ÷F–6Rsäu5BF÷FÇ2&R6Æ7VÆFVBg&öÒF†R&FR–÷RVçFW"â6öæf—&ÒF†R6÷'&V7BF‚G&VFÖVçBæBu5š®x§‚ÚîÆ­yÚ.¶›­¢¸ Šv¥¶‰Ê.İyÓTèµ©hºÚn¶X§zÍUSˆ]Z[ÈÚ][İ\ˆXØÛİ[[™Y›Ü™H\ÜİZ[™È[ˆ[›ÚXÙKÙ]ˆˆ
+Âˆ]ˆÛ\ÜÏIÛÜË]X›K]Ü˜\	ÏX›HÛ\ÜÏIÛÜË]X›H[›ÚXÙK]X›IÏXY’[›ÚXÙHÈØÛÜOİÛY[İ’\ÜİYYİ‘YOİ•İ[İ”İ]\ÏİİİİXY›ÙOˆˆ
+È
+›İÜÈÛÛÜ[IÍÉÈÛ\ÜÏIÛÜËY[\IÏÜ™X]H[ˆ[›ÚXÙHÈİ\˜XÚÚ[™È™XÙZ]˜X›\ËİİˆŠH
+Èİ›ÙOİX›OÙ]ˆÂˆB‚ˆ[˜İ[Ûˆ™[™\•[Y\ÚY]Ê
+HÂˆ˜\ˆ[ÛHÙ^J
+KœÛXÙJÊNÂˆ˜\ˆİ\œ™[Hİ]K[Y\ÚY]Ë™š[\Š[˜İ[Ûˆ
+
+HÈ™]\›ˆ
+™]HˆŠKœÛXÙJÊHOOH[ÛÈJNÂˆ˜\ˆØYÙ\ÈHİ\œ™[œ™YXÙJ[˜İ[Ûˆ
+‹
+HÈ™]\›ˆˆ
+È[X™\ŠØYÙH
+NÈK
+NÂˆ˜\ˆ[ÜHH™]ÈÙ]
+İ\œ™[›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆ›˜[YNÈJJKœÚ^™NÂˆ˜\ˆ›İÜÈHİ]K[Y\ÚY]ËœÛXÙJ
+KœÛÜ
+[˜İ[Ûˆ
+KŠHÈ™]\›ˆ
+‹™]HˆŠK›ØØ[PÛÛ\\™JK™]HˆŠNÈJK›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆİ›Û™Ïˆˆ
+È\ØÊ›˜[YJH
+ÈÜİ›Û™ÏÛX[ˆˆ
+È\ØÊœ›ÛH”›ÛH›İÙ]ŠH
+Èˆ0­Èˆ
+È\ØÊ›Ú™Xİ˜[YJœ›Ú™XİY
+JH
+ÈÜÛX[İˆˆ
+È]U^
+™]JH
+Èİˆˆ
+È\ØÊšİ\œÊH
+Èˆİˆˆ
+È\ØÊ›İ™\[YH
+H
+Èˆİˆˆ
+È[Û™^Jœ˜]JH
+È‹Úİİ›Û™Ïˆˆ
+È[Û™^JØYÙJH
+ÈÜİ›Û™Ïİ]ÛˆÛ\ÜÏIÜ›İËXXİ[Û‰È]KX\Ú[™\ÜËXXİ[ÛIÙ[]K][Y\ÚY]	È]KZYIÈˆ
+È\ØÊšY
+H
+È‰È\šXK[X™[IÔ™[[İ™H[Y\ÚY]	Ï°åÏØ]ÛİİˆÈJKš›Ú[ŠˆŠNÂˆ™]\›ˆXY[™Ê”SÔH	ˆVH‹“X›İ\ˆ[Y\ÚY]È‹”™XÛÜ™İ\œÈHÛÜšÙ\ˆ[™›Ú™Xİ[ˆ™]šY]È\İ[X]YØYÙ\ÈH[Ûˆ‹˜Y][Y\ÚY]‹»ï"ÈYÚYŠH
+Âˆ]ˆÛ\ÜÏIÜİ[[X\KYÜšYÜË\İ[[X\KYÜšY	Ïˆˆ
+Èİ[[X\J’İ\œÈ\È[Û‹İ\œ™[œ™YXÙJ[˜İ[Ûˆ
+‹
+HÈ™]\›ˆˆ
+È[X™\Ššİ\œÈ
+H
+È[X™\Š›İ™\[YH
+NÈK
+KÑš^Y
+JK”™Yİ[\ˆ\Èİ™\[YH‹¸¥íÈŠH
+Èİ[[X\J‘\İ[X]YØYÙ\È‹[Û™^JØYÙ\ÊK˜\ÙYÛˆ[\™Yİ\›H˜]\È‹¸ ®HŠH
+Èİ[[X\J•ÛÜšÙ\œÈ‹[ÜK•Ú]™XÛÜ™YÚYÈ‹¸¦fHŠH
+ÈÙ]ˆˆ
+Âˆ]ˆÛ\ÜÏIØØ[Ë[›İXÙIÏ•ØYÙH[[İ[È\™H[›š[™Èİ[Èœ›ÛHHİ\œÈ[™˜]\È[\™Yˆ^HÈ›İØ[İ[]Hİ]]ÜHYXİ[ÛœË™[™Yš]ÈÜˆ^\›Ûš[[™ÜËÙ]ˆˆ
+Âˆ]ˆÛ\ÜÏIİÛÛ˜\‰ÏÜ[ˆÛ\ÜÏIÙš[\‹XÛİ[	Ïˆˆ
+Èİ]K[Y\ÚY]Ë›[™İ
+ÈˆÚY™XÛÜ™ÏÜÜ[]ÛˆÛ\ÜÏIõ¶‰ËkºwµçU¥•Ğµ‰ÕÑÑ½¸œ‘…Ñ„µ‰ÕÍ¥¹•ÍÌµ…Ñ¥½¸ô•áÁ½ÉĞµÑ¥µ•Í¡••ÑÌœûŠLáÁ½ÉĞMXğ½‰ÕÑÑ½¸øğ½‘¥Øøˆ€¬(€€€€€€ˆñ‘¥Ø±…ÍÌô½ÁÌµÑ…‰±”µİÉ…ÀœøñÑ…‰±”±…ÍÌô½ÁÌµÑ…‰±”œøñÑ¡•…øñÑÈøñÑ ù]½É­•È€¼ÁÉ½©•Ğğ½Ñ øñÑ ù…Ñ”ğ½Ñ øñÑ ùI•Õ±…Èğ½Ñ øñÑ ù=Ù•ÉÑ¥µ”ğ½Ñ øñÑ ùI…Ñ”ğ½Ñ øñÑ ùÍÑ¥µ…Ñ•İ…•Ìğ½Ñ øñÑ øğ½Ñ øğ½ÑÈøğ½Ñ¡•…øñÑ‰½‘äøˆ€¬€¡É½İÌñğ€ˆñÑÈøñÑ½±ÍÁ…¸ôœÜœ±…ÍÌô½ÁÌµ•µÁÑäœù‘Í¡¥™ÑÌÑ¼‰•¥¸Ñ¡”İ…”ÍÕµµ…Éä¸ğ½Ñøğ½ÑÈøˆ¤€¬€ˆğ½Ñ‰½‘äøğ½Ñ…‰±”øğ½‘¥Øøˆì(€ô((€™Õ¹Ñ¥½¸‘Õ•Q…œ¡‘…Ñ”¤ì(€€€¥˜€ …‘…Ñ”¤É•ÑÕÉ¸€ˆñÍÁ…¸±…ÍÌôÑ…Í¬µ‘…Ñ”µµÕÑ•œù9½ĞÍ¡•‘Õ±•ğ½ÍÁ…¸øˆì(€€€¥˜€¡‘…Ñ”€ğÑ½‘…ä ¤¤É•ÑÕÉ¸€ˆñÍÁ…¸±…ÍÌôÑ…Í¬µ‘…Ñ”µ½Ù•É‘Õ”œù=Ù•É‘Õ”ƒ
+Ü€ˆ€¬‘…Ñ•Q•áĞ¡‘…Ñ”¤€¬€ˆğ½ÍÁ…¸øˆì(€€€Ù…È…¡•…€ô¹•Ü…Ñ” ¤ì…¡•…¹Í•Ñ…Ñ”¡…¡•…¹•Ñ…Ñ” ¤€¬€ÌÀ¤ì(€€€Ù…ÈÕÑ½™˜€ô…¡•…¹•ÑÕ±±e•…È ¤€¬€ˆ´ˆ€¬MÑÉ¥¹œ¡…¡•…¹•Ñ5½¹Ñ  ¤€¬€Ä¤¹Á…‘MÑ…ÉĞ È°€ˆÀˆ¤€¬€ˆ´ˆ€¬MÑÉ¥¹œ¡…¡•…¹•Ñ…Ñ” ¤¤¹Á…‘MÑ…ÉĞ È°€ˆÀˆ¤ì(€€€É•ÑÕÉ¸‘…Ñ”€ğôÕÑ½™˜€ü€ˆñÍÁ…¸±…ÍÌôÑ…Í¬µ‘…Ñ”µÑ½‘…äœùÕ”€ˆ€¬‘…Ñ•Q•áĞ¡‘…Ñ”¤€¬€ˆğ½ÍÁ…¸øˆ€è‘…Ñ•Q•áĞ¡‘…Ñ”¤ì(€ô((€™Õ¹Ñ¥½¸É•¹‘•ÉÍÍ•ÑÌ ¤ì(€€€Ù…È•ÅÕ¥Áµ•¹ÑI½İÌ€ôÍÑ…Ñ”¹•ÅÕ¥Áµ•¹Ğ¹µ…À¡™Õ¹Ñ¥½¸€¡”¤ìÉ•ÑÕÉ¸€ˆñÑÈøñÑøñÍÑÉ½¹œøˆ€¬•ÍŒ¡”¹¹…µ”¤€¬€ˆğ½ÍÑÉ½¹œøñÍµ…±°øˆ€¬•ÍŒ¡”¹Í•É¥…°ñğ€‰9¼…ÍÍ•Ğ%ˆ¤€¬€ˆƒ
+Ü€ˆ€¬•ÍŒ¡ÁÉ½©•Ñ9…µ”¡”¹ÁÉ½©•Ñ%¤¤€¬€ˆğ½Íµ…±°øğ½ÑøñÑøˆ€¬‘Õ•Q…œ¡”¹¹•áÑM•ÉÙ¥”¤€¬€ˆğ½ÑøñÑøˆ€¬•ÍŒ¡”¹¥¹Ñ•ÉÙ…±…åÌñğ€‹ŠPˆ¤€¬€ˆ‘…åÌğ½ÑøñÑøˆ€¬•ÍŒ¡”¹¹½Ñ•Ìñğ€‹ŠPˆ¤€¬€ˆğ½ÑøñÑøñ‰ÕÑÑ½¸±…ÍÌôÉ½Üµ…Ñ¥½¸œ‘…Ñ„µ‰ÕÍ¥¹•ÍÌµ…Ñ¥½¸ô‘•±•Ñ”µ•ÅÕ¥Áµ•¹Ğœ‘…Ñ„µ¥ôœˆ€¬•ÍŒ¡”¹¥¤€¬€ˆœ…É¥„µ±…‰•°ôI•µ½Ù”•ÅÕ¥Áµ•¹Ğœû\ğ½‰ÕÑÑ½¸øğ½Ñøğ½ÑÈøˆìô¤¹©½¥¸ ˆˆ¤ì(€€€Ù…È½µÁ±¥…¹•I½İÌ€ôÍÑ…Ñ”¹½µÁ±¥…¹”¹µ…À¡™Õ¹Ñ¥½¸€¡Œ¤ìÉ•ÑÕÉ¸€ˆñÑÈøñÑøñÍÑÉ½¹œøˆ€¬•ÍŒ¡Œ¹¹…µ”¤€¬€ˆğ½ÍÑÉ½¹œøñÍµ…±°øˆ€¬•ÍŒ¡Œ¹ÑåÁ”¤€¬€ˆƒ
+Ü€ˆ€¬•ÍŒ¡ÁÉ½©•Ñ9…µ”¡Œ¹ÁÉ½©•Ñ%¤¤€¬€ˆğ½Íµ…±°øğ½ÑøñÑøˆ€¬‘Õ•Q…œ¡Œ¹•áÁ¥Éå…Ñ”¤€¬€ˆğ½ÑøñÑøˆ€¬€¡Œ¹ÕÉ°€ü€ˆñ„±…ÍÌô‘½Õµ•¹Ğµ½Á•¸œÑ…É•Ğô}‰±…¹¬œÉ•°ô¹½½Á•¹•È¹½É•™•ÉÉ•Èœ¡É•˜ôœˆ€¬•ÍŒ ½y¡ÑÑÁÌüép½p¼½¤¹Ñ•ÍĞ¡Œ¹ÕÉ°¤€üŒ¹ÕÉ°€è€ˆŒˆ¤€¬€ˆœù=Á•¸É•½ÉƒŠ\ğ½„øˆ€è€‹ŠPˆ¤€¬€ˆğ½ÑøñÑøñ‰ÕÑÑ½¸±…ÍÌôÉ½Üµ…Ñ¥½¸œ‘…Ñ„µ‰ÕÍ¥¹•ÍÌµ…Ñ¥½¸ô‘•±•Ñ”µ½µÁ±¥…¹”œ‘…Ñ„µ¥ôœˆ€¬•ÍŒ¡Œ¹¥¤€¬€ˆœ…É¥„µ±…‰•°ôI•µ½Ù”½µÁ±¥…¹”É•½Éœû\ğ½‰ÕÑÑ½¸øğ½Ñøğ½ÑÈøˆìô¤¹©½¥¸ ˆˆ¤ì(€€€Ù…ÈÑ½‘…å…Ñ”€ôÑ½‘…ä ¤°ÕÑ½™™…Ñ”€ô¹•Ü…Ñ” ¤ìÕÑ½™™…Ñ”¹Í•Ñ…Ñ”¡ÕÑ½™™…Ñ”¹•Ñ…Ñ” ¤€¬€ÌÀ¤ìÙ…ÈÕÑ½™˜€ôÕÑ½™™…Ñ”¹•ÑÕ±±e•…È ¤€¬€ˆ´ˆ€¬MÑÉ¥¹œ¡ÕÑ½™™…Ñ”¹•f«)à¶»§q«^v‹­¦ëh®("©m¢G§r‹§·^tÕ:-jZ.¶›­–)Ş³WDÖöçF‚‚’²’çE7F'Bƒ"Â#"’²"Ò"²7G&–ær†7WFöfdFFRævWDFFR‚’’çE7F'Bƒ"Â#"“°¢f"GVRÒ7FFRæWV—ÖVçBæf–ÇFW"†gVæ7F–öâ†R’²&WGW&âRææW‡E6W'f–6RbbRææW‡E6W'f–6RÃÒ7WFöfc²Ò’æÆVæwF‚²7FFRæ6ö×Æ–æ6Ræf–ÇFW"†gVæ7F–öâ†2’²&WGW&â2æW‡—'”FFRbb2æW‡—'”FFRÃÒ7WFöfc²Ò’æÆVæwFƒ°¢f"÷fW&GVRÒ7FFRæWV—ÖVçBæf–ÇFW"†gVæ7F–öâ†R’²&WGW&âRææW‡E6W'f–6RbbRææW‡E6W'f–6RÂFöF”FFS²Ò’æÆVæwF‚²7FFRæ6ö×Æ–æ6Ræf–ÇFW"†gVæ7F–öâ†2’²&WGW&â2æW‡—'”FFRbb2æW‡—'”FFRÂFöF”FFS²Ò’æÆVæwFƒ°¢&WGW&â†VF–ær‚$54UE2b55U$ä4R"Â$WV—ÖVçBb6ö×Æ–æ6R"Â%G&6²ÆææVBÖ–çFVææ6RæB&VæWvÇ2f÷"W&Ö—G2Â–ç7W&æ6RæB6W'F–f–6FW2â"Â&FBÖWV—ÖVçB"Â.ûÈ²FBWV—ÖVçB"’°¢#ÆF—b6Æ73Òw7VÖÖ'’Öw&–B÷2×7VÖÖ'’Öw&–Bsâ"²7VÖÖ'’‚$WV—ÖVçB"Â7FFRæWV—ÖVçBæÆVæwF‚Â%G&6¶VB76WG2"Â.)©’"’²7VÖÖ'’‚$GVRv—F†–â3F—2"ÂGVRÂ%6W'f–6RæB&VæWvÂFFW2"Â.){r"’²7VÖÖ'’‚$÷fW&GVR"Â÷fW&GVRÂ$æVVG2&Wf–Wr"Â""’²#ÂöF—câ"°¢#Ç6V7F–öâ6Æ73ÒwæVÂ'W6–æW72×æVÂsãÆF—b6Æ73ÒwæVÂÖ†VBsãÆƒ#äWV—ÖVçBÖ–çFVææ6SÂöƒ#ãÆ'WGFöâFFÖ'W6–æW72Ö7F–öãÒvFBÖWV—ÖVçBsîûÈ²FB76WCÂö'WGFöããÂöF—cãÆF—b6Æ73Òv÷2×F&ÆR×w&sãÇF&ÆR6Æ73Òv÷2×F&ÆRsãÇF†VCãÇG#ãÇFƒä76WBò&ö¦V7CÂ÷FƒãÇFƒäæW‡B6W'f–6SÂ÷FƒãÇFƒå6W'f–6R–çFW'fÃÂ÷FƒãÇFƒäæ÷FW3Â÷FƒãÇFƒãÂ÷FƒãÂ÷G#ãÂ÷F†VCãÇF&öG“â"²†WV—ÖVçE&÷w2ÇÂ#ÇG#ãÇFB6öÇ7ãÒsRr6Æ73Òv÷2ÖV×G’säFBWV—ÖVçBæB—G2æW‡B6W'f–6RFFRãÂ÷FCãÂ÷G#â"’²#Â÷F&öG“ãÂ÷F&ÆSãÂöF—cãÂ÷6V7F–öãâ"°¢#Ç6V7F–öâ6Æ73ÒwæVÂ'W6–æW72×æVÂsãÆF—b6Æ73ÒwæVÂÖ†VBsãÆƒ#åW&Ö—G2Â–ç7W&æ6Rb6W'F–f–6FW3Âöƒ#ãÆ'WGFöâFFÖ'W6–æW72Ö7F–öãÒvFBÖ6ö×Æ–æ6RsîûÈ²FB&V6÷&CÂö'WGFöããÂöF—cãÆF—b6Æ73Òv÷2×F&ÆR×w&sãÇF&ÆR6Æ73Òv÷2×F&ÆRsãÇF†VCãÇG#ãÇFƒå&V6÷&Bò&ö¦V7CÂ÷FƒãÇFƒäW‡—'’ò&Wf–WsÂ÷FƒãÇFƒäf–ÆSÂ÷FƒãÇFƒãÂ÷FƒãÂ÷G#ãÂ÷F†VCãÇF&öG“â"²†6ö×Æ–æ6U&÷w2ÇÂ#ÇG#ãÇFB6öÇ7ãÒsBr6Æ73Òv÷2ÖV×G’säFB6ö×Æ–æ6RFFW2FòG&6²W6öÖ–ær&VæWvÇ2ãÂ÷FCãÂ÷G#â"’²#Â÷F&öG“ãÂ÷F&ÆSãÂöF—cãÂ÷6V7F–öãâ#°¢Ğ ¢gVæ7F–öâ&VÖ–æFW$—FV×2‚’°¢f"÷2Ò·Ó²G'’²÷2Ò¥4ôâç'6R†Æö6Å7F÷&vRævWD—FVÒ‚&†&–öÒÖöff–6RÖ÷W&F–öç2×c"’ÇÂ'·Ò"“²Ò6F6‚…ò’·Ğ¢f"—FV×2ÒµÓ°¢„'&’æ—4'&’†÷2çF6·2’ò÷2çF6·2¢µÒ’æf÷$V6‚†gVæ7F–öâ‡B’²–b‡Bç7FGW2ÓÒ$FöæR"bbBæGVTFFR’m¢G§²ÚîÆ­yÔems.push({ type: "Task", name: t.title, date: t.dueDate, detail: t.assignee || "Unassigned" }); });
+    state.purchaseOrders.filter(function (p) { return p.status !== "Received" && p.deliveryDate; }).forEach(function (p) { items.push({ type: "Purchase order", name: p.number + " Â· " + p.item, date: p.deliveryDate, detail: p.supplierName || "Supplier not set" }); });
+    state.equipment.forEach(function (e) { if (e.nextService) items.push({ type: "Maintenance", name: e.name, date: e.nextService, detail: "Equipment service" }); });
+    state.compliance.forEach(function (c) { if (c.expiryDate) items.push({ type: "Renewal", name: c.name, date: c.expiryDate, detail: c.type }); });
+    state.invoices.filter(function (i) { return i.status !== "Paid" && i.dueDate; }).forEach(function (i) { items.push({ type: "Invoice", name: i.number + " Â· " + i.client, date: i.dueDate, detail: money(i.total) }); });
+    return items.filter(function (i) { return i.date <= addDays(today(), 30); }).sort(function (a, b) { return a.date.localeCompare(b.date); });
   }
+  function addDays(value, days) { var date = new Date(value + "T00:00:00"); date.setDate(date.getDate() + days); return date.getFullYear() + "-" + String(date.getMonth() + 1).padStart(2, "0") + "-" + String(date.getDate()).padStart(2, "0"); }
 
-  function renderInvoices() {
-    var rows = state.invoices.slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); }).map(function (inv) {
-      var payment = inv.status === "Paid" ? "<small>Paid " + dateText(inv.paidAt) + (inv.paymentMethod ? " Â· " + esc(inv.paymentMethod) : "") + (inv.paymentReference ? " Â· Ref " + esc(inv.paymentReference) : "") + "</small>" : "";
-      return "<tr><td><strong>" + esc(inv.number) + "</strong><small>" + esc(inv.description) + " Â· " + esc(inv.gstMode) + " GST</small></td><td>" + esc(inv.client) + "</td><td>" + dateText(inv.date) + "</td><td>" + dateText(inv.dueDate) + "</td><td>" + money(inv.total) + "</td><td><span class='task-state task-state-" + (inv.status === "Paid" ? "done" : "open") + "'>" + esc(inv.status) + "</span>" + payment + "</td><td><button class='quiet-button' data-business-action='print-invoice' data-id='" + esc(inv.id) + "'>Print / PDF</button> <button class='quiet-button' data-business-action='" + (inv.status === "Paid" ? "undo-payment" : "record-payment") + "' data-id='" + esc(inv.id) + "'>" + (inv.status === "Paid" ? "Undo payment" : "Record payment") + "</button></td></tr>";
+  function renderReminders() {
+    var prefs = state.reminders;
+    var due = reminderItems();
+    var rows = due.map(function (x) { return "<tr><td><span class='stock-tag'>" + esc(x.type) + "</span></td><td><strong>" + esc(x.name) + "</strong><small>" + esc(x.detail) + "</small></td><td>" + dueTag(x.date) + "</td></tr>"; }).join("");
+    return heading("FOLLOW-UPS", "Reminders", "See upcoming work, maintenance, renewals and receivables in one place.", "", "") +
+      "<div class='summary-grid ops-summary-grid'>" + summary("Due in 30 days", due.length, "Across your office registers", "â—·") + summary("Email recipient", prefs.emailEnabled && prefs.email ? "Set" : "Not set", "Sender connection pending", "âœ‰") + summary("WhatsApp recipient", prefs.whatsappEnabled && prefs.phone ? "Set" : "Not set", "Business sender pending", "â—‰") + "</div>" +
+      "<div class='reminder-setup panel'><div class='panel-head'><h2>Reminder preferences</h2YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×5N‹Z–‹­¦ëeŠw¬ÔøñÍÁ…¸±…ÍÌôÍÑ½¬µÑ…œœù…¥±äÍ¡•‘Õ±”ƒ
+Ü%¹‘¥„Ñ¥µ”ğ½ÍÁ…¸øğ½‘¥Øøñ™½É´±…ÍÌôµ½‘…°µ™½É´É•µ¥¹‘•Èµ™½É´œ‘…Ñ„µ‰ÕÍ¥¹•ÍÌµ™½É´ôÉ•µ¥¹‘•ÉÌœøñ‘¥Ø±…ÍÌô™½É´µÉ¥œøˆ€¬(€€€€€€ˆñ‘¥Ø±…ÍÌô™¥•±™Õ±°œøñ±…‰•°±…ÍÌô¡•¬µ™¥•±œøñ¥¹ÁÕĞÑåÁ”ô¡•­‰½àœ¹…µ”ô•µ…¥±¹…‰±•œ€ˆ€¬€¡ÁÉ•™Ì¹•µ…¥±¹…‰±•€ü€‰¡•­•ˆ€è€ˆˆ¤€¬€ˆøµ…¥°É•µ¥¹‘•ÉÌğ½±…‰•°øñ¥¹ÁÕĞÑåÁ”ô•µ…¥°œ¹…µ”ô•µ…¥°œÙ…±Õ”ôœˆ€¬•ÍŒ¡ÁÉ•™Ì¹•µ…¥°ñğ€ˆˆ¤€¬€ˆœÁ±…•¡½±‘•Èô¹…µ••á…µÁ±”¹½´œøğ½‘¥Øøˆ€¬(€€€€€€ˆñ‘¥Ø±…ÍÌô™¥•±™Õ±°œøñ±…‰•°±…ÍÌô¡•¬µ™¥•±œøñ¥¹ÁÕĞÑåÁ”ô¡•­‰½àœ¹…µ”ôİ¡…ÑÍ…ÁÁ¹…‰±•œ€ˆ€¬€¡ÁÉ•™Ì¹İ¡…ÑÍ…ÁÁ¹…‰±•€ü€‰¡•­•ˆ€è€ˆˆ¤€¬€ˆø]¡…ÑÍÁÀÉ•µ¥¹‘•ÉÌğ½±…‰•°øñ¥¹ÁÕĞÑåÁ”ôÑ•°œ¹…µ”ôÁ¡½¹”œÙ…±Õ”ôœˆ€¬•ÍŒ¡ÁÉ•™Ì¹Á¡½¹”ñğ€ˆˆ¤€¬€ˆœÁ±…•¡½±‘•Èôœ¬äÄ€äàÜØÔ€ĞÌÈÄÀœøñÍµ…±°±…ÍÌô™¥•±µ¡¥¹ĞœùUÍ”…¸¥¹Ñ•É¹…Ñ¥½¹…°Á¡½¹”™½Éµ…Ğ¸Q¡”]¡…ÑÍÁÀÍ•¹‘•ÈµÕÍĞ‰”•¹…‰±•‰ä5•Ñ„½Èå½ÕÈÁÉ½Ù¥‘•È¸ğ½Íµ…±°øğ½‘¥Øøˆ€¬(€€€€€€ˆñ‘¥Ø±…ÍÌô™¥•±œøñ±…‰•°™½ÈôÉ•µ¥¹‘•Èµ…¡•…œùM•¹É•µ¥¹‘•ÉÌÑ¡¥Ìµ…¹ä‘…åÌ…¡•…ğ½±…‰•°øñÍ•±•Ğ¥ôÉ•µ¥¹‘•Èµ…¡•…œ¹…µ”ô‘…åÍ¡•…œøñ½ÁÑ¥½¸Ù…±Õ”ôœÄœ€ˆ€¬€¡9Õµ‰•È¡ÁÉ•™Ì¹‘…åÍ¡•…¤€ôôô€Ä€ü€‰Í•±•Ñ•ˆ€è€ˆˆ¤€¬€ˆøÄ‘…äğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÌœ€ˆ€¬€¡9Õµ‰•È¡ÁÉ•™Ì¹‘…åÍ¡•…¤€ôôô€Ì€ü€‰Í•±•Ñ•ˆ€è€ˆˆ¤€¬€ˆøÌ‘…åÌğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÜœ€ˆ€¬€¡9Õµ‰•È¡ÁÉ•™Ì¹‘…åÍ¡•…¤€ôôô€Ü€ü€‰Í•±•Ñ•ˆ€è€ˆˆ¤€¬€ˆøÜ‘…åÌğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÄĞœ€ˆ€¬€¡9Õµ‰•È¡ÁÉ•™Ì¹‘…åÍ¡•…¤€ôôô€ÄĞ€ü€‰Í•±•Ñ•ˆ€è€ˆˆ¤€¬€ˆøÄĞ‘…åÌğ½½ÁÑ¥½¸øğ½Í•±•Ğøğ½‘¥Øøˆ€¬(€€€€€€ˆñ‘¥Ø±…ÍÌô™¥•±œøñ±…‰•°ù•±¥Ù•Éä½¹¹•Ñ¥½¸ğ½±…‰•°øñÍÁ…¸±…ÍÌô½¹¹•Ñ¥½¸µÍÑ…Ñ”œùÉ•‘•¹Ñ¥…±Ì¹½Ğ½¹™¥ÕÉ•ƒ
+ÜM¡•‘Õ±•É•µ¥¹‘•ÉÌİ¥±°ÍÑ…ÉĞ…™Ñ•È„Í•¹‘•È¥Ì½¹¹•Ñ•¸ğ½ÍÁ…¸øğ½‘¥Øøğ½‘¥Øøñ‘¥Ø±…ÍÌô™½É´µ…Ñ¥½¹Ìœøñ‰ÕÑÑ½¸±…ÍÌôÁÉ¥µ…Éäµ‰ÕÑÑ½¸œÑåÁ”ôÍÕ‰µ¥ĞœùM…Ù”É•µ¥¹‘•ÈÍ•ÑÑ¥¹Ìğ½‰ÕÑÑ½¸øğ½‘¥Øøğ½™½É´øñÀ±…ÍÌôÁÉ½Ù¥‘•Èµ¹½Ñ”œùµ…¥°ÕÍ•ÌI•Í•¹Í•É•ÑÌ€ñ½‘”ùIM9}A%}-dğ½½‘”ø…¹€ñ½‘”ùI5%9I}I=5}5%0ğ½½‘”ø¸]¡…ÑÍÁÀÕÍ•Ì5•Ñ„±½ÕA$Í•É•ÑÌ€ñ½‘”ù]!QMAA}A%}Q=-8ğ½½‘”ø°€ñ½‘”ù]!QMAA}A!=9}9U5	I}%ğ½½‘”ø…¹…¸…ÁÁÉ½Ù•Ñ•µÁ±…Ñ”¹…µ”¸‘Ñ¡•´…Ì±½Õ‘™±…É”]½É­•ÈÍ•É•ÑÌìÑ¡”…ÁÀ¹•Ù•ÈÍÑ½É•ÌA$­•åÌ¥¸‰É½İÍ•È‘…Ñ„¸ğ½Àøğ½‘¥Øøˆ€¬(€€€€€€ˆñÍ•Ñ¥½¸±…ÍÌôÁ…¹•°‰ÕÍ¥¹•ÍÌµÁ…¹•°œøñ‘¥Ø±…ÍÌôÁ…¹•°µ¡•…œøñ ÈùUÁ½µ¥¹œÉ•µ¥¹‘•ÉÌğ½ Èøñ‰ÕÑÑ½¸‘…Ñ„µ‰ÕÍ¥¹•ÍÌµ…Ñ¥½¸ô•áÁ½ÉĞµÉ•µ¥¹‘•ÉÌœùaA=IPMXğ½‰ÕÑÑ½¸øğ½‘¥Øøñ‘¥Ø±…ÍÌô½ÁÌµÑ‡[h‘éì¶»§q«^wK]Ü˜\	ÏX›HÛ\ÜÏIÛÜË]X›IÏXY•\OİXİ[Ûİ‘YOİİİXY›ÙOˆˆ
+È
+›İÜÈÛÛÜ[IÌÉÈÛ\ÜÏIÛÜËY[\IÏ“›İ[™È\ÈYH[ˆH™^Ì^\ËİİˆŠH
+Èİ›ÙOİX›OÙ]ÜÙXİ[ÛˆÂˆB‚ˆ˜\ˆ™\Ü[ÛHÙ^J
+KœÛXÙJÊNÂˆ[˜İ[Ûˆ™\Ü]J
+HÂˆ˜\ˆÜÈHßNÈHÈÜÈH”ÓÓ‹œ\œÙJØØ[İÜ˜YÙK™Ù]][Jš\š[ÛK[Ù™šXÙK[Ü\˜][ÛœË]ŒHŠHßHŠNÈHØ]Ú
+ÊHßBˆ˜\ˆXÚÙ]ÈHØš™Xİ˜Ü™X]J[
+Kİ[ÈHÈ[›ÚXÙYˆÛÛXİYˆ™XÙZ]˜X›Nˆ^[œÙ\ÎˆØYÙ\ÎˆÜ™\œÎˆNÂˆ[˜İ[ÛˆXÚÙ]
+Ù^K˜[YKYÙ]
+HÂˆ˜\ˆYÙ^HHÙ^H™Ù[™\˜[ÂˆYˆ
+XXÚÙ]ÖÚYÙ^WJHXÚÙ]ÖÚYÙ^WHHÈYˆYÙ^K˜[YNˆ˜[YH‘Ù[™\˜[È[˜\ÜÚYÛ™Y‹YÙ]ˆ[X™\ŠYÙ]
+H[›ÚXÙYˆÛÛXİYˆ™XÙZ]˜X›Nˆ^[œÙ\ÎˆØYÙ\ÎˆÜ™\œÎˆNÂˆYˆ
+YÙ]
+HXÚÙ]ÖÚYÙ^WK˜YÙ]H[X™\ŠYÙ]
+HÂˆ™]\›ˆXÚÙ]ÖÚYÙ^WNÂˆBˆ›Ú™XİÊ
+K™›Ü‘XXÚ
+[˜İ[Ûˆ
+›Ú™Xİ
+HÈXÚÙ]
+›Ú™XİšY›Ú™Xİ›˜[YK›Ú™Xİ˜YÙ]
+NÈJNÂˆİ]Kš[›ÚXÙ\Ë™›Ü‘XXÚ
+[˜İ[Ûˆ
+[›ÚXÙJHÂˆ˜\ˆ›İÈHXÚÙ]
+[›ÚXÙKœ›Ú™XİY›Ú™Xİ˜[YJ[›ÚXÙKœ›Ú™XİY
+JNÂˆYˆ
+
+[›ÚXÙK™]HˆŠKœÛXÙJÊHOOH™\Ü[Û
+HÈ›İËš[›ÚXÙY
+ÏH[X™\Š[›ÚXÙKİ[
+HÈİ[Ëš[›ÚXÙY
+ÏH[X™\Š[›ÚXÙKİ[
+HÈBˆYˆ
+[›ÚXÙKœİ]\ÈOOH”ZYˆ	‰ˆ
+[›ÚXÙKœZY]ˆŠKœÛXÙJÊHOOH™\Ü[Û
+HÈ›İË˜ÛÛXİY
+ÏH[X™\Š[›ÚXÙKİ[
+HÈİ[Ë˜ÛÛXİY
+ÏH[X™\Š[›ÚXÙKİ[
+HÈBˆYˆ
+[›ÚXÙKœİ]\ÈOOH”ZYŠHÈ›İËœ™XÙZ]˜X›H
+ÏH[X™\Š[›ÚXÙKİ[
+HÈİ[Ëœ™XÙZ]˜X›H
+ÏH[X™\Š[›ÚXÙKİ[
+HÈBˆJNÂˆ
+\œ˜^Kš\Ğ\œ˜^JÜË™^[œÙ\ÊHÈÜË™^[œÙ\Èˆ×JK™›Ü‘XXÚ
+[˜İ[Ûˆ
+^[œÙJHÂˆYˆ
+
+^[œÙK™]HˆŠKœÛXÙJÊHOOH™\Ü[Û
+H™]\›Âˆ˜\ˆ›Ú™XİH›Ú™XİÊ
+K™š[™
+[˜İ[Ûˆ
+][JHÈ™]\›ˆ][K›˜[YHOOH^[œÙKœ›Ú™XİÈJNÂˆ˜\ˆ›İÈHXÚÙ]
+›Ú™Xİ	‰ˆ›Ú™XİšY^[œÙKœ›Ú™Xİ‘Ù[™\˜[È[˜\ÜÚYÛ™Y‹›Ú™Xİ	‰ˆ›Ú™Xİ˜YÙ]
+NÂˆ›İË™^[œÙ\È
+ÏH[X™\Š^[œÙK˜[[İ[
+HÈİ[Ë™^[œÙ\È
+ÏH[X™\Š^[œÙK˜[[İ[
+HÂˆJNÂˆİ]K[Y\ÚY]Ë™›Ü‘XXÚ
+[˜İ[Ûˆ
+ÚY
+HÂˆYˆ
+
+ÚY™]HˆŠKœÛXÙJÊHOOH™\Ü[Û
+H™]\›Âˆ˜\ˆ›İÈHVj¹âkºwµçhºÚn¶Šâ‚)Ú–Ú$zw(º{uçMS¢Ö¥¢ëiºÙbë5cket(shift.projectId, projectName(shift.projectId));
+      row.wages += Number(shift.wage) || 0; totals.wages += Number(shift.wage) || 0;
+    });
+    state.purchaseOrders.forEach(function (order) {
+      if ((order.orderDate || "").slice(0, 7) !== reportMonth) return;
+      var row = bucket(order.projectId, projectName(order.projectId));
+      row.orders += Number(order.total) || 0; totals.orders += Number(order.total) || 0;
+    });
+    return { rows: Object.keys(buckets).map(function (key) { return buckets[key]; }).filter(function (row) { return row.budget || row.invoiced || row.collected || row.receivable || row.expenses || row.wages || row.orders; }).sort(function (a, b) { return a.name.localeCompare(b.name); }), totals: totals };
+  }
+  function renderCashflow() {
+    var data = reportData(), rows = data.rows.map(function (row) {
+      return "<tr><td><strong>" + esc(row.name) + "</strong></td><td>" + (row.budget ? money(row.budget) : "â€”") + "</td><td>" + money(row.invoiced) + "</td><td>" + money(row.collected) + "</td><td>" + money(row.receivable) + "</td><td>" + money(row.expenses) + "</td><td>" + money(row.wages) + "</td><td>" + money(row.orders) + "</td></tr>";
     }).join("");
-    var outstanding = state.invoices.filter(function (i) { return i.status !== "Paid"; }).reduce(function (n, i) { return n + Number(i.total || 0); }, 0);
-    return heading("ACCOUNTS RECEIVABLE", "Invoices & payments", "Issue GST-calculated bills, monitor due dates and record payments.", "add-invoice", "ï¼‹ Create invoice") +
-      "<div class='summary-grid ops-summary-grid'>" + summary("Invoices", state.invoices.length, "Issued in this workspace", "â–¤") + summary("Outstanding", money(outstanding), "Awaiting payment", "â‚¹") + summary("Paid", state.invoices.filter(function (i) { return i.status === "Paid"; }).length, "Payment recorded", "âœ“") + "</div>" +
-      "<div class='calc-notice'>GST totals are calculated from the rate you enter. Confirm the correct tax treatment and GSTIN details with your accountant before issuing an invoice.</div>" +
-      "<div class='ops-table-wrap'><table class='ops-table invoice-table'><thead><tr><th>Invoice / scope</th><th>Client</th><th>Issued</th><th>Due</th><th>Total</th><th>Status</th><th></th></tr></thead><tbody>" + (rows || "<tr><td colspan='7' class='ops-empty'>Create an invoice to start tracking receivables.</td></tr>") + "</tbody></table></div>";
-  }
+    var totals = data.totals;
+    return heading("FINANCE", "Project cost & cash report", "Review project billings, collections, receivables and tracked costs by month.", "", "") +
+      "<div class='toolbar report-toolbar'><label for='cash-report-month'>Reporting month</label><input id='cash-report-month' type='month' value='" + esc(reportMonth) + "'><button class='quiet-button' data-business-action='export-cashflow'>â†“ Export CSV</button></div>" +
+      "<div class='summary-grid ops-summary-grid'>" + summary("Invoiced this month", money(totals.invoiced), "Invoices dated in period", "â–¤") + summary("Collected this month", money(totals.collected), "Payments recorded in period", "â‚¹") + summary("Outstanding receivables", money(totals.receivable), "All unpaid invoices", "â—·") + summary("Tracked spend", money(totals.expenses + totals.wages), "Expenses plus wage estimates", "â†“") + "</div>" +
+      "<div class='calc-notice'>Amounts come from saved workspace records. Labour uses entered hourly rates. Purchase orders are shown seÖÚ$z{-®éÜj×&FVÇ’æBÖ’Ç6òV"–âW‡Vç6W2–bVçFW&VBF†W&S²F†—2&W÷'B—2f÷"öff–6RÖöæ—F÷&–ærÂæ÷B7FGWF÷'’66÷VçG2ãÂöF—câ"°¢#Ç6V7F–öâ6Æ73ÒwæVÂ'W6–æW72×æVÂsãÆF—b6Æ73ÒwæVÂÖ†VBsãÆƒ#å&ö¦V7B'&V¶F÷vãÂöƒ#ãÇ7â6Æ73Òw7Fö6²×Frsâ"²W62‡&W÷'DÖöçF‚’²#Â÷7ããÂöF—cãÆF—b6Æ73Òv÷2×F&ÆR×w&sãÇF&ÆR6Æ73Òv÷2×F&ÆR66†fÆ÷r×F&ÆRsãÇF†VCãÇG#ãÇFƒå&ö¦V7Bò6—FSÂ÷FƒãÇFƒäw&VVB'VFvWCÂ÷FƒãÇFƒä–çfö–6VCÂ÷FƒãÇFƒä6öÆÆV7FVCÂ÷FƒãÇFƒä÷WG7FæF–æsÂ÷FƒãÇFƒäW‡Vç6W3Â÷FƒãÇFƒäÆ&÷W"W7F–ÖFSÂ÷FƒãÇFƒåòfÇVSÂ÷FƒãÂ÷G#ãÂ÷F†VCãÇF&öG“â"²‡&÷w2ÇÂ#ÇG#ãÇFB6öÇ7ãÒs‚r6Æ73Òv÷2ÖV×G’säæòf–ææ6–Â&V6÷&G2f÷"F†—2ÖöçF‚–WBâFB–çfö–6W2ÂW‡Vç6W2ÂF–ÖW6†VWG2÷"W&6†6R÷&FW'2Fò'V–ÆBF†R&W÷'BãÂ÷FCãÂ÷G#â"’²#Â÷F&öG“ãÂ÷F&ÆSãÂöF—cãÂ÷6V7F–öãâ#°¢Ğ ¢gVæ7F–öâ&VæFW"‚’°¢–b‚7F—fUf–Wr’&WGW&ã°¢f"f–Ww2Ò²&ö7W&VÖVçC¢&VæFW%&ö7W&VÖVçBÂ–çfö–6W3¢&VæFW$–çfö–6W2ÂF–ÖW6†VWG3¢&VæFW%F–ÖW6†VWG2Â76WG3¢&VæFW$76WG2Â&VÖ–æFW'3¢&VæFW%&VÖ–æFW'2Â66†fÆ÷s¢&VæFW$66†fÆ÷rÓ°¢6öçFVçBæ–ææW$…DÔÂÒf–Ww5¶7F—fUf–WuÒ‚“°¢Ğ¢gVæ7F–öâ6WEf–Wr†æÖR’°¢7F—fUf–WrÒæÖS°¢v–æF÷ræöff–6T7F—fTÖöGVÆRÒ&'W6–æW72#°¢Fö7VÖVçBçVW'•6VÆV7F÷$ÆÂ‚"ç6–FRÖÆ–æ²"’æf÷$V6‚†gVæ7F–öâ†æöFR’²æöFRæ6Æ74Æ—7BçFövvÆR‚&7F—fR"ÂæöFRævWDGG&–'WFR‚&FFÖ'W6–æW72×f–Wr"’ÓÓÒæÖR“²Ò“°¢Æ&VÂçFW‡D6öçFVçBÒ²&ö7W&VÖVçC¢%7WÆ–W'2bW&6†6R÷&FW'2"Â–çfö–6W3¢$–çfö–6W2b–ÖVçG2"ÂF–ÖW6†VWG3¢$Æ&÷W"F–ÖW6†VWG2"Â76WG3¢$WV—ÖVçBb6ö×Æ–æ6R"Â&VÖ–æFW'3¢%&VÖ–æFW'2"Â66†fÆ÷s¢%&ö¦V7B6÷7B&W÷'G2"Õ¶æÖUÓ°¢F÷7F–öâæ†–FFVâÒG'VS°¢&VæFW"‚“°¢Ğ¢gVæ7F–öâ÷VäÖöFÂ‡F—FÆRÂ&öG’’°¢ÖöFÂæ–ææW$…DÔÂÒ#ÆF—b6Æ73ÒvÖöFÂÖ&6¶G&÷sãÇ6V7F–öâ6Æ73ÒvÖöFÂv–FRr&öÆSÒvF–Æörr&–ÖÖöFÃÒwG'VRr&–ÖÆ&VÃÒr"²W62‡F—FÆR’²"sãÆ†VFW"6Æ73ÒvÖöFÂÖ†VBsãÆƒ#â"²W62‡F—FÆR’²#Âöƒ#ãÆ'WGFöâ6Æ73Òv6Æ÷6RÖ'WGFöârFFÖ'W6–æW72Ö7F–öãÒv6Æ÷6RÖÖöFÂr&–ÖÆ&VÃÒt6Æ÷6Rsì9sÂö'WGFöããÂö†VFW#â"²&öG’²#Â÷6V7F–öããÂöF—câ#°¢f"–çWBÒÖöFÂçVW'•6VÆV7F÷"‚&–çWBÇ6VÆV7BÇFW‡F&V"“²–b†–çWB’–çWBæfö7W2‚“°¢Ğ¢gVæ7F–öâf–VÆB†Æ&VÅFW‡BÂæÖRÂG—RÂÆ6V†öÆFW"Â&WV—&VBÂfÇVR’²&WGW&â#ÆF—b6Æ73Òvf–VÆBsãÆÆ&VÂf÷#Òv&—¢Ò"²W62†æÖR’²"sâ"²W62†Æ&VÅFW‡B’²#ÂöÆ&VÃãÆ–çWB–CÒv&—¢Ò"²W62†æÖR’²"ræÖSÒr"µš®x§‚ÚîÆ­yÚ.¶›­¢¸ Šv¥¶‰Ê.İyÓTèµ©hºÚn¶X§zÍH\ØÊ˜[YJH
+È‰È\OIÈˆ
+È\H
+È‰ÈXÙZÛ\IÈˆ
+È\ØÊXÙZÛ\ˆˆŠH
+È‰Èˆ
+È
+™\]Z\™YÈˆ™\]Z\™YˆˆˆŠH
+È
+˜[YHOH[Èˆ˜[YOIÈˆ
+È\ØÊ˜[YJH
+È‰ÈˆˆˆŠH
+ÈÙ]ˆÈBˆ[˜İ[Ûˆ›Ú™XİšY[
 
-  function renderTimesheets() {
-    var month = today().slice(0, 7);
-    var current = state.timesheets.filter(function (t) { return (t.date || "").slice(0, 7) === month; });
-    var wages = current.reduce(function (n, t) { return n + Number(t.wage || 0); }, 0);
-    var people = new Set(current.map(function (t) { return t.name; })).size;
-    var rows = state.timesheets.slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); }).map(function (t) { return "<tr><td><strong>" + esc(t.name) + "</strong><small>" + esc(t.role || "Role not set") + " Â· " + esc(projectName(t.projectId)) + "</small></td><td>" + dateText(t.date) + "</td><td>" + esc(t.hours) + " h</td><td>" + esc(t.overtime || 0) + " h</td><td>" + money(t.rate) + "/h</td><td><strong>" + money(t.wage) + "</strong></td><td><button class='row-action' data-business-action='delete-timesheet' data-id='" + esc(t.id) + "' aria-label='Remove timesheet'>Ã—</button></td></tr>"; }).join("");
-    return heading("PEOPLE & PAY", "Labour timesheets", "Record hours by worker and project, then review estimated wages by month.", "add-timesheet", "ï¼‹ Add shift") +
-      "<div class='summary-grid ops-summary-grid'>" + summary("Hours this month", current.reduce(function (n, t) { return n + Number(t.hours || 0) + Number(t.overtime || 0); }, 0).toFixed(1), "Regular plus overtime", "â—·") + summary("Estimated wages", money(wages), "Based on entered hourly rates", "â‚¹") + summary("Workers", people, "With recorded shifts", "â™™") + "</div>" +
-      "<div class='calc-notice'>Wage amounts are planning totals from the hours and rates entered. They do not calculate statutory deductions, benefits or payroll filings.</div>" +
-      "<div class='toolbar'><span class='filter-count'>" + state.timesheets.length + " shift records</span><button class='quiet-button' data-business-action='export-timesheets'>â†“ Export CSV</button></div>" +
-      "<div class='ops-table-wrap'><table class='ops-table'><thead><tr><th>Worker / project</th><th>Date</th><th>Regular</th><th>Overtime</th><th>Rate</th><th>Estimated wages</th><th></th></tr></thead><tbody>" + (rows || "<tr><td colspan='7' class='ops-empty'>Add shifts to begin the wage summary.</td></tr>") + "</tbody></table></div>";
-  }
+HÈ™]\›ˆ]ˆÛ\ÜÏIÙšY[	ÏX™[›ÜIØš^‹\›Ú™XİY	Ï”›Ú™XİÈÚ]OÛX™[Ù[XİYIØš^‹\›Ú™XİY	È˜[YOIÜ›Ú™XİY	Ïˆˆ
+È›Ú™XİÙ[Xİ
 
-  function dueTag(date) {
-    if (!date) return "<span class='task-date-muted'>Not scheduled</span>";
-    if (date < today()) return "<span class='task-date-overdue'>Overdue Â· " + dateText(date) + "</span>";
-    var ahead = new Date(); ahead.setDate(ahead.getDate() + 30);
-    var cutoff = ahead.getFullYear() + "-" + String(ahead.getMonth() + 1).padStart(2, "0") + "-" + String(ahead.getDate()).padStart(2, "0");
-    return date <= cutoff ? "<span class='task-date-today'>Due " + dateText(date) + "</span>" : dateText(date);
-  }
+H
+ÈÜÙ[XİÙ]ˆÈBˆ[˜İ[Ûˆ›Ü›J]KÚ[™šY[ËØ]™U^
+HÈÜ[“[Ù[
+]K›Ü›HÛ\ÜÏIÛ[Ù[Y›Ü›IÈ]KX\Ú[™\ÜËY›Ü›OIÈˆ
+ÈÚ[™
+È‰Ï]ˆÛ\ÜÏIÙ›Ü›KYÜšY	Ïˆˆ
+ÈšY[È
+ÈÙ]]ˆÛ\ÜÏIÙ›Ü›KXXİ[ÛœÉÏ]Ûˆ\OIØ]Û‰ÈÛ\ÜÏIÜ]ZY]X]Û‰È]KX\Ú[™\ÜËXXİ[ÛIØÛÜÙK[[Ù[	ÏØ[˜Ù[Ø]Û]ÛˆÛ\ÜÏIÜš[X\KX]Û‰È\OIÜİX›Z]	Ïˆˆ
+È\ØÊØ]™U^
+H
+ÈØ]ÛÙ]Ù›Ü›OˆŠNÈBˆ[˜İ[Ûˆ™XÛÜ™^[Y[
+[›ÚXÙJHÂˆ›Ü›J”™XÛÜ™[›ÚXÙH^[Y[0­Èˆ
+È[›ÚXÙK›[X™\‹œ^[Y[‹[œ]\OIÚY[‰È˜[YOIÚ[›ÚXÙRY	È˜[YOIÈˆ
+È\ØÊ[›ÚXÙKšY
+H
+È‰Ïˆˆ
+ÈšY[
+”^[Y[]H‹œZY]‹™]H‹ˆ‹YKÙ^J
+JH
+È]ˆÛ\ÜÏIÙšY[	ÏX™[›ÜIØš^‹\^[Y[Y]Ù	Ï”^[Y[Y]ÙÛX™[Ù[XİYIØš^‹\^[Y[Y]Ù	È˜[YOIÜ^[Y[Y]Ù	ÏÜ[Û˜[šÈ˜[œÙ™\ÛÜ[ÛÜ[Û•TOÛÜ[ÛÜ[ÛÚ\]YOÛÜ[ÛÜ[ÛØ\ÚÛÜ[ÛÜ[Û“İ\ÛÜ[ÛÜÙ[XİÙ]ˆˆ
+ÈšY[
+”™Y™\™[˜ÙHÈ˜[œØXİ[ÛˆQ‹œ^[Y[™Y™\™[˜ÙH‹^‹“Ü[Û˜[™Y™\™[˜ÙH‹˜[ÙJK”Ø]™H^[Y[ŠNÂˆBˆ[˜İ[ÛˆYİ\Y\Š
+HÂˆ›Ü›JYİ\Y\ˆ‹œİ\Y\ˆ‹šY[
+”İ\Y\ˆÈÛÛ\[H˜[YH‹›˜[YH‹^‹ÛÛ\[H˜[YH‹YJH
+ÈšY[
+ÛÛXİ\œÛÛˆ‹˜ÛÛXİ‹^‹“˜[YH‹˜[ÙJH
+ÈšY[
+”Û™H‹œÛ™H‹[‹ŠÎLH‹˜[ÙJH
+ÈšY[
+‘[XZ[‹™[XZ[‹™[XZ[‹˜XØÛİ[Ğ^[\K˜ÛÛH‹˜[ÙJH
+ÈšY[
+‘ÔÕSˆ‹™Üİ[ˆ‹^‹ŒMKXÚ\˜Xİ\ˆÔÕSˆ‹˜[ÙJH
+ÈšY[
+”^[Y[\›\È‹\›\È‹^‹™K™Ëˆ™]Ì^\È‹˜[ÙJK”Ø]™Hİ\Y\ˆŠNÂˆBˆ[˜İ[ÛˆYÊ
+HÂˆ˜\ˆÜ[ÛœÈHÜ[Ûˆ˜[YOIÉÏÚÛÜÙHİ\Y\ÛÜ[Ûˆˆ
+Èİ]Kœİ\Y\œË›X\
+[˜İ[Ûˆ
+ÊHÈ™]\›ˆÜ[Ûˆ˜[YOIÈˆ
+È\ØÊËšY
+H
+È‰Ïˆˆ
+È\ØÊË›˜[YJH
+ÈÛÜ[ÛˆÈJKš›Ú[ŠˆŠNÂˆ›Ü›J“™]È\˜Ú\ÙHÜ™\ˆ‹œÈ‹]ˆÛ\ÜÏIÙšY[	ÏX™[›ÜIØš^‹\İ\Y\’Y	Ï”İ\Y\ÛX™[Ù[XİYIØš^‹\İ\Y\’Y	È˜[YOIÜİ\Y\’Y	È™\]Z\™Yˆˆ
+ÈÜ[ÛœÈ
+ÈÜÙ[XİÙ]ˆˆ
+È›Ú™XİšY[
 
-  function renderAssets() {
-    var equipmentRows = state.equipment.map(function (e) { return "<tr><td><strong>" + esc(e.name) + "</strong><small>" + esc(e.serial || "No asset ID") + " Â· " + esc(projectName(e.projectId)) + "</small></td><td>" + dueTag(e.nextService) + "</td><td>" + esc(e.intervalDays || "â€”") + " days</td><td>" + esc(e.notes || "â€”") + "</td><td><button class='row-action' data-business-action='delete-equipment' data-id='" + esc(e.id) + "' aria-label='Remove equipment'>Ã—</button></td></tr>"; }).join("");
-    var complianceRows = state.compliance.map(function (c) { return "<tr><td><strong>" + esc(c.name) + "</strong><small>" + esc(c.type) + " Â· " + esc(projectName(c.projectId)) + "</small></td><td>" + dueTag(c.expiryDate) + "</td><td>" + (c.url ? "<a class='document-open' target='_blank' rel='noopener noreferrer' href='" + esc(/^https?:\/\//i.test(c.url) ? c.url : "#") + "'>Open record â†—</a>" : "â€”") + "</td><td><button class='row-action' data-business-action='delete-compliance' data-id='" + esc(c.id) + "' aria-label='Remove compliance record'>Ã—</button></td></tr>"; }).join("");
-    var todayDate = today(), cutoffDate = new Date(); cutoffDate.setDate(cutoffDate.getDate() + 30); var cutoff = cutoffDate.getFullYear() + "-" + String(cutoffDate.getMonth() + 1).padStart(2, "0") + "-" + String(cutoffDate.getDate()).padStart(2, "0");
-    var due = state.equipment.filter(function (e) { return e.nextService && e.nextService <= cutoff; }).length + state.compliance.filter(function (c) { return c.expiryDate && c.expiryDate <= cutoff; }).length;
-    var overdue = state.equipment.filter(function (e) { return e.nextService && e.nextService < todayDate; }).length + state.compliance.filter(function (c) { return c.expiryDate && c.expiryDate < todayDatâ€¦2230 tokens truncatedâ€¦ "<div class='field'><label for='biz-paymentMethod'>Payment method</label><select id='biz-paymentMethod' name='paymentMethod'><option>Bank transfer</option><option>UPI</option><option>Cheque</option><option>Cash</option><option>Other</option></select></div>" + field("Reference / transaction ID", "paymentReference", "text", "Optional reference", false), "Save payment");
-  }
-  function addSupplier() {
-    form("Add supplier", "supplier", field("Supplier / company name", "name", "text", "Company name", true) + field("Contact person", "contact", "text", "Name", false) + field("Phone", "phone", "tel", "+91", false) + field("Email", "email", "email", "accounts@example.com", false) + field("GSTIN", "gstin", "text", "15-character GSTIN", false) + field("Payment terms", "terms", "text", "e.g. Net 30 days", false), "Save supplier");
-  }
-  function addPo() {
-    var options = "<option value=''>Choose supplier</option>" + state.suppliers.map(function (s) { return "<option value='" + esc(s.id) + "'>" + esc(s.name) + "</option>"; }).join("");
-    form("New purchase order", "po", "<div class='field'><label for='biz-supplierId'>Supplier</label><select id='biz-supplierId' name='supplierId' required>" + options + "</select></div>" + projectField() + field("Item / scope", "item", "text", "Material or service", true) + field("Quantity", "quantity", "number", "0", true, "1") + field("Rate (â‚¹)", "rate", "number", "0.00", true) + field("Order date", "orderDate", "date", "", true, today()) + field("Expected delivery", "deliveryDate", "date", "", false) + "<div class='field'><label for='biz-notes'>Notes</label><textarea id='biz-notes' name='notes' placeholder='Reference or delivery instructions'></textarea></div>", "Save purchase order");
-  }
-  function addInvoice() {
-    form("Create GST invoice", "invoice", field("Client / bill to", "client", "text", "Client name", true) + field("Invoice title / work", "description", "text", "Work description", true) + projectField() + field("Invoice date", "date", "date", "", true, today()) + field("Payment due date", "dueDate", "date", "", true, addDays(today(), 30)) + field("Taxable amount (â‚¹)", "subtotal", "number", "0.00", true) + "<div class='field'><label for='biz-gst'>GST rate</label><select id='biz-gst' name='gst'><option value='0'>0%</option><option value='5'>5%</option><option value='12'>12%</option><option selected value='18'>18%</option><option value='28'>28%</option></select></div><div class='field'><label for='biz-gstMode'>GST treatment</label><select id='biz-gstMode' name='gstMode'><option>CGST + SGST</option><option>IGST</option></select></div>" + field("GSTIN (optional)", "gstin", "text", "Client GSTIN", false) + "<div class='field full'><label for='biz-terms'>Payment terms / bank reference</label><textarea id='biz-terms' name='terms' placeholder='Payment instructions or terms'></textarea></div>", "Save invoice");
-  }
-  function addTimesheet() {
-    form("Add labour shift", "timesheet", field("Worker name", "name", "text", "Full name", true) + field("Role / trade", "role", "text", "e.g. fitter, driver", false) + projectField() + field("Shift date", "date", "date", "", true, today()) + field("Regular hours", "hours", "number", "0", true, "8") + field("Overtime hours", "overtime", "number", "0", false, "0") + field("Hourly rate (â‚¹)", "rate", "number", "0.00", true) + field("Overtime multiplier", "multiplier", "number", "1.5", false, "1.5"), "Save shift");
-  }
-  function addEquipment() {
-    form("Add equipment", "equipment", field("Equipment / vehicle", "name", "text", "e.g. Excavator 20T", true) + field("Asset or serial number", "serial", "text", "Fleet ID or serial", false) + projectField() + field("Next service date", "nextService", "date", "", false) + field("Service interval (days)", "intervalDays", "number", "90", false) + "<div class='field full'><label for='biz-notes'>Maintenance notes</label><textarea id='biz-notes' name='notes' placeholder='Last service, supplier or checks'></textarea></div>", "Save equipment");
-  }
-  function addCompliance() {
-    form("Add compliance record", "compliance", field("Record / certificate", "name", "text", "e.g. Vehicle insurance", true) + "<div class='field'><label for='biz-type'>Type</label><select id='biz-type' name='type'><option>Permit / licence</option><option>Insurance</option><option>Test certificate</option><option>Contract</option><option>Other</option></select></div>" + projectField() + field("Expiry / review date", "expiryDate", "date", "", false) + field("Document link", "url", "url", "https://...", false) + "<div class='field full'><label for='biz-notes'>Notes</label><textarea id='biz-notes' name='notes'></textarea></div>", "Save record");
-  }
-
-  function saveForm(formNode, kind) {
-    var data = new FormData(formNode);
-    function val(key) { return String(data.get(key) || "").trim(); }
-    if (kind === "supplier") state.suppliers.unshift({ id: id(), name: val("name"), contact: val("contact"), phone: val("phone"), email: val("email"), gstin: val("gstin").toUpperCase(), terms: val("terms") });
-    if (kind === "po") {
-      var supplier = state.suppliers.find(function (s) { return s.id === val("supplierId"); });
-      if (!supplier) { notify("Add a supplier before creating a purchase order."); return; }
-      var total = (Number(val("quantity")) || 0) * (Number(val("rate")) || 0);
-      state.purchaseOrders.unshift({ id: id(), number: "HOC-PO-" + new Date().getFullYear() + "-" + String(state.purchaseOrders.length + 1).padStart(3, "0"), supplierId: supplier.id, supplierName: supplier.name, projectId: val("projectId"), item: val("item"), quantity: Number(val("quantity")) || 0, rate: Number(val("rate")) || 0, total: total, orderDate: val("orderDate"), deliveryDate: val("deliveryDate"), notes: val("notes"), status: "Open", createdAt: new Date().toISOString() });
+H
+ÈšYu¶‰ËkºwµçP ‰%Ñ•´€¼Í½Á”ˆ°€‰¥Ñ•´ˆ°€‰Ñ•áĞˆ°€‰5…Ñ•É¥…°½ÈÍ•ÉÙ¥”ˆ°ÑÉÕ”¤€¬™¥•± ‰EÕ…¹Ñ¥Ñäˆ°€‰ÅÕ…¹Ñ¥Ñäˆ°€‰¹Õµ‰•Èˆ°€ˆÀˆ°ÑÉÕ”°€ˆÄˆ¤€¬™¥•± ‰I…Ñ”€£Š
+ä¤ˆ°€‰É…Ñ”ˆ°€‰¹Õµ‰•Èˆ°€ˆÀ¸ÀÀˆ°ÑÉÕ”¤€¬™¥•± ‰=É‘•È‘…Ñ”ˆ°€‰½É‘•É…Ñ”ˆ°€‰‘…Ñ”ˆ°€ˆˆ°ÑÉÕ”°Ñ½‘…ä ¤¤€¬™¥•± ‰áÁ•Ñ•‘•±¥Ù•Éäˆ°€‰‘•±¥Ù•Éå…Ñ”ˆ°€‰‘…Ñ”ˆ°€ˆˆ°™…±Í”¤€¬€ˆñ‘¥Ø±…ÍÌô™¥•±œøñ±…‰•°™½Èô‰¥èµ¹½Ñ•Ìœù9½Ñ•Ìğ½±…‰•°øñÑ•áÑ…É•„¥ô‰¥èµ¹½Ñ•Ìœ¹…µ”ô¹½Ñ•ÌœÁ±…•¡½±‘•ÈôI•™•É•¹”½È‘•±¥Ù•Éä¥¹ÍÑÉÕÑ¥½¹Ìœøğ½Ñ•áÑ…É•„øğ½‘¥Øøˆ°€‰M…Ù”ÁÕÉ¡…Í”½É‘•Èˆ¤ì(€ô(€™Õ¹Ñ¥½¸…‘‘%¹Ù½¥” ¤ì(€€€™½É´ ‰É•…Ñ”MP¥¹Ù½¥”ˆ°€‰¥¹Ù½¥”ˆ°™¥•± ‰±¥•¹Ğ€¼‰¥±°Ñ¼ˆ°€‰±¥•¹Ğˆ°€‰Ñ•áĞˆ°€‰±¥•¹Ğ¹…µ”ˆ°ÑÉÕ”¤€¬™¥•± ‰%¹Ù½¥”Ñ¥Ñ±”€¼İ½É¬ˆ°€‰‘•ÍÉ¥ÁÑ¥½¸ˆ°€‰Ñ•áĞˆ°€‰]½É¬‘•ÍÉ¥ÁÑ¥½¸ˆ°ÑÉÕ”¤€¬ÁÉ½©•Ñ¥•± ¤€¬™¥•± ‰%¹Ù½¥”‘…Ñ”ˆ°€‰‘…Ñ”ˆ°€‰‘…Ñ”ˆ°€ˆˆ°ÑÉÕ”°Ñ½‘…ä ¤¤€¬™¥•± ‰A…åµ•¹Ğ‘Õ”‘…Ñ”ˆ°€‰‘Õ•…Ñ”ˆ°€‰‘…Ñ”ˆ°€ˆˆ°ÑÉÕ”°…‘‘…åÌ¡Ñ½‘…ä ¤°€ÌÀ¤¤€¬™¥•± ‰Q…á…‰±”…µ½Õ¹Ğ€£Š
+ä¤ˆ°€‰ÍÕ‰Ñ½Ñ…°ˆ°€‰¹Õµ‰•Èˆ°€ˆÀ¸ÀÀˆ°ÑÉÕ”¤€¬€ˆñ‘¥Ø±…ÍÌô™¥•±œøñ±…‰•°™½Èô‰¥èµÍĞœùMPÉ…Ñ”ğ½±…‰•°øñÍ•±•Ğ¥ô‰¥èµÍĞœ¹…µ”ôÍĞœøñ½ÁÑ¥½¸Ù…±Õ”ôœÀœøÀ”ğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÔœøÔ”ğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÄÈœøÄÈ”ğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Í•±•Ñ•Ù…±Õ”ôœÄàœøÄà”ğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸Ù…±Õ”ôœÈàœøÈà”ğ½½ÁÑ¥½¸øğ½Í•±•Ğøğ½‘¥Øøñ‘¥Ø±…ÍÌô™¥•±œøñ±…‰•°™½Èô‰¥èµÍÑ5½‘”œùMPÑÉ•…Ñµ•¹Ğğ½±…‰•°øñÍ•±•Ğ¥ô‰¥èµÍÑ5½‘”œ¹…µ”ôÍÑ5½‘”œøñ½ÁÑ¥½¸ùMP€¬MMPğ½½ÁÑ¥½¸øñ½ÁÑ¥½¸ù%MPğ½½ÁÑ¥½¸øğ½Í•±•Ğøğ½‘¥Øøˆ€¬™¥•± ‰MQ%8€¡½ÁÑ¥½¹…°¤ˆ°€‰ÍÑ¥¸ˆ°€‰Ñ•áĞˆ°€‰±¥•¹ĞMQ%8ˆ°™…±Í”¤€¬€ˆñ‘¥Ø±…ÍÌô™¥•±™Õ±°œøñ±…‰•°™½Èô‰¥èµÑ•ÉµÌœùA…åµ•¹ĞÑ•ÉµÌ€¼‰…¹¬É•™•É•¹”ğ½±…‰•°øñÑ•áÑ…É•„¥ô‰¥èµÑ•ÉµÌœ¹…µ”ôÑ•ÉµÌœÁ±…•¡½±‘•ÈôA…åµ•¹Ğ¥¹ÍÑÉÕÑ¥½¹Ì½ÈÑ•ÉµÌœøğ½Ñ•áÑ…É•„øğ½‘¥Øøˆ°€‰M…Ù”¥¹Ù½¥”ˆ¤ì(€ô(€™Õ¹Ñ¥½¸…‘‘Q¥µ•Í¡••Ğ ¤ì(€€€™½É´ ‰‘±…‰½ÕÈÍ¡¥™Ğˆ°€‰Ñ¥µ•Í¡••Ğˆ°™¥•± ‰]½É­•È¹…µ”ˆ°€‰¹…µ”ˆ°€‰Ñ•áĞˆ°€‰Õ±°¹…µ”ˆ°ÑÉÕ”¤€¬™¥•± ‰I½±”€¼ÑÉ…‘”ˆ°€‰É½±”ˆ°€‰Ñ•áĞˆ°€‰”¹œ¸™¥ÑÑ•È°‘É¥Ù•Èˆ°™…±Í”¤€¬ÁÉ½©•Ñ¥•± ¤€¬™¥•± ‰M¡¥™Ğ‘…Ñ”ˆ°€‰‘…Ñ”ˆ°€‰‘…Ñ”ˆ°€ˆˆ°ÑÉÕ”°Ñ½‘…ä ¤¤€¬™¥•± ‰I•Õ±…È¡½ÕÉÌˆ°€‰¡½ÕÉÌˆ°€‰¹Õµ‰•Èˆ°€ˆÀˆ°ÑÉÕ”°€ˆàˆ¤€¬™¥•± ‰=Ù•ÉÑ¥µ”¡½ÕÉÌˆ°€‰½Ù•ÉÑ¥µ”ˆ°€‰¹Õµ‰•Èˆ°€ˆÀˆ°™…±Í”°€ˆÀˆ¤€¬™¥•± ‰!½ÕÉ±äÉ…Ñ”€£Š
+ä¤ˆ°€‰É…Ñ”ˆ°€‰¹Õµ‰•Èˆ°€ˆÀ¸ÀÀˆ°ÑÉÕ”¤€¬™¥•± ‰=Ù•ÉÑ¥µ”µÕ±Ñ¥Á±¥•Èˆ°€‰µÕ±Ñ¥Á±¥•Èˆ°€‰¹Õµ‰•Èˆ°€ˆÄ¸Ôˆ°™…±Í”°€ˆÄ¸Ôˆ¤°€‰M…Ù”Í¡¥™Ğˆ¤ì(€ô(€™Õ¹Ñ¥½¸…‘‘ÅÕ¥Áµ•¹Ğ ¤ì(€€€™½É´ ‰‘•ÅÕ¥Áµ•¹f«)à¶»§q«^v‹­¦ëh®("©m¢G§r‹§·^tÕ:-jZ.¶›­–)Ş³WB"Â&WV—ÖVçB"Âf–VÆB‚$WV—ÖVçBòfV†–6ÆR"Â&æÖR"Â'FW‡B"Â&RærâW†6fF÷"#B"ÂG'VR’²f–VÆB‚$76WB÷"6W&–ÂçVÖ&W""Â'6W&–Â"Â'FW‡B"Â$fÆVWB”B÷"6W&–Â"ÂfÇ6R’²&ö¦V7Df–VÆB‚’²f–VÆB‚$æW‡B6W'f–6RFFR"Â&æW‡E6W'f–6R"Â&FFR"Â""ÂfÇ6R’²f–VÆB‚%6W'f–6R–çFW'fÂ†F—2’"Â&–çFW'fÄF—2"Â&çVÖ&W""Â#“"ÂfÇ6R’²#ÆF—b6Æ73Òvf–VÆBgVÆÂsãÆÆ&VÂf÷#Òv&—¢Öæ÷FW2säÖ–çFVææ6Ræ÷FW3ÂöÆ&VÃãÇFW‡F&V–CÒv&—¢Öæ÷FW2ræÖSÒvæ÷FW2rÆ6V†öÆFW#ÒtÆ7B6W'f–6RÂ7WÆ–W"÷"6†V6·2sãÂ÷FW‡F&VãÂöF—câ"Â%6fRWV—ÖVçB"“°¢Ğ¢gVæ7F–öâFD6ö×Æ–æ6R‚’°¢f÷&Ò‚$FB6ö×Æ–æ6R&V6÷&B"Â&6ö×Æ–æ6R"Âf–VÆB‚%&V6÷&Bò6W'F–f–6FR"Â&æÖR"Â'FW‡B"Â&RærâfV†–6ÆR–ç7W&æ6R"ÂG'VR’²#ÆF—b6Æ73Òvf–VÆBsãÆÆ&VÂf÷#Òv&—¢×G—RsåG—SÂöÆ&VÃãÇ6VÆV7B–CÒv&—¢×G—RræÖSÒwG—RsãÆ÷F–öãåW&Ö—BòÆ–6Væ6SÂö÷F–öããÆ÷F–öãä–ç7W&æ6SÂö÷F–öããÆ÷F–öãåFW7B6W'F–f–6FSÂö÷F–öããÆ÷F–öãä6öçG&7CÂö÷F–öããÆ÷F–öãä÷F†W#Âö÷F–öããÂ÷6VÆV7CãÂöF—câ"²&ö¦V7Df–VÆB‚’²f–VÆB‚$W‡—'’ò&Wf–WrFFR"Â&W‡—'”FFR"Â&FFR"Â""ÂfÇ6R’²f–VÆB‚$Fö7VÖVçBÆ–æ²"Â'W&Â"Â'W&Â"Â&‡GG3¢òòâââ"ÂfÇ6R’²#ÆF—b6Æ73Òvf–VÆBgVÆÂsãÆÆ&VÂf÷#Òv&—¢Öæ÷FW2säæ÷FW3ÂöÆ&VÃãÇFW‡F&V–CÒv&—¢Öæ÷FW2ræÖSÒvæ÷FW2sãÂ÷FW‡F&VãÂöF—câ"Â%6fR&V6÷&B"“°¢Ğ ¢gVæ7F–öâ6fTf÷&Ò†f÷&ÔæöFRÂ¶–æB’°¢f"FFÒæWrf÷&ÔFF†f÷&ÔæöFR“°¢gVæ7F–öâfÂ†¶W’’²&WGW&â7G&–ær†FFævWB†¶W’’ÇÂ""’çG&–Ò‚“²Ğ¢–b†¶–æBÓÓÒ'7WÆ–W""’7FFRç7WÆ–W'2çVç6†–gB‡²–C¢–B‚’ÂæÖS¢fÂ‚&æÖR"’Â6öçF7C¢fÂ‚&6öçF7B"’Â†öæS¢fÂ‚'†öæR"’ÂVÖ–Ã¢fÂ‚&VÖ–Â"’Âw7F–ã¢fÂ‚&w7F–â"’çFõWW$66R‚’ÂFW&×3¢fÂ‚'FW&×2"’Ò“°¢–b†¶–æBÓÓÒ'ò"’°¢f"7WÆ–W"Ò7FFRç7WÆ–W'2æf–æB†gVæ7F–öâ‡2’²&WGW&â2æ–BÓÓÒfÂ‚'7WÆ–W$–B"“²Ò“°¢–b‚7WÆ–W"’²æ÷F–g’‚$FB7WÆ–W"&Vf÷&R7&VF–ærW&6†6R÷&FW"â"“²&WGW&ã²Ğ¢f"F÷FÂÒ„çVÖ&W"‡fÂ‚'VçF—G’"’’ÇÂ’¢„çVÖ&W"‡fÂ‚'&FR"’’ÇÂ“°¢7FFRçW&6†6T÷&FW'2çVç6†–gB‡²–C¢–B‚’ÂçVÖ&W#¢$„ô2ÕòÒ"²æWrFFR‚’ævWDgVÆÅ–V"‚’²"Ò"²7G&–ær‡7FFRçW&6†6T÷&FW'2æÆVæwF‚²’çE7F'Bƒ2Â#"’Â7WÆ–W$–C¢7WÆ–W"æ–BÂ7WÆ–W$æÖS¢7WÆ–W"ææÖRÂ&ö¦V7D–C¢fÂ‚'&ö¦V7D–B"’Â—FVÓ¢fÂ‚&—FVÒ"’ÂVçF—G“¢çVÖ&W"‡fÂ‚'VçF—G’"’’ÇÂÂ&FS¢çVÖ&W"‡fÂ‚'&FR"’’ÇÂÂF÷FÃ¢F÷FÂÂ÷&FW$FFS¢fÂ‚&÷&FW$FFR"’ÂFVÆ—fW'”FF]m¢G§²ÚîÆ­yĞval("deliveryDate"), notes: val("notes"), status: "Open", createdAt: new Date().toISOString() });
     }
     if (kind === "invoice") {
       var subtotal = Number(val("subtotal")) || 0, gst = Number(val("gst")) || 0, tax = subtotal * gst / 100;
@@ -143,53 +335,112 @@ Total output lines: 246
     if (kind === "equipment") state.equipment.unshift({ id: id(), name: val("name"), serial: val("serial"), projectId: val("projectId"), nextService: val("nextService"), intervalDays: val("intervalDays"), notes: val("notes") });
     if (kind === "compliance") state.compliance.unshift({ id: id(), name: val("name"), type: val("type"), projectId: val("projectId"), expiryDate: val("expiryDate"), url: val("url"), notes: val("notes") });
     modal.innerHTML = "";
-    persist(kind === "invoice" ? "Invoice saved." : kind === "po" ? "Purchase order saved." : kind === "timesheet" ? "Shift saved." : kind === "payment" ? "Payment recorded." : "Record saved.");
-  }
+    persist(kind === "invoice" ? "Invoice saved." : kind === "po" ? "Purchase order saved." : kind === "timesheet" ? "Shift saved." : kind YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×5N‹Z–‹­¦ëeŠw¬Ôôôô€‰Á…åµ•¹Ğˆ€ü€‰A…åµ•¹ĞÉ•½É‘•¸ˆ€è€‰I•½ÉÍ…Ù•¸ˆ¤ì(€ô((€™Õ¹Ñ¥½¸¡…¹‘±•Ñ¥½¸¡…Ñ¥½¸°Ñ…É•Ğ¤ì(€€€Ù…È¥Ñ•µ%€ôÑ…É•Ğ¹•ÑÑÑÉ¥‰ÕÑ” ‰‘…Ñ„µ¥ˆ¤ì(€€€¥˜€¡…Ñ¥½¸€ôôô€‰±½Í”µµ½‘…°ˆ¤µ½‘…°¹¥¹¹•É!Q50€ô€ˆˆì(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µÍÕÁÁ±¥•Èˆ¤…‘‘MÕÁÁ±¥•È ¤ì•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µÁ¼ˆ¤…‘‘A¼ ¤ì•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µ¥¹Ù½¥”ˆ¤…‘‘%¹Ù½¥” ¤ì•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µÑ¥µ•Í¡••Ğˆ¤…‘‘Q¥µ•Í¡••Ğ ¤ì•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µ•ÅÕ¥Áµ•¹Ğˆ¤…‘‘ÅÕ¥Áµ•¹Ğ ¤ì•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰…‘µ½µÁ±¥…¹”ˆ¤…‘‘½µÁ±¥…¹” ¤ì(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰Ñ½±”µÁ¼ˆ¤ìÙ…ÈÁ¼€ôÍÑ…Ñ”¹ÁÕÉ¡…Í•=É‘•ÉÌ¹™¥¹¡™Õ¹Ñ¥½¸€¡À¤ìÉ•ÑÕÉ¸À¹¥€ôôô¥Ñ•µ%ìô¤ì¥˜€¡Á¼¤ìÁ¼¹ÍÑ…ÑÕÌ€ôÁ¼¹ÍÑ…ÑÕÌ€ôôô€‰I••¥Ù•ˆ€ü€‰=Á•¸ˆ€è€‰I••¥Ù•ˆìÁ•ÉÍ¥ÍĞ ‰AÕÉ¡…Í”½É‘•ÈÕÁ‘…Ñ•¸ˆ¤ìôô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰É•½ÉµÁ…åµ•¹Ğˆ¤ìÙ…È¥¹Ù½¥•Q½A…ä€ôÍÑ…Ñ”¹¥¹Ù½¥•Ì¹™¥¹¡™Õ¹Ñ¥½¸€¡¤¤ìÉ•ÑÕÉ¸¤¹¥€ôôô¥Ñ•µ%ìô¤ì¥˜€¡¥¹Ù½¥•Q½A…ä¤É•½É‘A…åµ•¹Ğ¡¥¹Ù½¥•Q½A…ä¤ìô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰Õ¹‘¼µÁ…åµ•¹Ğˆ¤ìÙ…ÈÁ…¥‘%¹Ù½¥”€ôÍÑ…Ñ”¹¥¹Ù½¥•Ì¹™¥¹¡™Õ¹Ñ¥½¸€¡¤¤ìÉ•ÑÕÉ¸¤¹¥€ôôô¥Ñ•µ%ìô¤ì¥˜€¡Á…¥‘%¹Ù½¥”¤ìÁ…¥‘%¹Ù½¥”¹ÍÑ…ÑÕÌ€ô€‰U¹Á…¥ˆìÁ…¥‘%¹Ù½¥”¹Á…¥‘Ğ€ô€ˆˆìÁ…¥‘%¹Ù½¥”¹Á…åµ•¹Ñ5•Ñ¡½€ô€ˆˆìÁ…¥‘%¹Ù½¥”¹Á…åµ•¹ÑI•™•É•¹”€ô€ˆˆìÁ•ÉÍ¥ÍĞ ‰A…åµ•¹ĞÍÑ…ÑÕÌÉ•Ù•ÉÍ•¸ˆ¤ìôô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰‘•±•Ñ”µÍÕÁÁ±¥•Èˆ€˜˜İ¥¹‘½Ü¹½¹™¥É´ ‰I•µ½Ù”Ñ¡¥ÌÍÕÁÁ±¥•ÈÉ•½Éüˆ¤¤ìÍÑ…Ñ”¹ÍÕÁÁ±¥•ÉÌ€ôÍÑ…Ñ”¹ÍÕÁÁ±¥•ÉÌ¹™¥±Ñ•È¡™Õ¹Ñ¥½¸€¡Ì¤ìÉ•ÑÕÉ¸Ì¹¥€„ôô¥Ñ•µ%ìô¤ìÁ•ÉÍ¥ÍĞ ‰MÕÁÁ±¥•ÈÉ•µ½Ù•¸ˆ¤ìô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰‘•±•Ñ”µÑ¥µ•Í¡••Ğˆ€˜˜İ¥¹‘½Ü¹½¹™¥É´ ‰I•µ½Ù”Ñ¡¥ÌÍ¡¥™ĞÉ•½Éüˆ¤¤ìÍÑ…Ñ”¹Ñ¥µ•Í¡••ÑÌ€ôÍÑ…Ñ”¹Ñ¥µ•Í¡••ÑÌ¹™¥±Ñ•È¡™Õ¹Ñ¥½¸€¡Ì¤ìÉ•ÑÕÉ¸Ì¹¥€„ôô¥Ñ•µ%ìô¤ìÁ•ÉÍ¥ÍĞ ‰M¡¥™ĞÉ•µ½Ù•¸ˆ¤ìô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰‘•±•Ñ”µ•ÅÕ¥Áµ•¹Ğˆ€˜˜İ¥¹‘½Ü¹½¹™¥É´ ‰I•µ½Ù”Ñ¡¥Ì•ÅÕ¥Áµ•¹ĞÉ•½Éüˆ¤¤ìÍÑ…Ñ”¹•ÅÕ¥Áµ•¹Ğ€ôÍÑ…Ñ”¹•ÅÕ¥Áµ•¹Ğ¹™¥±Ñ•È¡™Õ¹Ñ¥½¸€¡Ì¤ìÉ•ÑÕÉ¸Ì¹¥€„ôô¥Ñ•µ%ìô¤ìÁ•ÉÍ¥ÍĞ ‰ÅÕ¥Áµ•¹ĞÉ•½ÉÉ•µ½Ù•¸ˆ¤ìô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰‘•±•Ñ”µ½µÁ±¥…¹”ˆ€˜˜İ¥¹‘½Ü¹½¹™¥É´ ‰I•µ½Ù”Ñ¡¥Ì½µÁ±¥…¹”É•½Éüˆ¤¤ìÍÑ…Ñ”¹½µÁ±¥…¹”€ôÍÑ…Ñ”¹½µÁ±¥…¹”¹™¥±Ñ•È¡™Õ¹Ñ¥½¸€¡Ì¤ìÉ•ÑÕÉ¸Ì¹¥€„ôô¥Ñ•µ%ìô¤ìÁ•ÉÍ¥ÍĞ ‰½µÁ±¥…¹”É•½ÉÉ•µ½Ù•¸ˆ¤ìô(€€€•±Í”¥˜€¡…Ñ¥½¸€ôôô€‰•áÁ½ÉĞµÁ½Ìˆ¤ÍØ¡ml‰A<ˆ°‰MÕÁÁ±¥•Èˆ°‰%Ñ•´ˆ°‰AÉ½©•Ğˆ°‰EÕ…¹Ñ¥Ñäˆ°‰I…Ñ”%9Hˆ°‰Q½Ñ…°%9Hˆ°‰=É‘•È‘…Ñ”ˆ°‰•±¥Ù•Éä‘…Ñ”ˆ°‰MÑ…ÑÕÌ‰ut¹½¹…Ğ¡ÍÑ…Ñ”»[h‘éì¶»§q«^u\˜Ú\ÙSÜ™\œË›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆÜ›[X™\‹œİ\Y\“˜[YKš][K›Ú™Xİ˜[YJœ›Ú™XİY
+Kœ]X[]Kœ˜]Kİ[›Ü™\‘]K™[]™\Q]Kœİ]\×NÈJJKš\šK[ÛK\\˜Ú\ÙK[Ü™\œË˜ÜİˆŠNÂˆ[ÙHYˆ
+Xİ[ÛˆOOH™^Ü][Y\ÚY]ÈŠHÜİŠÖÈ•ÛÜšÙ\ˆ‹”›ÛH‹”›Ú™Xİ‹‘]H‹’İ\œÈ‹“İ™\[YH‹”˜]HS”‹Úˆ‹‘\İ[X]YØYÙHS”ˆ—WK˜ÛÛ˜Ø]
+İ]K[Y\ÚY]Ë›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆİ›˜[YKœ›ÛK›Ú™Xİ˜[YJœ›Ú™XİY
+K™]Kšİ\œË›İ™\[YKœ˜]KØYÙWNÈJJKš\šK[ÛK[X›İ\‹][Y\ÚY]Ë˜ÜİˆŠNÂˆ[ÙHYˆ
+Xİ[ÛˆOOH™^Ü\™[Z[™\œÈŠHÜİŠÖÈ•\H‹Xİ[Ûˆ‹‘YH]H‹‘]Z[È—WK˜ÛÛ˜Ø]
+™[Z[™\’][\Ê
+K›X\
+[˜İ[Ûˆ
+
+HÈ™]\›ˆŞ\K›˜[YK™]K™]Z[NÈJJKš\šK[ÛK\™[Z[™\œË˜ÜİˆŠNÂˆ[ÙHYˆ
+Xİ[ÛˆOOH™^ÜXØ\Ú›İÈŠHÈ˜\ˆ™\ÜH™\Ü]J
+NÈÜİŠÖÈ”›Ú™Xİ‹YÜ™YYYÙ]S”ˆ‹’[›ÚXÙYS”ˆ‹ÛÛXİYS”ˆ‹“İ]İ[™[™ÈS”ˆ‹‘^[œÙ\ÈS”ˆ‹“X›İ\ˆ\İ[X]HS”ˆ‹”\˜Ú\ÙHÜ™\œÈS”ˆ—WK˜ÛÛ˜Ø]
+™\Üœ›İÜË›X\
+[˜İ[Ûˆ
+ŠHÈ™]\›ˆÜ‹›˜[YK‹˜YÙ]‹š[›ÚXÙY‹˜ÛÛXİY‹œ™XÙZ]˜X›K‹™^[œÙ\Ë‹ØYÙ\Ë‹›Ü™\œ×NÈJJKš\šK[ÛK\›Ú™XİXÛÜİ\™\ÜHˆ
+È™\Ü[Û
+È‹˜ÜİˆŠNÈBˆ[ÙHYˆ
+Xİ[ÛˆOOHœš[Z[›ÚXÙHŠHš[[›ÚXÙJİ]Kš[›ÚXÙ\Ë™š[™
+[˜İ[Ûˆ
+JHÈ™]\›ˆKšYOOH][RYÈJJNÂˆB‚ˆ[˜İ[Ûˆš[[›ÚXÙJ[ŠHÂˆYˆ
+Z[ŠH™]\›Âˆ˜\ˆÜ\HÚ[™İË›Ü[Šˆ‹—Ø›[šÈŠNÂˆYˆ
+\Ü\
+HÈ›İYJ[İÈÜ]\ÈÈš[H[›ÚXÙKˆŠNÈ™]\›ÈBˆÜ\™Øİ[Y[Üš]JYØİ\H[[XYY]HÚ\œÙ]Iİ]‹N	Ï]Oˆˆ
+È\ØÊ[‹›[X™\ŠH
+Èİ]Oİ[O˜›Ù^Ù›ÛŒM\šX[Ø[œË\Ù\šYÛX^]ÚYÛX\™Ú[\]]ÎØÛÛÜˆÌMÌL_Z^Ù›Û\Ú^™NŒK›]]YØÛÛÜˆÍMÌÍ˜_Kœ›İŞÙ\Ü^N™›^Ú\İYKXÛÛ[œÜXÙKX™]ÙY[Ø›Ü™\‹X›İÛNŒ\ÛÛYÙÜY[™ÎŒLœKİ[Ù›Û\Ú^™NŒŒÙ›Û]ÙZYÚ˜›ÛOÜİ[OÚXY›ÙOÛ\ÜÏIÛ]]Y	Ï’T’HÓHÓÓ”Õ•PÕSÓÜO•^[›ÚXÙOÚO]ˆÛ\ÜÏIÜ›İÉÏ’[›ÚXÙOØÜ[ˆˆ
+È\ØÊ[‹›[X™\ŠH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏš[ÏØÜ[ˆˆ
+È\ØÊ[‹˜ÛY[
+H
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏ”ØÛÜOØÜ[ˆˆ
+È\ØÊ[‹™\ØÜš\[ÛŠH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏ’[›ÚXÙH]OØÜ[ˆˆ
+È\ØÊ]U^
+[‹™]JJH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏ‘YH]OØÜ[ˆˆ
+È\ØÊ]U^
+[‹™YQ]JJH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏ•^X›H[[İ[ØÜ[ˆˆ
+È\ØÊ[Û™^J[‹œİXİ[
+JH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÉÏ‘ÔÕ
+ˆ
+È\ØÊ[‹™Üİ
+H
+È‰JH0­Èˆ
+È\ØÊ[‹™Üİ[ÙJH
+ÈØÜ[ˆˆ
+È\ØÊ[Û™^J[‹İ[H[‹œİXİ[
+JH
+ÈÜÜ[Ù]]ˆÛ\ÜÏIÜ›İÈİ[	Ï•İ[YOØÜ[ˆˆ
+È\ØÊ[Û™^J[‹İ[
+JH
+ÈÜÜ[Ù]ˆˆ
+È\ØÊ[‹\›\ÈˆŠH
+ÈÜÛ\ÜÏIÛ]]Y	ÏÛÛ™š\›H™\]Z\™Yİ]]ÜH[›ÚXÙH]Z[È™Y›Ü™H\ÜİYKÜØÜš\Ú[™İË›Û›ØYY[˜İ[ÛŠ
+^İÚ[™İËœš[
 
-  function handleAction(action, target) {
-    var itemId = target.getAttribute("data-id");
-    if (action === "close-modal") modal.innerHTML = "";
-    else if (action === "add-supplier") addSupplier(); else if (action === "add-po") addPo(); else if (action === "add-invoice") addInvoice(); else if (action === "add-timesheet") addTimesheet(); else if (action === "add-equipment") addEquipment(); else if (action === "add-compliance") addCompliance();
-    else if (action === "toggle-po") { var po = state.purchaseOrders.find(function (p) { return p.id === itemId; }); if (po) { po.status = po.status === "Received" ? "Open" : "Received"; persist("Purchase order updated."); } }
-    else if (action === "record-payment") { var invoiceToPay = state.invoices.find(function (i) { return i.id === itemId; }); if (invoiceToPay) recordPayment(invoiceToPay); }
-    else if (action === "undo-payment") { var paidInvoice = state.invoices.find(function (i) { return i.id === itemId; }); if (paidInvoice) { paidInvoice.status = "Unpaid"; paidInvoice.paidAt = ""; paidInvoice.paymentMethod = ""; paidInvoice.paymentReference = ""; persist("Payment status reversed."); } }
-    else if (action === "delete-supplier" && window.confirm("Remove this supplier record?")) { state.suppliers = state.suppliers.filter(function (s) { return s.id !== itemId; }); persist("Supplier removed."); }
-    else if (action === "delete-timesheet" && window.confirm("Remove this shift record?")) { state.timesheets = state.timesheets.filter(function (s) { return s.id !== itemId; }); persist("Shift removed."); }
-    else if (action === "delete-equipment" && window.confirm("Remove this equipment record?")) { state.equipment = state.equipment.filter(function (s) { return s.id !== itemId; }); persist("Equipment record removed."); }
-    else if (action === "delete-compliance" && window.confirm("Remove this compliance record?")) { state.compliance = state.compliance.filter(function (s) { return s.id !== itemId; }); persist("Compliance record removed."); }
-    else if (action === "export-pos") csv([["PO","Supplier","Item","Project","Quantity","Rate INR","Total INR","Order date","Delivery date","Status"]].concat(state.purchaseOrders.map(function (p) { return [p.number, p.supplierName, p.item, projectName(p.projectId), p.quantity, p.rate, p.total, p.orderDate, p.deliveryDate, p.status]; })), "hari-om-purchase-orders.csv");
-    else if (action === "export-timesheets") csv([["Worker","Role","Project","Date","Hours","Overtime","Rate INR/hr","Estimated wage INR"]].concat(state.timesheets.map(function (t) { return [t.name, t.role, projectName(t.projectId), t.date, t.hours, t.overtime, t.rate, t.wage]; })), "hari-om-labour-timesheets.csv");
-    else if (action === "export-reminders") csv([["Type","Action","Due date","Details"]].concat(reminderItems().map(function (x) { return [x.type, x.name, x.date, x.detail]; })), "hari-om-reminders.csv");
-    else if (action === "print-invoice") printInvoice(state.invoices.find(function (i) { return i.id === itemId; }));
-  }
+_OÜØÜš\Ø›ÙOÚ[ˆŠNÂˆÜ\™Øİ[Y[˜ÛÜÙJ
+NÂˆB‚ˆØİ[Y[˜Y]™[\İ[™\Š˜ÛXÚÈ‹[˜İ[Ûˆ
+]™[
+HÂˆ˜\ˆ˜]ˆH]™[\™Ù]˜ÛÜÙ\İ
+–Ù]KX\Ú[™\ÜË]šY]×HŠNÂˆYˆ
+˜]ŠHÈ]™[œ™]™[Y˜][
 
-  function printInvoice(inv) {
-    if (!inv) return;
-    var popup = window.open("", "_blank");
-    if (!popup) { notify("Allow pop-ups to print the invoice."); return; }
-    popup.document.write("<!doctype html><html><head><meta charset='utf-8'><title>" + esc(inv.number) + "</title><style>body{font:14px Arial,sans-serif;max-width:800px;margin:45px auto;color:#172925}h1{font-size:24px}.muted{color:#65736a}.row{display:flex;justify-content:space-between;border-bottom:1px solid #ddd;padding:12px 0}.total{font-size:20px;font-weight:bold}</style></head><body><p class='muted'>HARI OM CONSTRUCTION</p><h1>Tax invoice</h1><div class='row'><b>Invoice</b><span>" + esc(inv.number) + "</span></div><div class='row'><b>Bill to</b><span>" + esc(inv.client) + "</span></div><div class='row'><b>Scope</b><span>" + esc(inv.description) + "</span></div><div class='row'><b>Invoice date</b><span>" + esc(dateText(inv.date)) + "</span></div><div class='row'><b>Due date</b><span>" + esc(dateText(inv.dueDate)) + "</span></div><div class='row'><b>Taxable amount</b><span>" + esc(money(inv.subtotal)) + "</span></div><div class='row'><b>GST (" + esc(inv.gst) + "%) Â· " + esc(inv.gstMode) + "</b><span>" + esc(money(inv.total - inv.subtotal)) + "</span></div><div class='row total'><b>Total due</b><span>" + esc(money(inv.total)) + "</span></div><p>" + esc(inv.terms || "") + "</p><p class='muted'>Confirm required statutory invoice details before issue.</p><script>window.onload=function(){window.print()}</script></body></html>");
-    popup.document.close();
-  }
+NÈÙ]šY]Ê˜]‹™Ù]]šX]J™]KX\Ú[™\ÜË]šY]ÈŠJNÈ™]\›ÈBˆ˜\ˆ]ÛˆH]™[\™Ù]˜ÛÜÙ\İ
+–Ù]KX\Ú[™\ÜËXXİ[Û—HŠNÂˆYˆ
+]ÛŠH[™PXİ[ÛŠ]Û‹™Ù]]šX]J™]KX\Ú[™\ÜËXXİ[ÛˆŠK]ÛŠNÂˆJNÂˆØİ[Y[˜Y]™[\İ[™\ŠœİX›Z]‹[˜İ[Ûˆ
+]™[
+HÂˆ˜\ˆÚ[™H]™[\™Ù]™Ù]]šX]J™]KX\Ú[™\ÜËY›Ü›HŠNÂˆYˆ
+ZÚ[™
+H™]\›Âˆ]™[œ™]™[Y˜][
 
-  document.addEventListener("click", function (event) {
-    var nav = event.target.closest("[data-business-view]");
-    if (nav) { event.preventDefault(); setView(nav.getAttribute("data-business-view")); return; }
-    var button = event.target.closest("[data-business-action]");
-    if (button) handleAction(button.getAttribute("data-business-action"), button);
-  });
-  document.addEventListener("submit", function (event) {
-    var kind = event.target.getAttribute("data-business-form");
-    if (!kind) return;
-    event.preventDefault();
-    if (kind === "reminders") {
-      var f = new FormData(event.target);
-      state.reminders = { emailEnabled: f.has("emailEnabled"), email: String(f.get("email") || "").trim(), whatsappEnabled: f.has("whatsappEnabled"), phone: String(f.get("phone") || "").trim(), daysAhead: Number(f.get("daysAhead")) || 3 };
-      persist("Reminder preferences saved.");
-    } else saveForm(event.target, kind);
-  });
-  window.addEventListener("office-sync-section", function (event) {
-    if (event.detail && event.detail.section === "business") { state = load(); if (activeView && window.officeActiveModule === "business") render(); }
-  });
-  if (window.OfficeSync) window.OfficeSync.ready.then(function () { state = load(); if (activeView && window.officeActiveModule === "business") render(); });
-})();
+NÂˆYˆ
+Ú[™OOHœ™[Z[™\œÈŠHÂˆ˜\ˆˆH™]È›Ü›Q]J]™[\™Ù]
+NÂˆİ]Kœ™[Z[™\œÈHÈ[XZ[[˜X›Yˆ‹š\Ê™[XZ[[˜X›YŠK[XZ[ˆİš[™Ê‹™Ù]
+™[XZ[ŠHˆŠKš[J
+KÚ]Ø\[˜X›Yˆ‹š\ÊÚ]Ø\[˜X›YŠKÛ™Nˆİš[™Ê‹™Ù]
+œÛ™HŠHˆŠKš[J
+K^\ĞZXYˆ[X™\Š‹™Ù]
+™^\ĞZXYŠJHÈNÂˆ\œÚ\İ
+”™[Z[™\ˆ™Y™\™[˜Ù\ÈØ]™YˆŠNÂˆH[ÙHØ]™Q›Ü›J]™[\™Ù]Ú[™
+NÂˆJNÂˆÛÛ[˜Y]™[\İ[™\Š˜Ú[™ÙH‹[˜İ[Ûˆ
+]™[
+HÈYˆ
+]™[\™Ù]šYOOH˜Ø\Ú\™\Ü[[Ûˆ	‰ˆ]™[\™Ù]˜[YJHÈ™\Ü[ÛH]™[\™Ù]˜[YNÈ™[™\Š
+NÈHJNÂˆÚ[™İË˜Y]™[\İ[™\Š›Ù™šXÙK\Ş[˜Ë\ÙXİ[Ûˆ‹[˜İ[Ûˆ
+]™[
+HÂˆYˆ
+]™[™]Z[	‰ˆÈ˜\Ú[™\ÜÈ‹ÛÜšÜÜXÙH‹›Ü\˜][ÛœÈ—Kš[˜ÛY\Ê]™[™]Z[œÙXİ[ÛŠJHÈİ]HHØY
 
+NÈYˆ
+Xİ]™UšY]È	‰ˆÚ[™İË›Ù™šXÙPXİ]™S[Ù[HOOH˜\Ú[™\ÜÈˆ	‰ˆ
+]™[™]Z[œÙXİ[ÛˆOOH˜\Ú[™\ÜÈˆXİ]™UšY]ÈOOH˜Ø\Ú›İÈŠJH™[™\Š
+NÈBˆJNÂˆYˆ
+Ú[™İË“Ù™šXÙTŞ[˜ÊHÚ[™İË“Ù™šXÙTŞ[˜Ëœ™XYK[Š[˜İ[Ûˆ
+
+HÈİ]HHØY
+
+NÈYˆ
+Xİ]™UšY]È	‰ˆÚ[™İË›Ù™šXÙPXİ]™S[Ù[HOOH˜\Ú[™\ÜÈŠH™[™\Š
+NÈJNÂŸJJ
+NÂ
