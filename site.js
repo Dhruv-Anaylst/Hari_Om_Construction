@@ -22,10 +22,15 @@
   }
 
   if (footer) {
-    footer.innerHTML = '<a class="brand footer-brand" href="index.html" aria-label="Hari Om Construction home">' + mark + '</a>' +
-      '<p>Pipeline infrastructure and field teams<br>for the networks that keep India moving.</p>' +
-      '<nav class="footer-links" aria-label="Footer navigation"><a href="about.html">Company</a><a href="services.html">Services</a><a href="projects.html">Project scopes</a><a href="quality.html">Quality &amp; safety</a><a href="gallery.html">Gallery</a><a href="careers.html">Careers</a><a href="contact.html">Contact</a><a href="https://tools.hariomconstruction.in">Office tools ↗</a></nav>' +
-      '<div class="footer-bottom"><span>© <span data-current-year></span> Hari Om Construction</span><a href="#top">Back to top ↑</a><span>Delhi · India</span><span class="footer-credit">Website developed and maintained by Hari Om Projects in collaboration with Dhruv Agnihotri.</span></div>';
+    footer.innerHTML = '<div class="footer-main">' +
+      '<div class="footer-brand-area"><a class="brand footer-brand" href="index.html" aria-label="Hari Om Construction home">' + mark + '</a>' +
+      '<p>Pipeline infrastructure, City Gas Distribution, and dependable field teams for projects across India.</p>' +
+      '<a class="footer-phone" href="tel:+919717022779">+91 97170 22779 ↗</a></div>' +
+      '<nav class="footer-column" aria-label="Company links"><h2>Company</h2><a href="about.html">About us</a><a href="quality.html">Quality &amp; safety</a><a href="careers.html">Careers</a></nav>' +
+      '<nav class="footer-column" aria-label="Services links"><h2>Services</h2><a href="services.html">Our services</a><a href="projects.html">Project scopes</a><a href="gallery.html">Project gallery</a></nav>' +
+      '<div class="footer-column footer-contact-column"><h2>Contact</h2><a href="contact.html">Talk to our team</a><p>Shop No-17, Pocket-18,<br>Sector-24, Rohini,<br>Delhi-110085</p><a href="https://tools.hariomconstruction.in" target="_blank" rel="noopener">Office tools ↗</a></div>' +
+      '</div><div class="footer-bottom"><span>© <span data-current-year></span> Hari Om Construction. All rights reserved.</span><span>Delhi · India</span></div>' +
+      '<p class="footer-credit">Website developed and maintained by Hari Om Projects in collaboration with Dhruv Agnihotri.</p>';
   }
 
   var menuButton = document.querySelector(".menu-toggle");
@@ -60,4 +65,3 @@
     });
   });
 })();
-
