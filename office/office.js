@@ -1,7 +1,11 @@
+Warning: truncated output (original token count: 9250)
+Total output lines: 383
+
 (function(){
   "use strict";
   var STORAGE_KEY="hariom-office-workspace-v1";
   var view="overview";
+  window.officeActiveModule="workspace";
   var labels={overview:"Overview",projects:"Projects",estimates:"Estimates",diary:"Site diary",attendance:"Attendance",pdf:"PDF Studio",portals:"Official portals"};
   var actionLabels={overview:"＋ New project",projects:"＋ New project",estimates:"＋ New estimate",diary:"＋ New site report",attendance:"＋ Mark attendance",pdf:"",portals:""};
   var quickActions={overview:"add-project",projects:"add-project",estimates:"add-estimates",diary:"add-diary",attendance:"add-attendance",pdf:"",portals:""};
@@ -21,6 +25,7 @@
   function persist(){
     try{localStorage.setItem(STORAGE_KEY,JSON.stringify(state));}
     catch(error){toast("Could not save data in this browser.");}
+    if(window.OfficeSync)window.OfficeSync.save("workspace",state);
     render();
   }
   function esc(value){
@@ -48,6 +53,7 @@
   }
   function setView(next){
     view=next;
+    window.officeActiveModule="workspace";
     document.querySelectorAll(".side-link").forEach(function(button){button.classList.toggle("active",button.getAttribute("data-view")===view);});
     document.getElementById("view-label").textContent=labels[view];
     actionButton.hidden=!quickActions[view];
@@ -91,7 +97,7 @@
       "<div class='summary-grid'>"+cards.map(function(card){return "<article class='summary-card'><div class='summary-top'><span>"+esc(card[0])+"</span><span class='summary-icon'>"+card[3]+"</span></div><div class='summary-value'>"+esc(card[1])+"</div><div class='summary-note'>"+esc(card[2])+"</div></article>";}).join("")+"</div>"+
       "<div class='workspace-grid'><section class='panel'><div class='panel-head'><h2>Project register</h2><button data-action='navigate-projects'>VIEW ALL ↗</button></div><div class='panel-body'>"+(projectRows||empty("No projects yet","Add your first project to start tracking work."))+"</div></section>"+
       "<section class='panel'><div class='panel-head'><h2>Recent site activity</h2><button data-action='navigate-diary'>OPEN DIARY ↗</button></div><div class='panel-body'>"+(recent||empty("No site reports yet","Add a site report to keep a record of field activity."))+"</div></section></div>"+
-      "<div class='notice-strip'><span>i</span><p><strong>Workspace data stays in this browser.</strong> Download a backup regularly. Shared office access and sign-in can be connected when a secure database is configured.</p><button class='quiet-button' data-action='export-backup'>Download backup</button></div>";
+      "<div class='notice-strip'><span>✓</span><p><strong>Your office records sync to your private cloud workspace.</strong> Project, estimate, attendance, supplier, invoice and operations data follow your approved sign-in across devices. Photos added to site reports are resized before secure storage.</p><button class='quiet-button' data-action='export-backup'>Download backup</button></div>";
   }
   function renderProjects(){
     var items=state.projects.map(function(project){
@@ -110,7 +116,8 @@
   }
   function renderDiary(){
     var rows=state.reports.slice().sort(function(a,b){return (b.date||"").localeCompare(a.date||"");}).map(function(report){
-      return "<div class='record-row'><span><strong>"+esc(projectName(report.projectId))+"</strong><small>"+dateText(report.date)+"</small></span><span>"+esc(report.work||"—")+"</span><span>"+esc(report.crew||"—")+" people</span><span>"+esc(report.issues||"No issues noted")+"</span></div>";
+      var photos=(report.photoIds||[]).map(function(id){var url=window.OfficeSync?window.OfficeSync.photoUrl(id):"";return "<a href='"+esc(url)+"' target='_blank' rel='noopener'><img src='"+esc(url)+"' alt='Site progress photo' loading='lazy'></a>";}).join("");
+      return "<div class='record-row'><span><strong>"+esc(projectName(report.projectId))+"</strong><small>"+dateText(report.date)+"</small></span><span>"+esc(report.work||"—")+"</span><span>"+esc(report.crew||"—")+" people</span><span>"+esc(report.issues||"No issues noted")+(photos?"<span class='report-photo-grid'>"+photos+"</span>":"")+"</span></div>";
     }).join("");
     return heading("FIELD OPERATIONS","Site diary","Record completed work, crew size and issues for each site day.","＋ New site report","add-diary")+
       "<div class='toolbar'><span class='filter-count'>"+state.reports.length+" site report"+(state.reports.length===1?"":"s")+"</span><button class='quiet-button' data-action='export-reports'>↓ Export CSV</button></div>"+
@@ -131,76 +138,9 @@
       "<section class='pdf-workspace panel'><div class='pdf-workspace-head'><div><h2>Choose your documents</h2><p>Select one PDF to edit, or multiple PDFs to combine in the order selected.</p></div><label class='primary-button pdf-select-button' for='pdf-files'>＋ Select PDF files</label><input class='pdf-file-input' id='pdf-files' type='file' accept='.pdf,application/pdf' multiple></div>"+
       "<div class='pdf-editor-grid'><div class='pdf-controls'><div class='pdf-selected-files' id='pdf-file-list'><strong>No PDFs selected</strong><small>Choose files to see their names and sizes here.</small></div>"+
       "<label class='pdf-field'>Text stamp <input id='pdf-stamp-text' type='text' maxlength='80' placeholder='e.g. HARI OM CONSTRUCTION'></label>"+
-      "<label class='pdf-field'>Pages to extract <input id='pdf-page-range' type='text' placeholder='e.g. 1, 3-5'><small>Use page numbers from the first selected PDF.</small></label>"+
-      "<div class='pdf-action-list'><button class='secondary-button' type='button' data-pdf-action='merge'>Merge selected PDFs</button><button class='quiet-button' type='button' data-pdf-action='rotate'>Rotate first PDF 90°</button><button class='quiet-button' type='button' data-pdf-action='stamp'>Add text stamp to first PDF</button><button class='quiet-button' type='button' data-pdf-action='extract'>Extract selected pages</button></div>"+
-      "<div class='pdf-status' id='pdf-status' role='status' aria-live='polite'>Choose a PDF to begin.</div><p class='pdf-limit-note'>Password-protected PDFs may not open. Scanned pages remain images; this tool does not perform OCR.</p></div>"+
-      "<div class='pdf-preview-panel'><div class='panel-head'><h2>Preview</h2><span id='pdf-preview-name'>No file selected</span></div><iframe class='pdf-preview' id='pdf-preview' title='PDF preview' hidden></iframe><div class='pdf-preview-empty' id='pdf-preview-empty'>Choose a PDF to preview it here.</div></div></div></section>"+
-      "<div class='pdf-feature-grid'><article class='summary-card'><div class='summary-top'><span>Combine</span><span class='summary-icon'>＋</span></div><div class='summary-note'>Join selected PDFs into one file.</div></article><article class='summary-card'><div class='summary-top'><span>Rotate</span><span class='summary-icon'>↻</span></div><div class='summary-note'>Turn every page in the first selected PDF.</div></article><article class='summary-card'><div class='summary-top'><span>Extract &amp; stamp</span><span class='summary-icon'>▤</span></div><div class='summary-note'>Keep chosen pages or add a text footer to each page.</div></article></div>";
-  }
-  function renderPortals(){
-    var portals=[
-      ["TAX & INVOICING","GST Portal","GST registration, returns and taxpayer services.","https://www.gst.gov.in/"],
-      ["TAX & INVOICING","e-Way Bill System","Generate and manage goods movement e-way bills.","https://ewaybillgst.gov.in/"],
-      ["TAX & INVOICING","e-Invoice System","GST e-invoice services through the NIC portal.","https://einvoice1.gst.gov.in/"],
-      ["TAX & INVOICING","Income Tax e-Filing","Income tax returns, forms and taxpayer services.","https://www.incometax.gov.in/iec/foportal/"],
-      ["BUSINESS","Ministry of Corporate Affairs","MCA21 company and LLP filings and services.","https://www.mca.gov.in/"],
-      ["PEOPLE & LABOUR","EPFO Employer Portal","Employer sign-in and provident fund services.","https://unifiedportal-emp.epfindia.gov.in/epfo/"],
-      ["PEOPLE & LABOUR","ESIC Services","Employees’ State Insurance employer and employee services.","https://www.esic.gov.in/"],
-      ["PEOPLE & LABOUR","Shram Suvidha","Labour registrations, licensing and returns.","https://registration.shramsuvidha.gov.in/"],
-      ["TENDERS","Government e-Marketplace","GeM buying, selling and public procurement services.","https://gem.gov.in/"],
-      ["TENDERS","Central Public Procurement Portal","Search central government tenders and e-procurement notices.","https://eprocure.gov.in/cppp/"],
-      ["BUSINESS","Udyam Registration","Official MSME registration and enterprise services.","https://udyamregistration.gov.in/"],
-      ["OFFICE APPS","Microsoft 365","Word, Excel, PowerPoint, Outlook and OneDrive on the web.","https://www.microsoft365.com/"]
-    ];
-    var cards=portals.map(function(item){return "<article class='portal-card' data-portal-card><div class='portal-card-top'><span class='portal-category'>"+esc(item[0])+"</span><span class='portal-arrow'>↗</span></div><h2>"+esc(item[1])+"</h2><p>"+esc(item[2])+"</p><a href='"+esc(item[3])+"' target='_blank' rel='noopener noreferrer'>Open official site ↗</a></article>";}).join("");
-    return heading("SOFTWARE DIRECTORY","Official portals & office apps","Quick links for tax, labour, tenders and daily office work.","","")+ 
-      "<div class='portal-security-note'><strong>These are shortcuts, not copies of government services.</strong><span>Sign in and enter OTPs only on the official website shown in the address bar.</span></div>"+
-      "<div class='toolbar portal-toolbar'><span class='filter-count'>"+portals.length+" official links</span><div class='search-box'><input id='portal-search' type='search' placeholder='Search portals or apps'></div></div>"+
-      "<div class='portal-grid'>"+cards+"</div>";
-  }
-  function render(){
-    var screens={overview:renderOverview,projects:renderProjects,estimates:renderEstimates,diary:renderDiary,attendance:renderAttendance,pdf:renderPdfStudio,portals:renderPortals};
-    content.innerHTML=screens[view]();
-  }
-  function openModal(title,body,wide){
-    modalRoot.innerHTML="<div class='modal-backdrop' data-action='backdrop-close'><section class='modal"+(wide?" wide":"")+"' role='dialog' aria-modal='true' aria-label='"+esc(title)+"'><header class='modal-head'><h2>"+esc(title)+"</h2><button class='close-button' data-action='close-modal' aria-label='Close'>×</button></header>"+body+"</section></div>";
-    var first=modalRoot.querySelector("input,select,textarea");
-    if(first)first.focus();
-  }
-  function closeModal(){modalRoot.innerHTML="";}
-  function field(label,name,placeholder,type,required,value){
-    return "<div class='field'><label for='field-"+esc(name)+"'>"+esc(label)+"</label><input id='field-"+esc(name)+"' name='"+esc(name)+"' type='"+(type||"text")+"' placeholder='"+esc(placeholder||"")+"'"+(required?" required":"")+(value?" value='"+esc(value)+"'":"")+"></div>";
-  }
-  function projectForm(){
-    var body="<form class='modal-form' data-form='project'><div class='form-grid'>"+
-      field("Project / scope name","name","e.g. City gas network extension","text",true)+
-      field("Client / organisation","client","Client name","text",false)+
-      field("Location","location","City, state","text",false)+
-      "<div class='field'><label for='field-status'>Status</label><select id='field-status' name='status'><option>Planning</option><option selected>Active</option><option>On hold</option><option>Completed</option></select></div>"+
-      field("Project value (₹)","budget","Optional","number",false)+field("Start date","startDate","","date",false)+
-      "</div><div class='form-actions'><button type='button' class='quiet-button' data-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save project</button></div></form>";
-    openModal("Add a project",body,false);
-  }
-  function estimateForm(){
-    var date=localDate();
-    var body="<form class='modal-form' data-form='estimate'><div class='form-grid'>"+
-      field("Client","client","Client / organisation","text",true)+field("Estimate title","title","e.g. Pipeline laying works","text",true)+
-      field("Estimate date","date","","date",true,date)+
-      "<div class='field'><label for='field-gst'>GST rate</label><select id='field-gst' name='gst'><option value='0'>0%</option><option value='5'>5%</option><option value='12'>12%</option><option selected value='18'>18%</option><option value='28'>28%</option></select></div>"+
-      "<div class='field full'><label>Line items</label><div class='line-items'><div class='line-items-head'><span>Description</span><span>Qty</span><span>Rate (₹)</span><span></span></div><div id='quote-lines'><div class='line-item'><input name='description' placeholder='Work description' required><input name='quantity' type='number' min='0.01' step='0.01' value='1' aria-label='Quantity' required><input name='rate' type='number' min='0' step='0.01' placeholder='0.00' aria-label='Rate' required><button type='button' class='remove-line' data-action='remove-line' aria-label='Remove line'>×</button></div></div></div>"+
-      "<button type='button' class='quiet-button' style='margin-top:8px' data-action='add-line'>＋ Add line</button><div class='estimate-live-total'><span>Estimate total incl. GST</span><strong id='live-total'>₹0</strong></div></div>"+
-      "<div class='field full'><label for='field-notes'>Notes / terms</label><textarea id='field-notes' name='notes' placeholder='Optional payment or scope notes'></textarea></div>"+
-      "</div><div class='form-actions'><button type='button' class='quiet-button' data-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save estimate</button></div></form>";
-    openModal("New estimate",body,true);
-    updateEstimateTotal();
-  }
-  function siteReportForm(projectId){
-    var date=localDate();
-    var body="<form class='modal-form' data-form='report'><div class='form-grid'>"+
-      "<div class='field full'><label for='field-projectId'>Project / site</label><select id='field-projectId' name='projectId'>"+projectSelect()+"</select></div>"+
-      field("Report date","date","","date",true,date)+field("Crew on site","crew","Number of people","number",false)+
-      "<div class='field full'><label for='field-work'>Work completed</label><textarea id='field-work' name='work' placeholder='Summary of work completed today' required></textarea></div>"+
+      "<label class='pdf-field'>Pages to extract <input id='pdf-page-r…2250 tokens truncated…rea id='field-work' name='work' placeholder='Summary of work completed today' required></textarea></div>"+
       "<div class='field full'><label for='field-issues'>Issues / follow-up</label><textarea id='field-issues' name='issues' placeholder='Optional blockers, material needs or follow-up'></textarea></div>"+
+      "<div class='field full'><label for='field-photos'>Progress photos <span class='field-hint'>Add up to 4 JPEG, PNG or WebP images. Photos are resized before secure cloud storage.</span></label><input id='field-photos' name='photos' type='file' accept='image/jpeg,image/png,image/webp' multiple></div>"+
       "</div><div class='form-actions'><button type='button' class='quiet-button' data-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save site report</button></div></form>";
     openModal("New site report",body,false);
     if(projectId){var select=modalRoot.querySelector("[name='projectId']");if(select)select.value=projectId;}
@@ -241,10 +181,19 @@
     state.quotes.unshift({id:makeId(),number:number,client:data.get("client").trim(),title:data.get("title").trim(),date:data.get("date"),gst:gst,items:items,subtotal:subtotal,total:subtotal*(1+gst/100),notes:data.get("notes").trim(),createdAt:new Date().toISOString()});
     closeModal();persist();toast("Estimate saved.");
   }
-  function saveReport(form){
+  async function saveReport(form){
     var data=new FormData(form);
-    state.reports.unshift({id:makeId(),projectId:data.get("projectId")||"",date:data.get("date"),crew:data.get("crew"),work:data.get("work").trim(),issues:data.get("issues").trim()});
-    closeModal();persist();toast("Site report saved.");
+    var reportId=makeId(),photoIds=[],files=Array.from(form.querySelector("[name='photos']").files||[]).slice(0,4),submit=form.querySelector("[type='submit']");
+    if(form.querySelector("[name='photos']").files.length>4){toast("Choose up to four photos for one site report.");return;}
+    if(submit){submit.disabled=true;submit.textContent=files.length?"Saving report and photos…":"Saving report…";}
+    try{
+      for(var file of files){
+        if(!window.OfficeSync)throw new Error("Cloud photo storage is not available.");
+        var result=await window.OfficeSync.uploadPhoto(file,reportId);photoIds.push(result.id);
+      }
+      state.reports.unshift({id:reportId,projectId:data.get("projectId")||"",date:data.get("date"),crew:data.get("crew"),work:data.get("work").trim(),issues:data.get("issues").trim(),photoIds:photoIds});
+      closeModal();persist();toast("Site report saved with "+photoIds.length+" photo"+(photoIds.length===1?".":"s."));
+    }catch(error){if(submit){submit.disabled=false;submit.textContent="Save site report";}toast(error.message||"Could not save the site report.");}
   }
   function saveAttendance(form){
     var data=new FormData(form);
@@ -279,8 +228,10 @@
   }
   function exportBackup(){
     var operations={};
+    var business={};
     try{operations=JSON.parse(localStorage.getItem("hariom-office-operations-v1")||"{}");}catch(error){}
-    downloadFile("hari-om-office-backup-"+localDate()+".json",JSON.stringify({exportedAt:new Date().toISOString(),workspace:state,operations:operations},null,2),"application/json");
+    try{business=JSON.parse(localStorage.getItem("hariom-office-business-v1")||"{}");}catch(error){}
+    downloadFile("hari-om-office-backup-"+localDate()+".json",JSON.stringify({exportedAt:new Date().toISOString(),workspace:state,operations:operations,business:business},null,2),"application/json");
     toast("Workspace backup downloaded.");
   }
   function printQuote(id){
@@ -359,5 +310,9 @@
     }
   });
   render();
+  if(window.OfficeSync){
+    window.addEventListener("office-sync-ready",function(){state=loadState();if(window.officeActiveModule==="workspace")render();});
+    window.addEventListener("office-sync-section",function(event){if(event.detail&&event.detail.section==="workspace"){state=loadState();if(window.officeActiveModule==="workspace")render();}});
+  }
 })();
 

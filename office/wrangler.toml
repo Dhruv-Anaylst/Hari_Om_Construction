@@ -1,3 +1,11 @@
 name = "hari-om-office-tools"
 compatibility_date = "2026-09-06"
 pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hari-om-office"
+database_id = "f265d53a-12cd-460f-bba9-cb623fb6cb98"
+preview_database_id = "70d56ede-a007-4f5c-ba7a-f7bc9fd2e94f"
+migrations_dir = "migrations"
+

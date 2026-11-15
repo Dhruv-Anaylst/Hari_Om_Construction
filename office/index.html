@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="office.css?v=20261115-workspace">
+  <link rel="stylesheet" href="office.css?v=20261115-business-cloud">
 </head>
 <body class="office-app">
   <aside class="sidebar">
@@ -30,11 +30,17 @@
       <button class="side-link" data-operation-view="documents"><span class="side-icon">▧</span>Documents</button>
       <button class="side-link" data-operation-view="materials"><span class="side-icon">▤</span>Materials &amp; stock</button>
       <button class="side-link" data-operation-view="calculators"><span class="side-icon">∑</span>Calculators</button>
+      <div class="side-label business-nav-label">BUSINESS TOOLS</div>
+      <button class="side-link" data-business-view="procurement"><span class="side-icon">▤</span>Suppliers &amp; purchase orders</button>
+      <button class="side-link" data-business-view="invoices"><span class="side-icon">₹</span>Invoices &amp; payments</button>
+      <button class="side-link" data-business-view="timesheets"><span class="side-icon">◷</span>Labour timesheets</button>
+      <button class="side-link" data-business-view="assets"><span class="side-icon">⚙</span>Equipment &amp; compliance</button>
+      <button class="side-link" data-business-view="reminders"><span class="side-icon">◉</span>Reminders</button>
       <button class="side-link" data-view="pdf"><span class="side-icon">▤</span>PDF Studio</button>
       <button class="side-link" data-view="portals"><span class="side-icon">↗</span>Official portals</button>
     </nav>
     <div class="sidebar-bottom">
-      <div class="storage-card"><span class="storage-dot"></span><div><strong>Browser workspace</strong><small>Saved on this device</small></div></div>
+      <div class="storage-card"><span class="storage-dot"></span><div><strong>Private cloud workspace</strong><small>Syncs across your devices</small></div></div>
       <button class="side-utility" data-action="export-backup"><span>↓</span> Download data backup</button>
       <a class="back-site" href="https://hariomconstruction.in">← Back to hariomconstruction.in</a>
     </div>
@@ -42,14 +48,16 @@
   <main class="office-main">
     <header class="office-topbar">
       <div class="breadcrumb"><span>HARI OM</span><i>/</i><strong id="view-label">Overview</strong></div>
-      <div class="topbar-right"><span class="today-label" id="today-label"></span><button class="topbar-action" id="top-action" data-action="add-project">＋ New project</button></div>
+      <div class="topbar-right"><span class="today-label" id="today-label"></span><span class="sync-status" id="sync-status" role="status">Connecting to your private workspace…</span><button class="topbar-action" id="top-action" data-action="add-project">＋ New project</button></div>
     </header>
     <section class="office-content" id="office-content" aria-live="polite"></section>
-    <footer class="office-footer"><span>HARI OM CONSTRUCTION</span><span>Office workspace · Data stored in this browser</span></footer>
+    <footer class="office-footer"><span>HARI OM CONSTRUCTION</span><span>Private office workspace · Synced across your devices</span></footer>
   </main>
   <div id="modal-root"></div>
-  <script src="office.js?v=20261106-readable"></script>
-  <script src="operations.js?v=20261115-tasks-documents"></script>
+  <script src="sync.js?v=20261115-cloud"></script>
+  <script src="office.js?v=20261115-photos-cloud"></script>
+  <script src="operations.js?v=20261115-tasks-documents-cloud"></script>
+  <script src="business.js?v=20261115-office-features"></script>
   <script src="pdf.js?v=20261030-software"></script>
 </body>
 </html>
