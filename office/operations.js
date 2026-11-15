@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 9215)
-Total output lines: 178
-
 (function(){
   "use strict";
   var KEY="hariom-office-operations-v1";
@@ -82,7 +79,44 @@ Total output lines: 178
   function taskPriority(priority){return "<span class='task-priority task-priority-"+String(priority||"Normal").toLowerCase()+"'>"+esc(priority||"Normal")+"</span>";}
   function taskDue(task){if(task.status==="Done")return "<span class='task-date-complete'>Completed</span>";if(!task.dueDate)return "<span class='task-date-muted'>No due date</span>";if(task.dueDate<localDate())return "<span class='task-date-overdue'>Overdue · "+fmtDate(task.dueDate)+"</span>";if(task.dueDate===localDate())return "<span class='task-date-today'>Due today</span>";return fmtDate(task.dueDate);}
   function renderTasks(){
-    var today=localDate(),soon=new Date();soon.setDate(soon.getDate()+7);var soonDate=soon.getFullYear()+"-"+String(soon.getMonth()+1).padStart(2,"0")+"-"+Stri…2215 tokens truncated…xt","e.g. 110 mm MDPE pipe",true)+projectSelectField()+formField("Store / location","location","text","e.g. Sector 24 site store",false)+
+    var today=localDate(),soon=new Date();soon.setDate(soon.getDate()+7);var soonDate=soon.getFullYear()+"-"+String(soon.getMonth()+1).padStart(2,"0")+"-"+String(soon.getDate()).padStart(2,"0");
+    var open=state.tasks.filter(function(task){return task.status!=="Done";});
+    var overdue=open.filter(function(task){return task.dueDate&&task.dueDate<today;}).length;
+    var dueSoon=open.filter(function(task){return task.dueDate&&task.dueDate>=today&&task.dueDate<=soonDate;}).length;
+    var sorted=state.tasks.slice().sort(function(a,b){var aDate=a.status==="Done"?"9999-12-31":a.dueDate||"9999-12-30",bDate=b.status==="Done"?"9999-12-31":b.dueDate||"9999-12-30";return aDate.localeCompare(bDate);});
+    var rows=sorted.map(function(task){return "<tr data-task-row data-status='"+esc(task.status||"Open")+"'><td><strong>"+esc(task.title)+"</strong><small>"+esc(task.project||"General / unassigned")+(task.notes?" · "+esc(task.notes):"")+"</small></td><td>"+taskDue(task)+"</td><td>"+esc(task.assignee||"Unassigned")+"</td><td>"+taskPriority(task.priority)+"</td><td>"+taskState(task.status)+"</td><td><button class='quiet-button task-toggle' data-operation-action='toggle-task' data-id='"+esc(task.id)+"' data-next-status='"+(task.status==="Done"?"Open":"Done")+"'>"+(task.status==="Done"?"Reopen":"Mark done")+"</button></td></tr>";}).join("");
+    return opHeading("FIELD & OFFICE WORK","Tasks & follow-ups","Keep site actions, owners and due dates visible in one register.","＋ Add task","add-task")+
+      "<div class='summary-grid ops-summary-grid'>"+summary("Open tasks",open.length,"Still in progress","✓")+summary("Due in 7 days",dueSoon,"Scheduled follow-ups","◷")+summary("Overdue",overdue,"Needs attention","!")+"</div>"+
+      "<div class='toolbar'><span class='filter-count'>"+state.tasks.length+" task"+(state.tasks.length===1?"":"s")+"</span><div class='search-box'><input id='task-search' type='search' placeholder='Search task, owner or project'></div><select id='task-status-filter' aria-label='Filter tasks'><option value='all'>All statuses</option><option>Open</option><option>In progress</option><option>Done</option></select><button class='quiet-button' data-operation-action='export-tasks'>↓ Export CSV</button></div>"+
+      "<div class='ops-table-wrap'><table class='ops-table task-table'><thead><tr><th>Task / project</th><th>Due</th><th>Owner</th><th>Priority</th><th>Status</th><th></th></tr></thead><tbody>"+(rows||"<tr><td colspan='6' class='ops-empty'>No tasks yet. Add an action or follow-up to start your list.</td></tr>")+"</tbody></table></div>";
+  }
+  function documentExpiry(document){if(!document.expiryDate)return "<span class='task-date-muted'>No expiry date</span>";if(document.expiryDate<localDate())return "<span class='task-date-overdue'>Expired · "+fmtDate(document.expiryDate)+"</span>";var cutoff=new Date();cutoff.setDate(cutoff.getDate()+30);var soon=cutoff.getFullYear()+"-"+String(cutoff.getMonth()+1).padStart(2,"0")+"-"+String(cutoff.getDate()).padStart(2,"0");return document.expiryDate<=soon?"<span class='task-date-today'>Renew by "+fmtDate(document.expiryDate)+"</span>":fmtDate(document.expiryDate);}
+  function safeDocumentUrl(value){return /^https?:\/\//i.test(String(value||""))?String(value):"";}
+  function renderDocuments(){
+    var expired=state.documents.filter(function(item){return item.expiryDate&&item.expiryDate<localDate();}).length;
+    var cutoff=new Date();cutoff.setDate(cutoff.getDate()+30);var cutoffDate=cutoff.getFullYear()+"-"+String(cutoff.getMonth()+1).padStart(2,"0")+"-"+String(cutoff.getDate()).padStart(2,"0");
+    var renewing=state.documents.filter(function(item){return item.expiryDate&&item.expiryDate>=localDate()&&item.expiryDate<=cutoffDate;}).length;
+    var sorted=state.documents.slice().sort(function(a,b){return (b.updatedAt||"").localeCompare(a.updatedAt||"");});
+    var rows=sorted.map(function(item){var url=safeDocumentUrl(item.url);return "<tr data-document-row><td><strong>"+esc(item.name)+"</strong><small>"+esc(item.category||"Other")+" · "+esc(item.project||"General / unassigned")+(item.notes?" · "+esc(item.notes):"")+"</small></td><td>"+esc(item.revision||"—")+"</td><td>"+fmtDate(item.issueDate)+"</td><td>"+documentExpiry(item)+"</td><td>"+(url?"<a class='document-open' href='"+esc(url)+"' target='_blank' rel='noopener noreferrer'>Open file ↗</a>":"<span class='task-date-muted'>No link</span>")+"</td><td><button class='row-action' data-operation-action='delete-document' data-id='"+esc(item.id)+"' aria-label='Remove document'>×</button></td></tr>";}).join("");
+    return opHeading("PROJECT RECORDS","Document register","Track drawings, permits, certificates and key project files.","＋ Add document","add-document")+
+      "<div class='summary-grid ops-summary-grid'>"+summary("Documents",state.documents.length,"Saved in this browser","▧")+summary("Expiring soon",renewing,"Due within 30 days","◷")+summary("Expired",expired,"Needs review","!")+"</div>"+
+      "<div class='doc-note'>This register stores file links and document details in this browser. File access still follows the permissions on your linked storage service.</div>"+
+      "<div class='toolbar'><span class='filter-count'>"+state.documents.length+" record"+(state.documents.length===1?"":"s")+"</span><div class='search-box'><input id='document-search' type='search' placeholder='Search name, type or project'></div><button class='quiet-button' data-operation-action='export-documents'>↓ Export CSV</button></div>"+
+      "<div class='ops-table-wrap'><table class='ops-table document-table'><thead><tr><th>Document / project</th><th>Revision</th><th>Issued</th><th>Expiry</th><th>File</th><th></th></tr></thead><tbody>"+(rows||"<tr><td colspan='6' class='ops-empty'>No documents registered yet. Add a record and a link to its approved file.</td></tr>")+"</tbody></table></div>";
+  }
+  function render(){if(activeView==="expenses")content.innerHTML=renderExpenses();if(activeView==="materials")content.innerHTML=renderMaterials();if(activeView==="calculators"){content.innerHTML=renderCalculators();calculateAll();}if(activeView==="tasks")content.innerHTML=renderTasks();if(activeView==="documents")content.innerHTML=renderDocuments();}
+  function openModal(title,form){modal.innerHTML="<div class='modal-backdrop ops-backdrop'><section class='modal' role='dialog' aria-modal='true' aria-label='"+esc(title)+"'><header class='modal-head'><h2>"+esc(title)+"</h2><button class='close-button' data-operation-action='close-modal' aria-label='Close'>×</button></header>"+form+"</section></div>";var first=modal.querySelector("input,select,textarea");if(first)first.focus();}
+  function closeModal(){modal.innerHTML="";}
+  function formField(labelText,name,type,placeholder,required,value){return "<div class='field'><label for='ops-"+esc(name)+"'>"+esc(labelText)+"</label><input id='ops-"+esc(name)+"' name='"+esc(name)+"' type='"+(type||"text")+"' placeholder='"+esc(placeholder||"")+"'"+(required?" required":"")+(value!=null?" value='"+esc(value)+"'":"")+"></div>";}
+  function projectSelectField(){return "<div class='field'><label for='ops-project'>Project / site</label><select id='ops-project' name='project'><option value=''>General / unassigned</option>"+getProjects().map(function(item){return "<option>"+esc(item.name)+"</option>";}).join("")+"</select></div>";}
+  function expenseForm(){
+    var form="<form class='modal-form' data-operations-form='expense'><div class='form-grid'>"+formField("Date","date","date","",true,localDate())+projectSelectField()+
+      "<div class='field'><label for='ops-category'>Category</label><select id='ops-category' name='category'><option>Materials</option><option>Equipment</option><option>Transport</option><option>Wages / labour</option><option>Fuel</option><option>Meals / site welfare</option><option>Utilities</option><option>Other</option></select></div>"+formField("Payee / supplier","payee","text","Name",true)+formField("Amount (₹)","amount","number","0.00",true)+
+      "<div class='field'><label for='ops-mode'>Payment method</label><select id='ops-mode' name='mode'><option>Bank transfer</option><option>UPI</option><option>Cash</option><option>Card</option><option>Other</option></select></div><div class='field'><label for='ops-status'>Payment status</label><select id='ops-status' name='status'><option>Paid</option><option>Unpaid</option></select></div><div class='field full'><label for='ops-note'>Notes / reference</label><textarea id='ops-note' name='note' placeholder='Invoice number, purpose or reference'></textarea></div></div><div class='form-actions'><button type='button' class='quiet-button' data-operation-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save expense</button></div></form>";
+    openModal("Add expense",form);
+  }
+  function materialForm(){
+    var form="<form class='modal-form' data-operations-form='material'><div class='form-grid'>"+formField("Material / item","name","text","e.g. 110 mm MDPE pipe",true)+projectSelectField()+formField("Store / location","location","text","e.g. Sector 24 site store",false)+
       "<div class='field'><label for='ops-unit'>Unit</label><select id='ops-unit' name='unit'><option>pcs</option><option>m</option><option>kg</option><option>tonne</option><option>bag</option><option>litre</option><option>set</option><option>other</option></select></div>"+formField("Opening quantity","quantity","number","0",true)+formField("Reorder level","reorderAt","number","Low-stock alert threshold",false,"0")+
       "</div><div class='form-actions'><button type='button' class='quiet-button' data-operation-action='close-modal'>Cancel</button><button class='primary-button' type='submit'>Save material</button></div></form>";
     openModal("Add material to stock",form);
@@ -141,4 +175,3 @@ Total output lines: 178
   window.addEventListener("office-sync-ready",function(){state=load();if(activeView&&window.officeActiveModule==="operations")render();});
   window.addEventListener("office-sync-section",function(event){if(event.detail&&event.detail.section==="operations"){state=load();if(activeView&&window.officeActiveModule==="operations")render();}});
 })();
-
